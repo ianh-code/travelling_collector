@@ -1,0 +1,700 @@
+1:
+0	inf	8
+9	0	3
+inf	4	0
+Profit: 27
+Path: [0, 2, 1]
+Calculation Time: 1.3309714794158936
+2:
+0	3	inf
+15	0	4
+inf	2	0
+Profit: 26
+Path: [0, 1, 2]
+Calculation Time: 1.2959668636322021
+3:
+0	inf	7
+inf	0	5
+inf	inf	0
+Profit: 0
+Path: []
+Calculation Time: 0.8669729232788086
+4:
+0	10	inf
+11	0	15
+6	4	0
+Profit: 22
+Path: [0, 1]
+Calculation Time: 1.742933988571167
+5:
+0	15	inf
+7	0	inf
+0	11	0
+Profit: 29
+Path: [0, 1]
+Calculation Time: 1.7459795475006104
+6:
+0	12	inf
+13	0	8
+11	inf	0
+Profit: 25
+Path: [0, 1, 2]
+Calculation Time: 1.2982287406921387
+7:
+0	11	5
+1	0	15
+2	9	0
+Profit: 20
+Path: [0, 2, 1]
+Calculation Time: 1.295292615890503
+8:
+0	10	10
+9	0	inf
+5	inf	0
+Profit: 16
+Path: [0, 2]
+Calculation Time: 1.7373924255371094
+9:
+0	inf	13
+inf	0	10
+4	4	0
+Profit: 21
+Path: [0, 2, 1]
+Calculation Time: 1.2962934970855713
+10:
+0	8	15
+10	0	inf
+0	0	0
+Profit: 33
+Path: [0, 2, 1]
+Calculation Time: 1.3323018550872803
+11:
+0	9	3	inf
+inf	0	inf	2
+inf	2	0	4
+1	inf	9	0
+Profit: 44
+Path: [0, 2, 1, 3]
+Calculation Time: 2.167489528656006
+12:
+0	6	5	15
+6	0	7	6
+13	inf	0	7
+0	inf	inf	0
+Profit: 35
+Path: [0, 1, 3, 0, 2]
+Calculation Time: 2.165489435195923
+13:
+0	6	15	15
+14	0	inf	0
+15	2	0	8
+inf	4	4	0
+Profit: 14
+Path: [0, 1, 3, 2]
+Calculation Time: 2.1624884605407715
+14:
+0	inf	6	2
+inf	0	inf	15
+10	12	0	inf
+7	7	12	0
+Profit: 28
+Path: [0, 3, 1]
+Calculation Time: 2.61859130859375
+15:
+0	2	9	inf
+2	0	9	0
+6	15	0	1
+13	8	1	0
+Profit: 43
+Path: [0, 1, 3, 2]
+Calculation Time: 2.1744916439056396
+16:
+0	inf	1	2
+10	0	inf	12
+0	inf	0	13
+11	15	9	0
+Profit: 30
+Path: [0, 2, 0, 3, 1]
+Calculation Time: 2.1834933757781982
+17:
+0	1	5	inf
+10	0	1	1
+15	9	0	inf
+9	0	5	0
+Profit: 46
+Path: [0, 1, 3, 1, 2]
+Calculation Time: 2.207498788833618
+18:
+0	7	inf	2
+9	0	2	inf
+4	inf	0	1
+13	5	15	0
+Profit: 34
+Path: [0, 1, 2, 3]
+Calculation Time: 2.23366641998291
+19:
+0	4	1	3
+13	0	10	15
+3	6	0	15
+5	13	8	0
+Profit: 25
+Path: [0, 3, 0, 2]
+Calculation Time: 2.601637601852417
+20:
+0	4	14	7
+8	0	inf	9
+6	8	0	1
+11	13	7	0
+Profit: 26
+Path: [0, 1, 3]
+Calculation Time: 2.6061060428619385
+21:
+0	4	inf	inf	6
+5	0	2	4	9
+10	13	0	6	10
+inf	0	inf	0	1
+11	inf	inf	13	0
+Profit: 44
+Path: [0, 1, 2, 3, 4]
+Calculation Time: 3.0983636379241943
+22:
+0	13	inf	4	4
+11	0	11	9	4
+13	15	0	1	5
+8	9	inf	0	2
+7	inf	11	8	0
+Profit: 36
+Path: [0, 3, 4, 3, 1]
+Calculation Time: 3.5027916431427
+23:
+0	inf	1	6	6
+5	0	5	15	7
+15	1	0	1	2
+6	4	inf	0	5
+inf	5	1	inf	0
+Profit: 28
+Path: [0, 2, 3, 4, 2, 1]
+Calculation Time: 3.0356860160827637
+24:
+0	9	2	6	0
+1	0	1	0	inf
+1	inf	0	1	13
+3	15	10	0	12
+13	2	11	11	0
+Profit: 32
+Path: [0, 2, 0, 1, 3, 0, 4]
+Calculation Time: 3.0516903400421143
+25:
+0	8	4	1	12
+6	0	0	1	1
+9	inf	0	inf	8
+3	inf	15	0	inf
+0	2	11	inf	0
+Profit: 21
+Path: [0, 1, 4, 1, 2]
+Calculation Time: 3.5057923793792725
+26:
+0	inf	3	7	14
+10	0	inf	3	inf
+5	4	0	2	inf
+4	0	11	0	4
+10	15	12	inf	0
+Profit: 36
+Path: [0, 2, 1, 3, 4]
+Calculation Time: 3.0566909313201904
+27:
+0	inf	12	12	3
+14	0	15	13	inf
+12	5	0	inf	inf
+3	12	0	0	11
+14	6	2	12	0
+Profit: 48
+Path: [0, 4, 3, 2, 1]
+Calculation Time: 3.0666935443878174
+28:
+0	3	inf	inf	13
+1	0	inf	9	12
+1	10	0	6	inf
+inf	15	2	0	9
+7	8	5	2	0
+Profit: 43
+Path: [0, 1, 4, 3, 2]
+Calculation Time: 3.037686586380005
+29:
+0	5	6	0	11
+14	0	11	0	11
+1	7	0	inf	14
+5	inf	13	0	inf
+7	14	7	3	0
+Profit: 25
+Path: [0, 4, 2, 0, 1, 3]
+Calculation Time: 3.071204423904419
+30:
+0	inf	6	inf	inf
+7	0	14	9	8
+3	12	0	inf	inf
+inf	inf	0	0	5
+3	11	3	2	0
+Profit: 18
+Path: [0, 2, 1]
+Calculation Time: 2.6313881874084473
+31:
+0	0	4	15	inf	12
+inf	0	4	7	13	8
+inf	inf	0	inf	2	9
+inf	15	inf	0	1	0
+5	11	6	inf	0	1
+12	inf	7	12	0	0
+Profit: 38
+Path: [0, 1, 2, 4, 0, 1, 3]
+Calculation Time: 3.07704496383667
+32:
+0	6	8	13	3	3
+11	0	12	15	3	10
+10	3	0	inf	6	inf
+4	inf	inf	0	8	12
+9	14	2	inf	0	2
+4	inf	0	9	1	0
+Profit: 36
+Path: [0, 4, 2, 4, 5, 2, 1]
+Calculation Time: 5.21176552772522
+33:
+0	1	7	inf	0	1
+15	0	7	2	7	inf
+3	9	0	7	0	15
+7	7	inf	0	inf	inf
+13	11	0	8	0	0
+8	3	3	11	inf	0
+Profit: 44
+Path: [0, 4, 5, 1, 3, 0, 4, 2]
+Calculation Time: 3.9148848056793213
+34:
+0	inf	7	1	inf	5
+5	0	inf	2	inf	3
+2	0	0	2	15	0
+2	inf	6	0	0	inf
+8	6	7	9	0	2
+inf	2	13	inf	inf	0
+Profit: 29
+Path: [0, 3, 2, 3, 4, 5, 1]
+Calculation Time: 3.9288883209228516
+35:
+0	12	6	inf	8	inf
+5	0	inf	12	10	inf
+inf	2	0	8	3	5
+3	4	3	0	inf	11
+6	12	9	9	0	2
+6	5	3	inf	4	0
+Profit: 50
+Path: [0, 2, 3, 1]
+Calculation Time: 4.36598801612854
+36:
+0	inf	7	3	inf	15
+4	0	6	5	6	4
+inf	12	0	6	10	2
+13	11	3	0	0	inf
+inf	2	15	inf	0	1
+inf	11	10	15	14	0
+Profit: 62
+Path: [0, 3, 4, 1, 2, 5]
+Calculation Time: 3.90088152885437
+37:
+0	inf	14	8	13	inf
+15	0	1	6	10	9
+10	9	0	14	11	9
+inf	2	4	0	4	12
+1	11	inf	11	0	12
+12	15	inf	15	inf	0
+Profit: 45
+Path: [0, 3, 1, 2, 5]
+Calculation Time: 4.429006099700928
+38:
+0	inf	13	13	1	inf
+3	0	inf	inf	4	5
+15	8	0	12	6	inf
+7	2	4	0	inf	inf
+6	13	8	12	0	6
+7	3	inf	10	inf	0
+Profit: 41
+Path: [0, 4, 2, 1]
+Calculation Time: 3.4675235748291016
+39:
+0	0	8	inf	5	0
+9	0	inf	inf	10	7
+inf	14	0	7	7	5
+6	12	14	0	13	7
+15	5	11	inf	0	3
+15	15	inf	2	15	0
+Profit: 63
+Path: [0, 2, 3, 0, 1, 4, 5]
+Calculation Time: 3.9356002807617188
+40:
+0	5	9	15	10	4
+inf	0	14	inf	14	inf
+12	inf	0	10	15	7
+10	inf	4	0	inf	11
+12	12	10	11	0	inf
+12	6	7	8	5	0
+Profit: 39
+Path: [0, 4, 0, 5, 2]
+Calculation Time: 2.206623077392578
+41:
+0	14	10	0	15	10	5
+9	0	10	4	5	inf	9
+inf	11	0	10	11	14	inf
+5	11	15	0	12	8	2
+13	15	inf	11	0	11	9
+inf	inf	9	2	inf	0	inf
+inf	5	5	11	12	3	0
+Profit: 62
+Path: [0, 3, 6, 5, 3, 6, 1, 4]
+Calculation Time: 6.078995943069458
+42:
+0	13	inf	inf	inf	5	8
+6	0	14	12	inf	6	12
+15	11	0	0	3	inf	inf
+4	7	inf	0	3	9	12
+3	9	3	5	0	11	15
+4	8	12	11	12	0	4
+9	15	inf	6	11	10	0
+Profit: 48
+Path: [0, 6, 4, 2, 3, 1]
+Calculation Time: 3.98590087890625
+43:
+0	inf	12	14	inf	inf	2
+14	0	12	5	inf	8	inf
+inf	inf	0	4	8	12	10
+10	inf	15	0	inf	7	inf
+inf	inf	inf	inf	0	7	12
+6	inf	inf	12	11	0	2
+11	inf	15	3	8	inf	0
+Profit: 47
+Path: [0, 6, 3, 2, 3, 5, 6, 4]
+Calculation Time: 7.975870370864868
+44:
+0	inf	10	inf	11	13	inf
+3	0	inf	0	12	inf	12
+8	2	0	15	5	13	13
+inf	15	7	0	5	15	14
+4	inf	inf	inf	0	inf	0
+4	11	12	7	3	0	14
+13	7	inf	1	7	1	0
+Profit: 28
+Path: [0, 2, 1, 3, 4, 6, 5]
+Calculation Time: 4.814087629318237
+45:
+0	12	11	inf	15	inf	15
+14	0	13	5	2	8	0
+0	2	0	10	7	inf	3
+3	10	13	0	10	inf	9
+inf	2	inf	10	0	13	3
+inf	12	5	1	3	0	9
+11	4	14	inf	3	13	0
+Profit: 55
+Path: [0, 2, 1, 6, 1, 5, 3]
+Calculation Time: 7.082634210586548
+46:
+0	inf	inf	6	0	0	4
+inf	0	3	4	inf	6	9
+0	inf	0	12	9	4	14
+inf	9	2	0	13	10	5
+inf	0	5	8	0	4	inf
+inf	12	13	1	2	0	6
+1	0	6	14	2	2	0
+Profit: 62
+Path: [0, 6, 1, 2, 0, 5, 4, 1, 3]
+Calculation Time: 4.8155951499938965
+47:
+0	8	1	8	9	13	2
+inf	0	8	6	15	1	6
+5	inf	0	14	0	3	15
+8	inf	inf	0	14	0	4
+2	1	14	3	0	inf	7
+5	6	7	12	inf	0	12
+inf	6	8	8	15	inf	0
+Profit: 45
+Path: [0, 6, 2, 5, 0, 2, 4, 1]
+Calculation Time: 4.837092399597168
+48:
+0	inf	inf	11	7	8	inf
+0	0	0	inf	inf	4	5
+inf	14	0	10	4	8	7
+11	8	6	0	11	0	13
+7	9	15	inf	0	8	7
+5	14	1	inf	inf	0	inf
+inf	12	inf	inf	13	1	0
+Profit: 37
+Path: [0, 5, 2, 4, 1, 6]
+Calculation Time: 4.010906457901001
+49:
+0	inf	inf	15	15	0	inf
+14	0	14	5	1	1	1
+inf	7	0	0	inf	4	5
+7	1	inf	0	3	4	inf
+2	5	inf	15	0	inf	inf
+12	15	3	inf	7	0	15
+4	inf	13	inf	inf	8	0
+Profit: 52
+Path: [0, 5, 2, 3, 4, 1, 6]
+Calculation Time: 4.928136348724365
+50:
+0	4	14	8	4	15	inf
+inf	0	4	inf	8	13	5
+11	10	0	3	inf	4	10
+6	11	3	0	1	2	7
+6	2	inf	inf	0	3	3
+inf	6	13	inf	inf	0	inf
+12	inf	0	5	2	5	0
+Profit: 58
+Path: [0, 4, 1, 2, 3, 4, 6, 2, 5]
+Calculation Time: 4.903107643127441
+51:
+0	1	6	0	5	12	10	2
+1	0	inf	inf	inf	inf	10	15
+8	13	0	6	inf	7	1	10
+inf	13	15	0	3	1	inf	9
+inf	13	8	15	0	inf	8	8
+14	12	inf	3	0	0	5	15
+5	inf	11	8	12	8	0	12
+11	5	inf	12	3	inf	8	0
+Profit: 46
+Path: [0, 3, 7, 1, 0, 3, 5, 4]
+Calculation Time: 10.593469142913818
+52:
+0	10	9	inf	inf	13	inf	5
+11	0	7	2	7	10	8	3
+15	6	0	inf	6	11	11	inf
+8	11	3	0	15	15	6	3
+inf	inf	8	inf	0	14	5	0
+0	5	7	10	3	0	inf	inf
+inf	3	4	15	12	6	0	inf
+15	0	1	0	15	2	inf	0
+Profit: 72
+Path: [0, 7, 1, 7, 2, 4, 7, 5, 4, 7, 3, 6]
+Calculation Time: 8.46036171913147
+53:
+0	13	inf	3	13	10	13	0
+0	0	0	inf	inf	11	1	11
+1	1	0	1	2	4	14	inf
+inf	8	2	0	12	inf	15	15
+9	1	inf	5	0	3	12	3
+11	inf	3	15	9	0	4	inf
+0	1	inf	4	8	14	0	8
+12	inf	inf	9	0	12	10	0
+Profit: 77
+Path: [0, 7, 4, 5, 6, 1, 2, 3]
+Calculation Time: 5.725677490234375
+54:
+0	12	inf	inf	1	13	6	15
+0	0	5	12	inf	3	inf	6
+3	1	0	2	inf	11	inf	7
+15	inf	3	0	8	4	9	10
+3	3	inf	2	0	1	13	7
+13	inf	15	inf	14	0	8	4
+0	6	14	inf	2	inf	0	3
+inf	10	0	15	7	12	inf	0
+Profit: 63
+Path: [0, 6, 0, 4, 5, 7, 2, 3, 2, 1]
+Calculation Time: 7.504695892333984
+55:
+0	inf	13	5	11	11	3	9
+14	0	14	inf	3	5	7	inf
+1	3	0	inf	inf	14	inf	4
+8	7	inf	0	5	1	11	14
+6	inf	5	inf	0	8	inf	12
+0	inf	inf	4	4	0	8	inf
+8	13	3	9	inf	2	0	inf
+5	inf	0	10	15	6	15	0
+Profit: 62
+Path: [0, 6, 5, 0, 7, 2, 1, 4]
+Calculation Time: 12.316851615905762
+56:
+0	10	13	11	0	14	inf	2
+8	0	inf	4	9	3	12	1
+13	8	0	inf	11	4	inf	14
+15	inf	inf	0	11	13	13	inf
+13	inf	12	13	0	9	inf	0
+6	3	2	inf	10	0	5	4
+9	8	8	inf	5	inf	0	11
+4	14	12	3	inf	13	15	0
+Profit: 49
+Path: [0, 4, 7, 3, 5, 1]
+Calculation Time: 7.023132562637329
+57:
+0	13	14	inf	13	9	11	14
+inf	0	15	12	1	1	7	15
+15	2	0	0	2	4	15	inf
+13	12	6	0	9	11	7	12
+inf	12	inf	0	0	6	10	1
+4	8	13	3	7	0	inf	inf
+5	12	3	2	7	inf	0	inf
+12	10	7	inf	inf	4	8	0
+Profit: 37
+Path: [0, 6, 2, 4, 3]
+Calculation Time: 4.3389081954956055
+58:
+0	15	6	3	9	inf	2	11
+inf	0	0	8	inf	10	inf	inf
+2	6	0	7	6	14	11	2
+10	2	0	0	inf	inf	1	8
+14	3	6	1	0	0	3	4
+2	6	7	inf	inf	0	12	1
+inf	6	1	14	7	4	0	5
+inf	inf	inf	inf	inf	3	1	0
+Profit: 76
+Path: [0, 3, 1, 2, 4, 3, 6, 2, 7, 5]
+Calculation Time: 11.118046522140503
+59:
+0	8	inf	7	inf	10	9	11
+13	0	10	0	0	0	9	11
+2	3	0	5	8	12	3	inf
+0	4	inf	0	6	1	3	9
+11	5	8	7	0	10	0	15
+inf	7	9	inf	15	0	inf	8
+0	12	1	3	7	0	0	2
+3	13	inf	14	10	4	1	0
+Profit: 30
+Path: [0, 1, 3, 1, 4, 6, 7, 6, 2, 1, 5]
+Calculation Time: 8.358888387680054
+60:
+0	11	2	1	15	0	1	14
+5	0	3	0	14	12	14	3
+3	inf	0	10	inf	3	4	7
+14	12	inf	0	10	inf	3	5
+inf	1	14	5	0	10	inf	4
+13	inf	8	inf	2	0	12	9
+inf	0	inf	6	0	8	0	inf
+0	7	0	0	0	0	12	0
+Profit: 55
+Path: [0, 3, 6, 1, 0, 5, 4, 7, 2]
+Calculation Time: 10.990520238876343
+61:
+0	6	5	inf	inf	7	7	8	14
+2	0	inf	13	inf	inf	5	11	11
+4	3	0	6	1	7	13	13	8
+2	6	10	0	13	9	15	3	14
+inf	8	9	14	0	8	11	inf	1
+2	4	3	13	12	0	5	6	8
+1	14	13	12	12	5	0	5	2
+15	4	11	9	11	10	inf	0	7
+inf	inf	inf	6	15	9	3	5	0
+Profit: 75
+Path: [0, 2, 4, 8, 3, 7, 1, 6]
+Calculation Time: 73.82282519340515
+62:
+0	inf	12	1	8	inf	0	9	inf
+14	0	inf	5	4	9	11	inf	13
+4	inf	0	1	inf	14	6	5	8
+8	14	3	0	inf	10	6	8	12
+8	13	inf	inf	0	inf	7	7	3
+8	inf	8	inf	inf	0	15	8	inf
+11	4	inf	11	13	4	0	13	inf
+14	12	9	inf	5	11	inf	0	9
+3	5	9	5	5	2	9	6	0
+Profit: 83
+Path: [0, 6, 1, 3, 2, 8, 4, 8, 5]
+Calculation Time: 11.807668685913086
+63:
+0	13	15	7	inf	1	13	inf	4
+inf	0	5	inf	7	6	4	inf	3
+inf	9	0	5	inf	5	0	inf	5
+2	inf	13	0	11	15	inf	15	7
+12	10	4	3	0	inf	inf	9	5
+7	10	inf	inf	inf	0	inf	3	12
+inf	inf	15	inf	12	8	0	9	8
+8	9	15	7	2	inf	4	0	2
+8	inf	14	0	6	5	12	5	0
+Profit: 94
+Path: [0, 5, 7, 4, 2, 1, 8, 3]
+Calculation Time: 20.22855854034424
+64:
+0	2	0	15	0	7	11	12	12
+inf	0	0	1	inf	inf	11	3	6
+inf	inf	0	inf	inf	9	11	14	0
+inf	5	2	0	6	5	3	4	inf
+13	inf	6	15	0	15	1	13	0
+11	12	inf	1	12	0	14	13	15
+inf	13	14	inf	10	6	0	inf	8
+11	5	12	1	11	2	5	0	12
+inf	2	9	inf	9	13	3	inf	0
+Profit: 64
+Path: [0, 1, 3, 7, 5, 3, 4, 8, 1, 2, 8, 6]
+Calculation Time: 13.046948671340942
+65:
+0	11	5	5	inf	13	0	9	15
+7	0	6	0	7	12	5	11	6
+2	11	0	1	inf	12	6	10	inf
+14	1	14	0	inf	inf	15	inf	inf
+8	15	5	3	0	inf	13	6	2
+10	14	1	10	7	0	9	15	5
+7	2	0	15	6	inf	0	inf	10
+12	1	inf	4	inf	inf	inf	0	10
+1	inf	2	11	9	13	inf	13	0
+Profit: 65
+Path: [0, 6, 2, 0, 6, 1, 8, 0, 7, 1, 3, 1, 4]
+Calculation Time: 152.936674118042
+66:
+0	11	14	inf	4	14	inf	0	14
+11	0	9	4	4	1	11	inf	inf
+5	inf	0	inf	8	6	2	4	0
+9	4	6	0	14	14	1	inf	4
+13	0	12	6	0	11	inf	15	2
+5	10	10	11	inf	0	inf	inf	4
+3	4	5	9	7	6	0	1	3
+7	15	5	inf	3	inf	6	0	12
+10	4	inf	15	inf	12	inf	inf	0
+Profit: 41
+Path: [0, 7, 2, 6, 7, 4, 1, 5, 8]
+Calculation Time: 11.017489910125732
+67:
+0	inf	inf	11	6	6	10	0	1
+3	0	4	inf	10	5	14	15	inf
+10	2	0	6	inf	inf	9	2	3
+4	13	2	0	inf	3	inf	inf	10
+inf	7	7	12	0	13	10	1	7
+4	inf	inf	5	6	0	8	inf	2
+2	1	6	10	5	9	0	11	6
+9	10	11	11	15	12	7	0	4
+2	2	5	inf	4	10	inf	inf	0
+Profit: 75
+Path: [0, 8, 0, 7, 6, 1, 5, 3, 2, 8, 4]
+Calculation Time: 28.00881028175354
+68:
+0	5	inf	8	inf	5	inf	7	12
+inf	0	inf	8	13	1	inf	2	5
+10	inf	0	inf	11	inf	8	10	14
+11	11	0	0	inf	8	4	3	6
+8	15	14	inf	0	7	6	0	inf
+14	inf	13	9	2	0	10	inf	8
+inf	7	0	12	14	15	0	12	10
+15	14	14	1	inf	inf	9	0	12
+12	0	5	7	inf	inf	2	inf	0
+Profit: 53
+Path: [0, 5, 4, 7, 3, 2, 8, 6]
+Calculation Time: 11.83367395401001
+69:
+0	inf	inf	inf	12	14	14	1	8
+5	0	6	1	8	4	5	1	2
+6	8	0	4	inf	5	12	inf	6
+inf	inf	11	0	7	0	9	2	inf
+inf	9	11	2	0	11	3	0	inf
+1	14	12	12	11	0	3	5	inf
+11	4	inf	inf	1	inf	0	7	0
+0	7	11	10	2	inf	0	0	0
+13	11	12	inf	5	13	10	4	0
+Profit: 62
+Path: [0, 7, 4, 7, 1, 2, 5, 0, 7, 6, 8]
+Calculation Time: 16.414761066436768
+70:
+0	15	inf	4	2	inf	8	5	12
+7	0	0	1	inf	14	13	inf	13
+12	5	0	0	4	8	5	inf	6
+inf	1	7	0	14	inf	inf	inf	inf
+12	inf	inf	7	0	inf	inf	1	inf
+1	11	3	9	inf	0	13	inf	10
+10	3	4	3	inf	14	0	1	15
+12	4	9	3	1	2	inf	0	inf
+1	15	inf	4	5	13	8	3	0
+Profit: 72
+Path: [0, 4, 7, 5, 2, 6, 3, 1, 2, 8]
+Calculation Time: 29.682408332824707

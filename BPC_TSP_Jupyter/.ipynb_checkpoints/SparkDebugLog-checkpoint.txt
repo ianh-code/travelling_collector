@@ -1,0 +1,6 @@
+Before spark portion.
+We have begun processing!
+Before reduced check!
+Before get_all_adjacent
+After get_all_adjacent
+After almost

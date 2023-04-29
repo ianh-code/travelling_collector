@@ -1,0 +1,86 @@
+{
+    "file_defined":
+    [
+        {
+            "edge_w": "graph1edges.csv",
+            "vert_w": "graph1verts.csv",
+            "lim": 22,
+            "start": 1
+        }
+    ],
+    "randomized":
+    [
+        {
+            "num_verts": 7,
+            "percent_unconnected": 33,
+            "max_edge_weight": 15,
+            "max_vert_weight": 15,
+            "cap_range":
+            {
+                "policy": "minsum",
+                "attrs":
+                {
+                    "lower_multiplier": 1,
+                    "upper_multiplier": 1.5
+                }
+            },
+            "num_generations": 1,
+            "outputs": null,
+            "start": null
+        },
+        {
+            "num_verts": 8,
+            "percent_unconnected": 33,
+            "max_edge_weight": 15,
+            "max_vert_weight": 15,
+            "cap_range":
+            {
+                "policy": "minsum",
+                "attrs":
+                {
+                    "lower_multiplier": 1,
+                    "upper_multiplier": 1.5
+                }
+            },
+            "num_generations": 1,
+            "outputs": null,
+            "start": null
+        },
+        {
+            "num_verts": 9,
+            "percent_unconnected": 33,
+            "max_edge_weight": 15,
+            "max_vert_weight": 15,
+            "cap_range":
+            {
+                "policy": "minsum",
+                "attrs":
+                {
+                    "lower_multiplier": 1,
+                    "upper_multiplier": 1.5
+                }
+            },
+            "num_generations": 1,
+            "outputs": null,
+            "start": null
+        },
+        {
+            "num_verts": 10,
+            "percent_unconnected": 33,
+            "max_edge_weight": 15,
+            "max_vert_weight": 15,
+            "cap_range":
+            {
+                "policy": "minsum",
+                "attrs":
+                {
+                    "lower_multiplier": 1,
+                    "upper_multiplier": 1.5
+                }
+            },
+            "num_generations": 1,
+            "outputs": null,
+            "start": null
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "file_defined":
+    [
+        {
+            "edge_w": "graph1edges.csv",
+            "vert_w": "graph1verts.csv",
+            "lim": 22,
+            "start": 1
+        }
+    ],
+    "randomized":
+    [
+    ]
+}
