@@ -1,1190 +1,11900 @@
 1:
-0	inf	0
-13	0	4
-4	inf	0
+0	15	7
+14	0	11
+10	12	0
 
 Vertex Weights:
-1	4	1
-Capacity: 7
+1	1	10
+Capacity: 32
 
-Profit: 2
-Path: [0, 2]
-Calculation Time: 2.503563404083252
+Profit: 12
+Path: [0, 2, 1]
+Calculation Time: 1.9239463806152344
 
 
 2:
-0	4	15
-8	0	2
-10	inf	0
+0	7	15
+15	0	12
+8	4	0
 
 Vertex Weights:
-12	8	12
-Capacity: 11
+4	6	5
+Capacity: 25
 
-Profit: 32
+Profit: 15
 Path: [0, 1, 2]
-Calculation Time: 1.4723329544067383
+Calculation Time: 1.387312650680542
 
 
 3:
 0	15	11
-9	0	11
-inf	14	0
+1	0	9
+11	3	0
 
 Vertex Weights:
-1	0	6
-Capacity: 36
+9	12	10
+Capacity: 11
 
-Profit: 7
+Profit: 19
 Path: [0, 2]
-Calculation Time: 0.4941120147705078
+Calculation Time: 1.82841157913208
 
 
 4:
-0	7	15
-inf	0	2
-6	4	0
+0	9	12
+13	0	6
+8	15	0
 
 Vertex Weights:
-15	2	12
-Capacity: 10
+4	11	14
+Capacity: 26
 
 Profit: 29
 Path: [0, 1, 2]
-Calculation Time: 1.434321641921997
+Calculation Time: 1.3633074760437012
 
 
 5:
-0	inf	4
-inf	0	14
-8	0	0
+0	11	9
+14	0	2
+3	4	0
 
 Vertex Weights:
-11	10	13
+3	15	7
+Capacity: 8
+
+Profit: 3
+Path: [0]
+Calculation Time: 0.9057168960571289
+
+
+6:
+0	11	2
+9	0	8
+8	5	0
+
+Vertex Weights:
+13	12	10
+Capacity: 15
+
+Profit: 35
+Path: [0, 2, 1]
+Calculation Time: 1.3835408687591553
+
+
+7:
+0	13	2
+3	0	6
+6	11	0
+
+Vertex Weights:
+2	2	14
+Capacity: 19
+
+Profit: 18
+Path: [0, 2, 1]
+Calculation Time: 1.390084981918335
+
+
+8:
+0	14	11
+15	0	14
+6	10	0
+
+Vertex Weights:
+12	11	12
+Capacity: 21
+
+Profit: 35
+Path: [0, 2, 1]
+Calculation Time: 1.3776352405548096
+
+
+9:
+0	2	15
+10	0	5
+12	9	0
+
+Vertex Weights:
+5	4	14
+Capacity: 17
+
+Profit: 23
+Path: [0, 1, 2]
+Calculation Time: 1.3726222515106201
+
+
+10:
+0	10	7
+8	0	9
+1	4	0
+
+Vertex Weights:
+10	1	4
+Capacity: 9
+
+Profit: 14
+Path: [0, 2]
+Calculation Time: 1.822411298751831
+
+
+11:
+0	15	13
+1	0	7
+15	7	0
+
+Vertex Weights:
+2	1	1
+Capacity: 17
+
+Profit: 3
+Path: [0, 1]
+Calculation Time: 1.8134078979492188
+
+
+12:
+0	9	14
+15	0	8
+15	6	0
+
+Vertex Weights:
+3	1	8
+Capacity: 28
+
+Profit: 12
+Path: [0, 2, 1]
+Calculation Time: 1.3713078498840332
+
+
+13:
+0	1	10
+1	0	11
+7	9	0
+
+Vertex Weights:
+11	6	6
+Capacity: 9
+
+Profit: 17
+Path: [0, 1]
+Calculation Time: 1.875422477722168
+
+
+14:
+0	5	7
+13	0	7
+1	13	0
+
+Vertex Weights:
+15	2	12
+Capacity: 13
+
+Profit: 29
+Path: [0, 2, 0, 1]
+Calculation Time: 1.4023165702819824
+
+
+15:
+0	15	10
+12	0	3
+9	10	0
+
+Vertex Weights:
+14	5	14
+Capacity: 24
+
+Profit: 33
+Path: [0, 2, 1]
+Calculation Time: 1.3873116970062256
+
+
+16:
+0	13	9
+9	0	8
+4	7	0
+
+Vertex Weights:
+15	2	5
+Capacity: 22
+
+Profit: 22
+Path: [0, 2, 1]
+Calculation Time: 1.3523046970367432
+
+
+17:
+0	11	14
+9	0	12
+1	12	0
+
+Vertex Weights:
+13	10	13
+Capacity: 23
+
+Profit: 36
+Path: [0, 1, 2]
+Calculation Time: 1.386312484741211
+
+
+18:
+0	7	5
+5	0	10
+7	7	0
+
+Vertex Weights:
+14	14	15
+Capacity: 17
+
+Profit: 43
+Path: [0, 2, 1]
+Calculation Time: 1.3937463760375977
+
+
+19:
+0	5	4
+13	0	3
+2	10	0
+
+Vertex Weights:
+12	11	3
+Capacity: 10
+
+Profit: 26
+Path: [0, 1, 2]
+Calculation Time: 1.375309944152832
+
+
+20:
+0	8	11
+14	0	6
+6	7	0
+
+Vertex Weights:
+7	8	1
+Capacity: 18
+
+Profit: 16
+Path: [0, 1, 2]
+Calculation Time: 1.3743085861206055
+
+
+21:
+0	8	15
+2	0	1
+7	4	0
+
+Vertex Weights:
+8	13	5
+Capacity: 6
+
+Profit: 8
+Path: [0]
+Calculation Time: 0.9542145729064941
+
+
+22:
+0	8	9
+12	0	5
+12	10	0
+
+Vertex Weights:
+1	6	3
+Capacity: 25
+
+Profit: 10
+Path: [0, 1, 2]
+Calculation Time: 1.4023144245147705
+
+
+23:
+0	15	6
+4	0	4
+5	14	0
+
+Vertex Weights:
+3	11	6
+Capacity: 25
+
+Profit: 20
+Path: [0, 2, 1]
+Calculation Time: 1.3663084506988525
+
+
+24:
+0	4	4
+5	0	15
+14	6	0
+
+Vertex Weights:
+1	5	13
+Capacity: 13
+
+Profit: 19
+Path: [0, 2, 1]
+Calculation Time: 1.4004580974578857
+
+
+25:
+0	15	15
+7	0	4
+13	5	0
+
+Vertex Weights:
+14	11	7
+Capacity: 13
+
+Profit: 14
+Path: [0]
+Calculation Time: 0.8922147750854492
+
+
+26:
+0	7	9
+8	0	10
+14	8	0
+
+Vertex Weights:
+11	14	5
+Capacity: 25
+
+Profit: 30
+Path: [0, 1, 2]
+Calculation Time: 1.3861873149871826
+
+
+27:
+0	2	15
+3	0	1
+12	3	0
+
+Vertex Weights:
+5	9	7
+Capacity: 4
+
+Profit: 21
+Path: [0, 1, 2]
+Calculation Time: 1.3898546695709229
+
+
+28:
+0	15	3
+4	0	14
+2	13	0
+
+Vertex Weights:
+3	12	10
+Capacity: 16
+
+Profit: 25
+Path: [0, 2, 1]
+Calculation Time: 1.3927130699157715
+
+
+29:
+0	15	15
+2	0	15
+13	6	0
+
+Vertex Weights:
+2	2	1
+Capacity: 19
+
+Profit: 4
+Path: [0, 1]
+Calculation Time: 1.8034067153930664
+
+
+30:
+0	12	1
+7	0	4
+2	9	0
+
+Vertex Weights:
+6	2	11
+Capacity: 9
+
+Profit: 17
+Path: [0, 2]
+Calculation Time: 1.8474149703979492
+
+
+31:
+0	8	13
+11	0	5
+3	7	0
+
+Vertex Weights:
+8	7	4
+Capacity: 13
+
+Profit: 19
+Path: [0, 1, 2]
+Calculation Time: 1.3885457515716553
+
+
+32:
+0	14	10
+12	0	12
+10	8	0
+
+Vertex Weights:
+2	8	2
+Capacity: 27
+
+Profit: 12
+Path: [0, 1, 2]
+Calculation Time: 1.3873119354248047
+
+
+33:
+0	6	2
+13	0	2
+13	2	0
+
+Vertex Weights:
+1	3	7
+Capacity: 14
+
+Profit: 11
+Path: [0, 2, 1]
+Calculation Time: 1.3803110122680664
+
+
+34:
+0	7	12
+2	0	9
+3	4	0
+
+Vertex Weights:
+8	4	7
+Capacity: 16
+
+Profit: 19
+Path: [0, 1, 2]
+Calculation Time: 1.3953142166137695
+
+
+35:
+0	2	1
+9	0	12
+7	1	0
+
+Vertex Weights:
+11	8	6
+Capacity: 8
+
+Profit: 25
+Path: [0, 2, 1]
+Calculation Time: 1.3693087100982666
+
+
+36:
+0	13	13
+14	0	13
+5	10	0
+
+Vertex Weights:
+8	15	13
+Capacity: 26
+
+Profit: 36
+Path: [0, 1, 2]
+Calculation Time: 1.352304458618164
+
+
+37:
+0	13	13
+10	0	8
+8	13	0
+
+Vertex Weights:
+4	8	7
+Capacity: 32
+
+Profit: 19
+Path: [0, 1, 2]
+Calculation Time: 1.3693077564239502
+
+
+38:
+0	11	9
+7	0	9
+1	7	0
+
+Vertex Weights:
+14	10	5
+Capacity: 16
+
+Profit: 29
+Path: [0, 2, 1]
+Calculation Time: 1.3673090934753418
+
+
+39:
+0	3	9
+9	0	1
+5	10	0
+
+Vertex Weights:
+10	2	11
+Capacity: 10
+
+Profit: 23
+Path: [0, 1, 2]
+Calculation Time: 1.3903119564056396
+
+
+40:
+0	6	14
+6	0	1
+6	1	0
+
+Vertex Weights:
+14	10	10
+Capacity: 8
+
+Profit: 34
+Path: [0, 1, 2]
+Calculation Time: 1.3933124542236328
+
+
+41:
+0	11	5
+6	0	13
+10	3	0
+
+Vertex Weights:
+10	8	5
+Capacity: 10
+
+Profit: 23
+Path: [0, 2, 1]
+Calculation Time: 1.3783104419708252
+
+
+42:
+0	9	3
+5	0	2
+1	5	0
+
+Vertex Weights:
+12	15	7
 Capacity: 9
 
 Profit: 34
 Path: [0, 2, 1]
-Calculation Time: 1.4233207702636719
-
-
-6:
-0	13	inf
-inf	0	7
-inf	4	0
-
-Vertex Weights:
-13	11	9
-Capacity: 11
-
-Profit: 0
-Path: []
-Calculation Time: 0.9472126960754395
-
-
-7:
-0	inf	5
-inf	0	5
-9	0	0
-
-Vertex Weights:
-9	6	2
-Capacity: 15
-
-Profit: 17
-Path: [0, 2, 1]
-Calculation Time: 1.4323225021362305
-
-
-8:
-0	14	6
-7	0	inf
-5	3	0
-
-Vertex Weights:
-8	3	4
-Capacity: 14
-
-Profit: 15
-Path: [0, 2, 1]
-Calculation Time: 1.4253220558166504
-
-
-9:
-0	7	inf
-9	0	13
-5	5	0
-
-Vertex Weights:
-1	7	15
-Capacity: 17
-
-Profit: 8
-Path: [0, 1]
-Calculation Time: 1.943437099456787
-
-
-10:
-0	9	15
-9	0	inf
-10	inf	0
-
-Vertex Weights:
-5	7	7
-Capacity: 37
-
-Profit: 19
-Path: [0, 1, 0, 2]
-Calculation Time: 1.4683303833007812
-
-
-11:
-0	0	7	3
-0	0	5	inf
-inf	14	0	inf
-7	11	10	0
-
-Vertex Weights:
-15	11	12	11
-Capacity: 28
-
-Profit: 49
-Path: [0, 3, 0, 1, 2]
-Calculation Time: 2.4435505867004395
-
-
-12:
-0	5	0	inf
-14	0	1	13
-0	2	0	inf
-14	inf	9	0
-
-Vertex Weights:
-12	15	0	3
-Capacity: 22
-
-Profit: 30
-Path: [0, 1, 3]
-Calculation Time: 1.4013147354125977
-
-
-13:
-0	5	7	12
-5	0	9	13
-11	15	0	inf
-0	inf	15	0
-
-Vertex Weights:
-5	9	13	6
-Capacity: 31
-
-Profit: 33
-Path: [0, 3, 0, 1, 2]
-Calculation Time: 2.3615317344665527
-
-
-14:
-0	inf	inf	inf
-2	0	12	0
-2	8	0	15
-inf	0	12	0
-
-Vertex Weights:
-6	1	1	12
-Capacity: 27
-
-Profit: 0
-Path: []
-Calculation Time: 0.9332103729248047
-
-
-15:
-0	inf	10	inf
-3	0	12	5
-8	8	0	4
-inf	8	inf	0
-
-Vertex Weights:
-12	10	4	11
-Capacity: 18
-
-Profit: 27
-Path: [0, 2, 3]
-Calculation Time: 2.8116331100463867
-
-
-16:
-0	7	11	4
-6	0	1	9
-3	5	0	10
-7	0	0	0
-
-Vertex Weights:
-7	3	11	7
-Capacity: 11
-
-Profit: 28
-Path: [0, 3, 2, 1]
-Calculation Time: 2.33807635307312
-
-
-17:
-0	inf	13	0
-5	0	1	7
-7	5	0	inf
-0	9	12	0
-
-Vertex Weights:
-14	9	6	9
-Capacity: 14
-
-Profit: 38
-Path: [0, 3, 1, 2]
-Calculation Time: 2.341947555541992
-
-
-18:
-0	0	14	inf
-3	0	0	inf
-2	13	0	12
-0	8	11	0
-
-Vertex Weights:
-6	13	7	5
-Capacity: 33
-
-Profit: 31
-Path: [0, 2, 0, 1, 2, 3]
-Calculation Time: 2.3696818351745605
-
-
-19:
-0	6	14	inf
-3	0	0	4
-inf	6	0	11
-12	5	3	0
-
-Vertex Weights:
-7	7	6	15
-Capacity: 13
-
-Profit: 35
-Path: [0, 1, 3, 2]
-Calculation Time: 2.3345255851745605
-
-
-20:
-0	1	1	inf
-inf	0	13	0
-inf	inf	0	inf
-inf	1	14	0
-
-Vertex Weights:
-3	13	15	1
-Capacity: 1
-
-Profit: 18
-Path: [0, 2]
-Calculation Time: 0.46610450744628906
-
-
-21:
-0	inf	0	13	inf
-inf	0	10	1	6
-12	6	0	7	8
-7	4	12	0	14
-inf	4	13	2	0
-
-Vertex Weights:
-15	2	1	9	5
-Capacity: 28
-
-Profit: 32
-Path: [0, 2, 1, 3, 1, 4]
-Calculation Time: 3.3377506732940674
-
-
-22:
-0	9	7	inf	inf
-9	0	10	inf	0
-14	5	0	3	13
-inf	14	inf	0	10
-4	15	inf	inf	0
-
-Vertex Weights:
-11	4	3	14	1
-Capacity: 26
-
-Profit: 33
-Path: [0, 1, 4, 0, 2, 3]
-Calculation Time: 3.281738519668579
-
-
-23:
-0	inf	8	14	15
-2	0	inf	10	7
-6	15	0	8	14
-inf	3	inf	0	8
-14	0	6	2	0
-
-Vertex Weights:
-7	1	5	9	14
-Capacity: 20
-
-Profit: 31
-Path: [0, 4, 3, 1]
-Calculation Time: 3.7168374061584473
-
-
-24:
-0	1	7	8	inf
-4	0	6	6	10
-inf	8	0	inf	inf
-inf	14	2	0	15
-5	inf	11	9	0
-
-Vertex Weights:
-4	1	10	3	9
-Capacity: 21
-
-Profit: 18
-Path: [0, 1, 2, 1, 3]
-Calculation Time: 3.8098573684692383
-
-
-25:
-0	4	6	2	7
-13	0	11	4	9
-inf	inf	0	inf	2
-2	10	1	0	1
-9	9	12	inf	0
-
-Vertex Weights:
-4	8	12	0	1
-Capacity: 10
-
-Profit: 24
-Path: [0, 1, 3, 2]
-Calculation Time: 3.7328405380249023
-
-
-26:
-0	13	3	inf	inf
-7	0	inf	0	inf
-11	3	0	inf	11
-12	7	14	0	6
-inf	4	12	11	0
-
-Vertex Weights:
-15	9	13	1	6
-Capacity: 32
-
-Profit: 44
-Path: [0, 2, 4, 1, 3]
-Calculation Time: 3.3087453842163086
-
-
-27:
-0	1	14	10	0
-9	0	9	inf	7
-inf	inf	0	8	5
-1	2	5	0	inf
-5	4	12	inf	0
-
-Vertex Weights:
-11	0	14	6	14
-Capacity: 17
-
-Profit: 39
-Path: [0, 4, 2]
-Calculation Time: 3.712240695953369
-
-
-28:
-0	7	15	2	4
-inf	0	0	1	inf
-inf	0	0	1	12
-1	inf	1	0	1
-10	15	15	11	0
-
-Vertex Weights:
-15	1	13	13	3
-Capacity: 10
-
-Profit: 45
-Path: [0, 1, 2, 3, 4]
-Calculation Time: 3.296203374862671
-
-
-29:
-0	8	5	inf	inf
-inf	0	13	inf	12
-14	10	0	13	10
-9	3	3	0	0
-inf	8	10	inf	0
-
-Vertex Weights:
-8	1	3	5	7
-Capacity: 46
-
-Profit: 24
-Path: [0, 2, 3, 4, 1]
-Calculation Time: 3.261735200881958
-
-
-30:
-0	1	11	1	3
-12	0	3	7	2
-0	0	0	inf	inf
-10	11	inf	0	12
-inf	inf	inf	9	0
-
-Vertex Weights:
-11	0	7	15	8
-Capacity: 12
-
-Profit: 34
-Path: [0, 4, 3]
-Calculation Time: 3.7038333415985107
-
-
-31:
-0	13	11	13	6	10
-4	0	inf	inf	14	6
-1	inf	0	inf	3	8
-inf	13	15	0	12	inf
-5	inf	15	inf	0	1
-inf	1	15	inf	13	0
-
-Vertex Weights:
-3	13	2	3	5	12
-Capacity: 27
-
-Profit: 36
-Path: [0, 4, 5, 1, 0, 3]
-Calculation Time: 4.735066175460815
-
-
-32:
-0	inf	10	11	10	inf
-9	0	0	11	inf	15
-inf	inf	0	3	14	14
-15	11	12	0	14	10
-15	1	inf	11	0	11
-inf	4	2	15	inf	0
-
-Vertex Weights:
-7	13	11	1	10	7
-Capacity: 26
-
-Profit: 49
-Path: [0, 4, 1, 2, 3, 5]
-Calculation Time: 4.288965940475464
-
-
-33:
-0	inf	10	2	14	0
-8	0	inf	inf	5	8
-11	inf	0	0	2	inf
-4	1	11	0	13	9
-8	1	6	inf	0	5
-10	12	2	14	2	0
-
-Vertex Weights:
-7	11	15	2	0	14
-Capacity: 12
-
-Profit: 49
-Path: [0, 3, 0, 5, 2, 3, 1]
-Calculation Time: 3.244730234146118
-
-
-34:
-0	13	inf	2	14	inf
-inf	0	15	7	inf	10
-11	11	0	inf	4	9
-inf	10	2	0	13	inf
-5	7	2	1	0	7
-inf	6	13	12	8	0
-
-Vertex Weights:
-6	14	3	12	14	7
-Capacity: 29
-
-Profit: 56
-Path: [0, 3, 2, 4, 1, 5]
-Calculation Time: 4.312971115112305
-
-
-35:
-0	3	1	4	11	13
-1	0	14	0	14	8
-inf	1	0	13	inf	15
-7	1	0	0	7	13
-9	2	14	5	0	1
-2	inf	inf	9	10	0
-
-Vertex Weights:
-5	7	7	9	8	2
-Capacity: 13
-
-Profit: 38
-Path: [0, 2, 1, 3, 4, 5]
-Calculation Time: 4.399448394775391
-
-
-36:
-0	inf	8	inf	4	12
-3	0	15	3	inf	13
-inf	1	0	6	4	15
-10	12	inf	0	2	inf
-2	inf	7	6	0	9
-12	13	inf	1	6	0
-
-Vertex Weights:
-7	5	2	5	3	6
-Capacity: 23
-
-Profit: 28
-Path: [0, 2, 1, 3, 4, 5]
-Calculation Time: 4.494104385375977
-
-
-37:
-0	12	5	9	1	12
-8	0	inf	5	6	inf
-6	inf	0	2	inf	inf
-4	0	1	0	6	inf
-13	14	15	inf	0	13
-9	14	inf	6	15	0
-
-Vertex Weights:
-3	9	6	15	9	1
-Capacity: 30
-
-Profit: 43
-Path: [0, 4, 5, 3, 1, 3, 2]
-Calculation Time: 4.368216037750244
-
-
-38:
-0	12	5	inf	4	7
-7	0	inf	9	inf	13
-inf	7	0	4	inf	3
-10	4	5	0	14	7
-inf	inf	9	inf	0	15
-13	inf	7	9	9	0
-
-Vertex Weights:
-9	14	3	11	3	5
-Capacity: 27
-
-Profit: 42
-Path: [0, 2, 3, 1, 5]
-Calculation Time: 4.831087827682495
-
-
-39:
-0	15	4	11	8	4
-8	0	11	inf	10	11
-0	11	0	3	7	inf
-5	inf	inf	0	inf	4
-inf	inf	13	12	0	1
-7	6	4	5	7	0
-
-Vertex Weights:
-0	2	14	1	15	6
-Capacity: 19
-
-Profit: 37
-Path: [0, 2, 4, 5, 1]
-Calculation Time: 4.875631809234619
-
-
-40:
-0	2	15	7	6	3
-7	0	6	1	inf	14
-0	15	0	3	13	8
-inf	5	inf	0	inf	4
-13	inf	6	15	0	6
-14	2	13	inf	8	0
-
-Vertex Weights:
-0	11	15	11	0	4
-Capacity: 29
-
-Profit: 41
-Path: [0, 1, 0, 5, 1, 2, 3]
-Calculation Time: 3.292741298675537
-
-
-41:
-0	inf	inf	10	inf	14	13
-9	0	13	inf	8	12	inf
-1	1	0	inf	2	14	inf
-inf	5	2	0	8	15	12
-inf	3	7	inf	0	inf	14
-10	1	inf	1	9	0	14
-8	6	10	inf	8	5	0
-
-Vertex Weights:
-15	3	12	12	10	7	12
-Capacity: 26
-
-Profit: 71
-Path: [0, 6, 5, 3, 2, 4, 1]
-Calculation Time: 5.366207599639893
-
-
-42:
-0	inf	15	0	10	inf	15
-7	0	14	1	inf	12	5
-inf	3	0	5	inf	inf	4
-inf	6	0	0	inf	inf	9
-15	inf	6	15	0	inf	10
-inf	inf	11	inf	10	0	4
-9	2	0	14	inf	14	0
-
-Vertex Weights:
-15	4	11	9	6	5	2
-Capacity: 51
-
-Profit: 52
-Path: [0, 3, 6, 5, 4, 2, 1]
-Calculation Time: 5.2557783126831055
+Calculation Time: 1.3713092803955078
 
 
 43:
-0	inf	13	7	inf	8	inf
-8	0	15	15	12	6	9
-5	inf	0	2	13	9	7
-15	9	0	0	inf	inf	4
-0	13	4	10	0	9	7
-inf	2	15	3	7	0	0
-15	4	10	2	inf	5	0
+0	11	13
+12	0	9
+14	11	0
 
 Vertex Weights:
-5	3	12	13	0	3	1
+12	9	6
 Capacity: 31
 
-Profit: 37
-Path: [0, 5, 6, 1, 5, 6, 3, 2]
-Calculation Time: 4.301515817642212
+Profit: 27
+Path: [0, 1, 2]
+Calculation Time: 1.37330961227417
 
 
 44:
-0	2	inf	3	7	9	15
-inf	0	13	1	6	6	inf
-7	7	0	14	7	12	inf
-6	15	8	0	7	12	9
-6	0	13	inf	0	5	8
-9	5	inf	10	15	0	11
-10	4	15	1	8	inf	0
+0	8	8
+15	0	1
+4	13	0
 
 Vertex Weights:
-14	11	11	5	5	5	2
-Capacity: 36
+15	1	12
+Capacity: 9
 
-Profit: 53
-Path: [0, 1, 3, 2, 4, 5, 6]
-Calculation Time: 5.165162086486816
+Profit: 28
+Path: [0, 1, 2]
+Calculation Time: 1.3813109397888184
 
 
 45:
-0	8	10	13	14	11	0
-inf	0	15	3	3	15	15
-5	11	0	0	9	8	15
-12	3	3	0	7	10	13
-11	inf	0	inf	0	5	12
-1	8	inf	2	10	0	inf
-8	inf	9	15	12	inf	0
+0	5	7
+13	0	15
+6	11	0
 
 Vertex Weights:
-2	3	2	1	2	2	13
-Capacity: 28
+14	10	5
+Capacity: 16
 
-Profit: 25
-Path: [0, 6, 2, 5, 3, 1, 4]
-Calculation Time: 5.394214391708374
+Profit: 24
+Path: [0, 1]
+Calculation Time: 1.9211230278015137
 
 
 46:
-0	15	inf	2	15	4	inf
-2	0	inf	13	10	7	6
-6	5	0	11	4	0	8
-5	inf	13	0	7	5	13
-inf	12	15	1	0	15	inf
-1	inf	inf	9	inf	0	11
-inf	2	9	7	inf	8	0
+0	4	14
+10	0	12
+8	12	0
 
 Vertex Weights:
-7	9	3	11	6	9	2
-Capacity: 27
+15	2	4
+Capacity: 21
 
-Profit: 42
-Path: [0, 5, 0, 3, 4, 1]
-Calculation Time: 5.672277450561523
+Profit: 21
+Path: [0, 1, 2]
+Calculation Time: 1.3473024368286133
 
 
 47:
-0	7	14	15	7	4	8
-5	0	14	4	inf	10	2
-inf	11	0	inf	inf	7	13
-inf	inf	15	0	8	inf	8
-5	15	8	15	0	10	inf
-5	9	7	8	14	0	inf
-inf	11	8	9	13	4	0
+0	13	10
+1	0	13
+7	13	0
 
 Vertex Weights:
-3	3	12	4	7	2	3
-Capacity: 30
+10	1	13
+Capacity: 23
 
-Profit: 29
-Path: [0, 1, 3, 4, 2]
-Calculation Time: 6.80756402015686
+Profit: 24
+Path: [0, 2, 1]
+Calculation Time: 1.3350493907928467
 
 
 48:
-0	9	4	1	inf	9	3
-10	0	7	0	15	12	inf
-1	12	0	2	14	10	5
-inf	inf	1	0	3	9	8
-inf	12	1	5	0	inf	3
-6	10	9	inf	14	0	2
-13	3	2	4	6	0	0
+0	9	1
+10	0	14
+5	15	0
 
 Vertex Weights:
-13	0	8	15	3	5	1
-Capacity: 22
+6	15	14
+Capacity: 15
 
-Profit: 45
-Path: [0, 6, 5, 6, 2, 3, 4]
-Calculation Time: 4.212556838989258
+Profit: 35
+Path: [0, 2, 0, 1]
+Calculation Time: 1.3511755466461182
 
 
 49:
-0	3	inf	inf	2	5	3
-inf	0	5	12	8	15	1
-inf	inf	0	15	14	1	7
-6	8	15	0	inf	3	11
-inf	15	inf	inf	0	inf	3
-5	12	2	15	inf	0	0
-9	0	12	5	inf	inf	0
+0	5	10
+1	0	11
+11	10	0
 
 Vertex Weights:
-5	12	3	12	0	14	6
-Capacity: 20
+12	14	13
+Capacity: 17
 
-Profit: 52
-Path: [0, 6, 1, 2, 5, 6, 3]
-Calculation Time: 4.1146240234375
+Profit: 39
+Path: [0, 1, 2]
+Calculation Time: 1.3743090629577637
 
 
 50:
-0	inf	7	15	0	11	15
-11	0	inf	7	3	inf	13
-8	inf	0	inf	0	5	4
-8	14	14	0	10	inf	8
-1	13	11	14	0	2	7
-15	15	7	inf	inf	0	14
-2	7	3	8	9	3	0
+0	4	11
+11	0	9
+2	12	0
 
 Vertex Weights:
-6	14	10	11	13	13	7
-Capacity: 26
+1	11	8
+Capacity: 13
 
-Profit: 63
-Path: [0, 4, 6, 1, 4, 5, 2]
-Calculation Time: 7.466679811477661
+Profit: 20
+Path: [0, 1, 2]
+Calculation Time: 1.365809679031372
 
 
 51:
-0	2	9	4	8	5	15	15
-2	0	13	4	inf	13	inf	14
-inf	9	0	14	7	5	inf	inf
-13	4	15	0	2	1	11	14
-4	inf	4	1	0	15	14	2
-5	13	9	0	1	0	14	13
-1	8	3	2	inf	10	0	inf
-inf	inf	0	1	2	13	inf	0
+0	4	11
+14	0	14
+4	7	0
 
 Vertex Weights:
-15	9	6	14	3	0	4	8
-Capacity: 21
+15	13	3
+Capacity: 22
 
-Profit: 55
-Path: [0, 1, 0, 4, 7, 3, 4, 7, 2]
-Calculation Time: 17.173813343048096
+Profit: 31
+Path: [0, 1, 2]
+Calculation Time: 1.343301773071289
 
 
 52:
-0	10	12	14	0	5	12	6
-3	0	9	12	10	12	1	inf
-12	inf	0	inf	5	4	6	8
-3	11	inf	0	13	7	inf	5
-6	0	4	inf	0	0	inf	1
-3	inf	4	inf	8	0	5	inf
-3	7	0	inf	inf	inf	0	inf
-7	13	8	7	9	0	inf	0
+0	13	8
+8	0	2
+1	9	0
 
 Vertex Weights:
-7	15	5	11	3	11	4	8
-Capacity: 25
+3	2	15
+Capacity: 14
 
-Profit: 64
-Path: [0, 4, 5, 6, 0, 4, 7, 3, 0, 4, 1, 6, 2]
-Calculation Time: 6.273829460144043
+Profit: 18
+Path: [0, 2]
+Calculation Time: 1.8064072132110596
 
 
 53:
-0	inf	12	3	3	0	6	4
-inf	0	11	14	8	9	6	6
-inf	0	0	2	14	10	13	8
-4	inf	5	0	11	inf	inf	inf
-7	inf	12	inf	0	8	0	9
-11	inf	11	4	7	0	2	6
-8	4	3	7	7	inf	0	inf
-inf	10	8	6	0	14	inf	0
+0	3	4
+7	0	6
+11	1	0
 
 Vertex Weights:
-11	0	8	7	7	0	9	10
-Capacity: 22
+6	15	2
+Capacity: 9
 
-Profit: 52
-Path: [0, 3, 0, 7, 4, 6, 2]
-Calculation Time: 4.540021657943726
+Profit: 23
+Path: [0, 1, 2]
+Calculation Time: 1.352304458618164
 
 
 54:
-0	inf	12	3	inf	9	2	inf
-3	0	15	2	inf	2	12	8
-8	7	0	2	inf	2	3	7
-6	inf	12	0	8	3	13	9
-9	6	inf	0	0	13	5	inf
-1	1	0	12	10	0	5	inf
-5	inf	8	7	0	inf	0	inf
-10	0	4	9	5	11	6	0
+0	4	1
+6	0	9
+7	1	0
 
 Vertex Weights:
-3	6	6	3	15	8	1	9
-Capacity: 27
+9	5	5
+Capacity: 9
 
-Profit: 51
-Path: [0, 6, 4, 3, 5, 1, 7, 1, 5, 2]
-Calculation Time: 6.160412788391113
+Profit: 19
+Path: [0, 2, 1]
+Calculation Time: 1.4073171615600586
 
 
 55:
-0	14	6	11	inf	inf	14	inf
-3	0	7	8	11	5	8	inf
-8	5	0	10	8	1	6	15
-inf	0	inf	0	inf	2	6	1
-inf	0	5	12	0	inf	6	1
-inf	inf	13	3	7	0	9	15
-5	13	inf	12	7	9	0	inf
-4	13	5	15	5	5	13	0
+0	10	14
+10	0	6
+6	6	0
 
 Vertex Weights:
-2	13	2	7	2	8	8	12
-Capacity: 30
+6	13	7
+Capacity: 18
 
-Profit: 54
-Path: [0, 2, 5, 3, 1, 6, 4, 7]
-Calculation Time: 8.002801895141602
+Profit: 26
+Path: [0, 1, 2]
+Calculation Time: 1.431321382522583
 
 
 56:
-0	5	inf	10	5	0	inf	inf
-10	0	9	13	inf	0	inf	6
-2	4	0	inf	3	3	1	8
-7	10	0	0	inf	5	15	9
-8	12	inf	inf	0	1	9	14
-inf	7	11	13	11	0	inf	2
-15	4	2	inf	7	inf	0	11
-10	6	15	15	1	4	1	0
+0	14	14
+5	0	3
+9	11	0
 
 Vertex Weights:
-12	14	0	5	9	15	12	5
-Capacity: 24
+4	11	1
+Capacity: 15
 
-Profit: 72
-Path: [0, 5, 7, 4, 5, 7, 6, 1, 3]
-Calculation Time: 5.344482898712158
+Profit: 15
+Path: [0, 1]
+Calculation Time: 1.8184096813201904
 
 
 57:
-0	7	3	inf	inf	inf	inf	inf
-4	0	11	11	inf	15	5	6
-3	13	0	14	inf	10	11	inf
-12	15	3	0	11	9	inf	12
-4	13	9	7	0	4	14	5
-0	14	11	12	3	0	1	12
-7	15	10	inf	0	inf	0	4
-10	12	inf	3	15	10	5	0
+0	4	11
+9	0	6
+14	7	0
 
 Vertex Weights:
-14	1	0	15	1	14	3	4
-Capacity: 24
+5	4	9
+Capacity: 17
 
-Profit: 52
-Path: [0, 1, 6, 4, 5, 6, 7, 3]
-Calculation Time: 5.257862329483032
+Profit: 18
+Path: [0, 1, 2]
+Calculation Time: 1.361307144165039
 
 
 58:
-0	10	8	6	3	7	7	3
-9	0	inf	inf	10	inf	6	inf
-2	3	0	11	4	1	5	0
-inf	inf	8	0	3	4	inf	8
-13	inf	inf	10	0	5	15	inf
-14	8	inf	12	3	0	13	14
-1	inf	10	6	12	12	0	6
-inf	6	4	10	4	4	8	0
+0	15	9
+12	0	10
+2	4	0
 
 Vertex Weights:
-15	6	11	4	5	11	1	5
-Capacity: 26
+11	1	13
+Capacity: 11
 
-Profit: 54
-Path: [0, 7, 2, 1, 6, 0, 4, 5]
-Calculation Time: 12.946914672851562
+Profit: 24
+Path: [0, 2]
+Calculation Time: 1.8104074001312256
 
 
 59:
-0	13	3	14	13	inf	4	4
-2	0	inf	inf	6	inf	15	12
-2	0	0	0	13	12	inf	inf
-0	2	6	0	0	7	13	11
-10	inf	10	7	0	inf	9	15
-15	13	8	7	inf	0	4	4
-11	inf	14	2	10	4	0	0
-9	14	5	13	inf	4	12	0
+0	8	5
+8	0	8
+5	7	0
 
 Vertex Weights:
-4	9	13	15	11	8	15	3
-Capacity: 30
+11	1	15
+Capacity: 14
 
-Profit: 78
-Path: [0, 7, 2, 3, 4, 3, 1, 0, 6, 5]
-Calculation Time: 5.978345632553101
+Profit: 27
+Path: [0, 2, 1]
+Calculation Time: 1.3763103485107422
 
 
 60:
-0	13	15	6	inf	9	13	13
-13	0	2	14	15	3	10	inf
-inf	inf	0	9	inf	2	inf	14
-9	1	10	0	inf	inf	2	inf
-0	12	6	4	0	11	5	inf
-7	2	4	13	9	0	6	inf
-2	3	15	12	2	10	0	9
-9	0	inf	15	inf	8	0	0
+0	11	13
+5	0	3
+4	6	0
 
 Vertex Weights:
-4	3	3	4	3	13	4	3
-Capacity: 18
+2	3	6
+Capacity: 15
 
-Profit: 31
-Path: [0, 3, 1, 2, 5, 6]
-Calculation Time: 5.510241746902466
+Profit: 11
+Path: [0, 1, 2]
+Calculation Time: 1.3623056411743164
 
 
 61:
-0	14	6	10	3	6	10	11	7
-2	0	12	15	2	1	8	8	10
-inf	inf	0	13	3	13	12	inf	inf
-3	inf	5	0	0	0	inf	0	7
-13	12	13	inf	0	11	15	inf	14
-4	9	10	7	inf	0	8	10	0
-10	1	inf	4	6	12	0	0	6
-4	10	13	1	inf	12	inf	0	11
-1	0	6	inf	6	inf	8	4	0
+0	5	13
+4	0	9
+13	6	0
 
 Vertex Weights:
-8	10	7	3	7	4	0	8	0
-Capacity: 28
+14	1	5
+Capacity: 21
 
-Profit: 47
-Path: [0, 8, 1, 5, 8, 7, 3, 4, 2]
-Calculation Time: 6.919702529907227
+Profit: 20
+Path: [0, 2, 1]
+Calculation Time: 1.3735618591308594
 
 
 62:
-0	3	inf	inf	10	inf	11	12	2
-0	0	12	inf	8	10	inf	7	2
-inf	4	0	inf	8	9	11	2	4
-11	14	inf	0	9	14	inf	1	1
-inf	7	1	1	0	1	inf	10	9
-13	inf	2	inf	7	0	4	15	4
-inf	10	inf	4	inf	2	0	12	10
-6	inf	9	inf	inf	9	inf	0	12
-inf	2	11	inf	4	inf	10	inf	0
+0	4	8
+4	0	12
+14	15	0
 
 Vertex Weights:
-8	6	7	14	14	12	12	6	10
-Capacity: 25
+6	11	4
+Capacity: 17
 
-Profit: 83
-Path: [0, 1, 8, 4, 5, 6, 3, 8, 4, 2]
-Calculation Time: 21.10208034515381
+Profit: 21
+Path: [0, 1, 2]
+Calculation Time: 1.4063169956207275
 
 
 63:
-0	9	inf	10	inf	inf	5	7	4
-inf	0	2	11	7	inf	3	14	inf
-0	10	0	3	inf	inf	10	11	inf
-15	inf	inf	0	8	2	inf	9	2
-2	0	inf	6	0	4	9	4	2
-0	2	11	13	inf	0	0	5	11
-13	15	12	inf	13	1	0	6	2
-10	14	2	0	14	10	inf	0	2
-inf	inf	inf	inf	9	9	10	15	0
+0	2	4
+5	0	1
+3	10	0
 
 Vertex Weights:
-11	6	5	6	5	8	12	0	11
-Capacity: 21
+12	10	1
+Capacity: 6
 
-Profit: 59
-Path: [0, 6, 5, 1, 2, 3, 8]
-Calculation Time: 11.965796947479248
+Profit: 23
+Path: [0, 1, 2]
+Calculation Time: 1.352304220199585
 
 
 64:
-0	inf	2	1	4	inf	15	3	14
-inf	0	inf	11	2	15	12	11	1
-4	2	0	15	13	inf	7	8	9
-10	15	inf	0	5	7	2	1	9
-4	1	inf	3	0	13	11	inf	1
-2	11	0	3	9	0	9	8	inf
-7	inf	10	11	7	9	0	11	inf
-inf	3	0	10	9	10	inf	0	inf
-inf	4	inf	6	7	inf	0	13	0
+0	2	10
+1	0	9
+4	1	0
 
 Vertex Weights:
-7	4	13	5	9	8	14	7	7
-Capacity: 19
+13	3	4
+Capacity: 9
 
-Profit: 74
-Path: [0, 3, 7, 2, 1, 4, 8, 6, 5]
-Calculation Time: 6.879644870758057
+Profit: 16
+Path: [0, 1]
+Calculation Time: 1.7914032936096191
 
 
 65:
-0	8	inf	6	inf	1	2	10	inf
-4	0	14	10	inf	inf	5	11	7
-11	12	0	7	7	4	inf	13	9
-6	inf	15	0	inf	3	5	15	11
-12	1	11	inf	0	inf	9	7	1
-8	1	15	3	4	0	10	inf	13
-inf	11	1	0	14	12	0	3	3
-7	inf	14	5	2	13	inf	0	2
-15	1	8	8	inf	13	inf	inf	0
+0	8	12
+9	0	14
+12	14	0
 
 Vertex Weights:
-5	11	1	12	10	8	14	0	8
-Capacity: 18
+11	3	6
+Capacity: 26
 
-Profit: 69
-Path: [0, 5, 4, 8, 1, 6, 3, 6, 2]
-Calculation Time: 6.045361757278442
+Profit: 20
+Path: [0, 2, 1]
+Calculation Time: 1.3563053607940674
 
 
 66:
-0	inf	14	11	6	8	inf	3	14
-10	0	7	7	3	5	inf	5	6
-7	15	0	inf	8	4	4	15	11
-15	inf	4	0	inf	inf	15	7	1
-4	12	1	15	0	inf	12	2	3
-7	6	9	3	inf	0	inf	inf	1
-15	15	15	1	inf	14	0	15	inf
-2	14	7	15	inf	8	3	0	inf
-inf	2	6	inf	inf	4	10	11	0
+0	1	5
+6	0	6
+2	15	0
 
 Vertex Weights:
-0	15	10	1	15	2	3	13	7
-Capacity: 17
+9	11	6
+Capacity: 8
 
-Profit: 64
-Path: [0, 7, 6, 3, 8, 1, 4, 2]
-Calculation Time: 7.386663436889648
+Profit: 26
+Path: [0, 1, 2]
+Calculation Time: 1.396775722503662
 
 
 67:
-0	5	1	13	inf	4	11	1	5
-14	0	3	inf	0	8	3	0	11
-12	3	0	3	1	10	10	10	14
-9	inf	inf	0	14	inf	8	3	15
-5	inf	inf	6	0	10	inf	9	7
-4	12	15	2	4	0	3	3	6
-6	inf	0	inf	8	12	0	inf	5
-6	8	10	inf	inf	9	13	0	14
-1	7	inf	inf	inf	inf	11	10	0
+0	14	6
+12	0	6
+14	1	0
 
 Vertex Weights:
-6	14	10	13	3	12	2	0	13
-Capacity: 20
+9	2	12
+Capacity: 15
 
-Profit: 71
-Path: [0, 2, 1, 4, 8, 0, 5, 3]
-Calculation Time: 15.692646980285645
+Profit: 23
+Path: [0, 2, 1]
+Calculation Time: 1.3920152187347412
 
 
 68:
-0	3	6	inf	7	12	9	12	15
-15	0	7	1	3	inf	1	inf	2
-1	inf	0	inf	7	11	10	9	0
-11	4	15	0	1	14	1	7	15
-5	inf	inf	8	0	10	0	inf	inf
-10	9	inf	inf	7	0	13	inf	inf
-1	inf	1	0	1	5	0	0	4
-12	inf	3	inf	9	2	13	0	14
-inf	inf	13	15	inf	14	11	6	0
+0	3	1
+6	0	13
+2	3	0
 
 Vertex Weights:
-14	0	7	3	4	8	10	15	4
-Capacity: 20
+7	6	11
+Capacity: 4
 
-Profit: 65
-Path: [0, 6, 3, 4, 6, 2, 8, 7, 5]
-Calculation Time: 7.853771448135376
+Profit: 24
+Path: [0, 2, 1]
+Calculation Time: 1.382310152053833
 
 
 69:
-0	inf	6	7	inf	inf	14	2	inf
-9	0	inf	12	inf	inf	6	inf	1
-13	3	0	9	inf	5	inf	inf	inf
-7	7	1	0	inf	1	10	4	14
-2	inf	2	7	0	7	4	inf	inf
-13	inf	13	14	inf	0	7	10	6
-inf	11	2	6	14	12	0	9	inf
-inf	0	5	12	inf	1	inf	0	6
-14	inf	15	inf	inf	inf	inf	5	0
+0	1	2
+13	0	15
+13	5	0
 
 Vertex Weights:
-9	8	0	9	5	11	13	3	10
-Capacity: 27
+7	13	2
+Capacity: 13
 
-Profit: 63
-Path: [0, 7, 1, 8, 7, 5, 6, 3]
-Calculation Time: 17.178059816360474
+Profit: 22
+Path: [0, 2, 1]
+Calculation Time: 1.3617222309112549
 
 
 70:
-0	13	15	12	4	3	inf	1	15
-0	0	1	11	9	3	9	9	9
-15	1	0	3	8	inf	inf	2	inf
-2	inf	12	0	9	inf	6	14	4
-10	inf	4	12	0	1	14	5	5
-inf	inf	8	1	inf	0	inf	15	3
-0	inf	2	12	7	9	0	1	8
-inf	7	inf	12	10	15	inf	0	15
-8	13	1	4	11	1	15	11	0
+0	7	11
+8	0	14
+8	10	0
 
 Vertex Weights:
-8	1	2	8	10	6	0	13	7
+13	9	4
+Capacity: 21
+
+Profit: 26
+Path: [0, 1, 2]
+Calculation Time: 1.364549160003662
+
+
+71:
+0	4	13
+12	0	14
+5	14	0
+
+Vertex Weights:
+5	14	11
+Capacity: 19
+
+Profit: 30
+Path: [0, 1, 2]
+Calculation Time: 1.3813197612762451
+
+
+72:
+0	4	12
+1	0	4
+8	3	0
+
+Vertex Weights:
+9	11	3
+Capacity: 6
+
+Profit: 20
+Path: [0, 1]
+Calculation Time: 1.8264122009277344
+
+
+73:
+0	11	3
+13	0	15
+4	15	0
+
+Vertex Weights:
+10	4	11
+Capacity: 21
+
+Profit: 25
+Path: [0, 2, 1]
+Calculation Time: 1.3973252773284912
+
+
+74:
+0	8	9
+8	0	15
+11	7	0
+
+Vertex Weights:
+11	12	9
+Capacity: 27
+
+Profit: 32
+Path: [0, 1, 2]
+Calculation Time: 1.3743104934692383
+
+
+75:
+0	6	10
+6	0	13
+8	2	0
+
+Vertex Weights:
+10	13	5
+Capacity: 13
+
+Profit: 28
+Path: [0, 2, 1]
+Calculation Time: 1.3783090114593506
+
+
+76:
+0	1	1
+1	0	15
+8	1	0
+
+Vertex Weights:
+4	13	9
+Capacity: 2
+
+Profit: 26
+Path: [0, 2, 1]
+Calculation Time: 1.3763442039489746
+
+
+77:
+0	6	5
+10	0	9
+10	1	0
+
+Vertex Weights:
+5	3	12
+Capacity: 16
+
+Profit: 20
+Path: [0, 2, 1]
+Calculation Time: 1.3723092079162598
+
+
+78:
+0	3	6
+2	0	14
+14	4	0
+
+Vertex Weights:
+4	13	9
+Capacity: 11
+
+Profit: 26
+Path: [0, 1, 0, 2]
+Calculation Time: 1.3642539978027344
+
+
+79:
+0	12	2
+2	0	12
+4	8	0
+
+Vertex Weights:
+11	3	13
+Capacity: 10
+
+Profit: 27
+Path: [0, 2, 1]
+Calculation Time: 1.3703522682189941
+
+
+80:
+0	13	6
+7	0	6
+2	15	0
+
+Vertex Weights:
+1	2	3
+Capacity: 17
+
+Profit: 4
+Path: [0, 2]
+Calculation Time: 1.8174095153808594
+
+
+81:
+0	8	10
+7	0	4
+9	4	0
+
+Vertex Weights:
+6	2	10
+Capacity: 11
+
+Profit: 16
+Path: [0, 2]
+Calculation Time: 1.8364429473876953
+
+
+82:
+0	14	10
+9	0	2
+11	7	0
+
+Vertex Weights:
+14	14	13
+Capacity: 18
+
+Profit: 41
+Path: [0, 2, 1]
+Calculation Time: 1.3893115520477295
+
+
+83:
+0	13	9
+11	0	9
+4	10	0
+
+Vertex Weights:
+2	6	15
+Capacity: 24
+
+Profit: 23
+Path: [0, 2, 1]
+Calculation Time: 1.3713099956512451
+
+
+84:
+0	7	1
+5	0	15
+11	11	0
+
+Vertex Weights:
+1	1	8
+Capacity: 14
+
+Profit: 10
+Path: [0, 2, 1]
+Calculation Time: 1.4333224296569824
+
+
+85:
+0	9	6
+7	0	11
+9	8	0
+
+Vertex Weights:
+11	2	12
+Capacity: 21
+
+Profit: 25
+Path: [0, 2, 1]
+Calculation Time: 1.4267621040344238
+
+
+86:
+0	3	10
+8	0	10
+12	5	0
+
+Vertex Weights:
+12	14	9
+Capacity: 21
+
+Profit: 35
+Path: [0, 1, 2]
+Calculation Time: 1.3763153553009033
+
+
+87:
+0	1	8
+14	0	1
+11	14	0
+
+Vertex Weights:
+8	5	15
+Capacity: 14
+
+Profit: 28
+Path: [0, 1, 2]
+Calculation Time: 1.345304012298584
+
+
+88:
+0	13	9
+4	0	15
+12	11	0
+
+Vertex Weights:
+8	5	1
+Capacity: 28
+
+Profit: 14
+Path: [0, 1, 0, 2]
+Calculation Time: 1.446791648864746
+
+
+89:
+0	4	1
+11	0	11
+12	12	0
+
+Vertex Weights:
+1	1	7
+Capacity: 17
+
+Profit: 9
+Path: [0, 2, 1]
+Calculation Time: 1.5763554573059082
+
+
+90:
+0	15	4
+1	0	1
+3	14	0
+
+Vertex Weights:
+8	8	13
+Capacity: 15
+
+Profit: 21
+Path: [0, 2]
+Calculation Time: 1.7944087982177734
+
+
+91:
+0	8	3
+2	0	9
+14	11	0
+
+Vertex Weights:
+2	1	8
+Capacity: 15
+
+Profit: 11
+Path: [0, 2, 1]
+Calculation Time: 1.3617258071899414
+
+
+92:
+0	12	12
+14	0	7
+4	10	0
+
+Vertex Weights:
+1	1	3
+Capacity: 19
+
+Profit: 5
+Path: [0, 1, 2]
+Calculation Time: 1.3661646842956543
+
+
+93:
+0	8	10
+4	0	1
+15	7	0
+
+Vertex Weights:
+2	10	14
+Capacity: 14
+
+Profit: 26
+Path: [0, 1, 2]
+Calculation Time: 1.3393006324768066
+
+
+94:
+0	12	12
+9	0	8
+4	9	0
+
+Vertex Weights:
+7	12	14
+Capacity: 25
+
+Profit: 33
+Path: [0, 2, 1]
+Calculation Time: 1.397315263748169
+
+
+95:
+0	12	12
+8	0	5
+5	4	0
+
+Vertex Weights:
+13	11	3
+Capacity: 14
+
+Profit: 24
+Path: [0, 1]
+Calculation Time: 1.852417230606079
+
+
+96:
+0	13	1
+1	0	14
+4	8	0
+
+Vertex Weights:
+10	9	13
+Capacity: 11
+
+Profit: 32
+Path: [0, 2, 1]
+Calculation Time: 1.4093225002288818
+
+
+97:
+0	9	15
+1	0	2
+2	5	0
+
+Vertex Weights:
+11	10	10
+Capacity: 8
+
+Profit: 11
+Path: [0]
+Calculation Time: 0.9432129859924316
+
+
+98:
+0	1	5
+8	0	11
+2	4	0
+
+Vertex Weights:
+14	10	13
+Capacity: 7
+
+Profit: 27
+Path: [0, 2]
+Calculation Time: 1.8094074726104736
+
+
+99:
+0	11	8
+11	0	9
+8	13	0
+
+Vertex Weights:
+7	12	6
+Capacity: 20
+
+Profit: 25
+Path: [0, 1, 2]
+Calculation Time: 1.3513047695159912
+
+
+100:
+0	2	11
+15	0	5
+9	13	0
+
+Vertex Weights:
+13	6	8
+Capacity: 16
+
+Profit: 27
+Path: [0, 1, 2]
+Calculation Time: 1.3363006114959717
+
+
+101:
+0	15	14	10
+9	0	15	12
+4	2	0	5
+6	11	4	0
+
+Vertex Weights:
+7	2	15	9
+Capacity: 15
+
+Profit: 31
+Path: [0, 3, 2]
+Calculation Time: 2.743617534637451
+
+
+102:
+0	10	9	8
+13	0	10	6
+13	10	0	12
+11	14	10	0
+
+Vertex Weights:
+15	14	15	1
+Capacity: 30
+
+Profit: 45
+Path: [0, 2, 1, 3]
+Calculation Time: 2.2465062141418457
+
+
+103:
+0	2	4	9
+3	0	8	8
+14	3	0	14
+2	11	7	0
+
+Vertex Weights:
+5	11	5	5
+Capacity: 19
+
+Profit: 26
+Path: [0, 2, 1, 3]
+Calculation Time: 2.273618459701538
+
+
+104:
+0	13	7	9
+8	0	13	15
+14	9	0	6
+13	1	12	0
+
+Vertex Weights:
+11	6	12	5
+Capacity: 21
+
+Profit: 34
+Path: [0, 2, 3, 1]
+Calculation Time: 2.2565090656280518
+
+
+105:
+0	10	1	13
+15	0	4	6
+5	14	0	9
+1	5	14	0
+
+Vertex Weights:
+3	8	15	1
+Capacity: 15
+
+Profit: 27
+Path: [0, 2, 3, 1]
+Calculation Time: 2.2645089626312256
+
+
+106:
+0	6	1	2
+6	0	14	13
+7	15	0	4
+8	9	15	0
+
+Vertex Weights:
+4	2	3	13
+Capacity: 13
+
+Profit: 20
+Path: [0, 3, 0, 2]
+Calculation Time: 2.753786087036133
+
+
+107:
+0	7	9	13
+11	0	2	6
+12	1	0	8
+2	14	12	0
+
+Vertex Weights:
+13	14	12	5
+Capacity: 11
+
+Profit: 39
+Path: [0, 1, 2]
+Calculation Time: 2.6897590160369873
+
+
+108:
+0	5	6	9
+14	0	4	6
+8	9	0	11
+13	13	15	0
+
+Vertex Weights:
+11	11	8	6
+Capacity: 24
+
+Profit: 36
+Path: [0, 2, 1, 3]
+Calculation Time: 2.2410106658935547
+
+
+109:
+0	1	7	5
+3	0	12	15
+8	7	0	2
+2	14	9	0
+
+Vertex Weights:
+12	12	1	11
+Capacity: 10
+
+Profit: 35
+Path: [0, 1, 0, 3]
+Calculation Time: 2.769824266433716
+
+
+110:
+0	14	7	9
+13	0	10	14
+10	4	0	13
+14	7	10	0
+
+Vertex Weights:
+14	15	10	15
+Capacity: 28
+
+Profit: 54
+Path: [0, 3, 1, 2]
+Calculation Time: 2.2465062141418457
+
+
+111:
+0	8	7	3
+1	0	4	3
+5	1	0	9
+15	2	11	0
+
+Vertex Weights:
+6	1	1	1
+Capacity: 8
+
+Profit: 8
+Path: [0, 3, 1]
+Calculation Time: 2.7196128368377686
+
+
+112:
+0	5	13	5
+10	0	13	7
+7	9	0	14
+1	9	5	0
+
+Vertex Weights:
+8	2	5	14
+Capacity: 12
+
+Profit: 27
+Path: [0, 3, 2]
+Calculation Time: 2.7426235675811768
+
+
+113:
+0	4	8	13
+6	0	2	15
+7	5	0	11
+13	6	7	0
+
+Vertex Weights:
+7	11	7	13
+Capacity: 24
+
+Profit: 38
+Path: [0, 1, 2, 3]
+Calculation Time: 2.336526393890381
+
+
+114:
+0	5	6	10
+2	0	2	7
+2	2	0	1
+2	12	6	0
+
+Vertex Weights:
+3	3	12	10
+Capacity: 5
+
+Profit: 6
+Path: [0, 1]
+Calculation Time: 1.8254108428955078
+
+
+115:
+0	11	9	5
+7	0	10	11
+11	4	0	9
+6	8	2	0
+
+Vertex Weights:
+1	15	10	14
+Capacity: 14
+
+Profit: 40
+Path: [0, 3, 2, 1]
+Calculation Time: 2.268509864807129
+
+
+116:
+0	13	1	2
+6	0	8	5
+4	1	0	10
+6	5	5	0
+
+Vertex Weights:
+13	15	5	3
+Capacity: 9
+
+Profit: 36
+Path: [0, 2, 1, 3]
+Calculation Time: 2.236504316329956
+
+
+117:
+0	6	15	8
+13	0	7	15
+13	13	0	4
+12	8	12	0
+
+Vertex Weights:
+5	10	15	4
+Capacity: 33
+
+Profit: 34
+Path: [0, 1, 2, 3]
+Calculation Time: 2.326608180999756
+
+
+118:
+0	5	4	11
+3	0	7	3
+1	8	0	5
+8	2	2	0
+
+Vertex Weights:
+7	1	3	13
+Capacity: 8
+
+Profit: 21
+Path: [0, 1, 3]
+Calculation Time: 2.7216970920562744
+
+
+119:
+0	5	9	4
+6	0	1	13
+10	2	0	4
+5	13	5	0
+
+Vertex Weights:
+13	5	1	8
+Capacity: 9
+
+Profit: 22
+Path: [0, 3, 2]
+Calculation Time: 2.683234453201294
+
+
+120:
+0	1	7	11
+3	0	14	7
+7	1	0	8
+12	7	15	0
+
+Vertex Weights:
+3	12	10	15
+Capacity: 16
+
+Profit: 40
+Path: [0, 2, 1, 3]
+Calculation Time: 2.2338621616363525
+
+
+121:
+0	8	11	13
+12	0	3	7
+12	14	0	15
+9	4	11	0
+
+Vertex Weights:
+13	8	8	15
+Capacity: 21
+
+Profit: 44
+Path: [0, 3, 1, 2]
+Calculation Time: 2.2808666229248047
+
+
+122:
+0	2	5	12
+12	0	2	14
+6	7	0	14
+3	15	8	0
+
+Vertex Weights:
+4	13	7	7
+Capacity: 14
+
+Profit: 24
+Path: [0, 1, 2]
+Calculation Time: 2.7886269092559814
+
+
+123:
+0	14	1	14
+5	0	8	8
+11	4	0	14
+4	14	4	0
+
+Vertex Weights:
+7	11	6	8
+Capacity: 14
+
+Profit: 32
+Path: [0, 2, 1, 3]
+Calculation Time: 2.2605092525482178
+
+
+124:
+0	3	10	3
+8	0	12	12
+3	13	0	9
+11	7	2	0
+
+Vertex Weights:
+8	4	14	8
+Capacity: 11
+
+Profit: 34
+Path: [0, 3, 2, 0, 1]
+Calculation Time: 2.2955570220947266
+
+
+125:
+0	1	5	5
+12	0	8	3
+1	10	0	2
+10	5	4	0
+
+Vertex Weights:
+7	14	3	14
+Capacity: 6
+
+Profit: 35
+Path: [0, 1, 3]
+Calculation Time: 2.7248787879943848
+
+
+126:
+0	11	10	7
+12	0	8	2
+3	13	0	15
+14	3	4	0
+
+Vertex Weights:
+13	12	12	14
+Capacity: 9
+
+Profit: 27
+Path: [0, 3]
+Calculation Time: 1.8484163284301758
+
+
+127:
+0	12	14	4
+1	0	6	2
+11	3	0	6
+7	15	7	0
+
+Vertex Weights:
+9	10	14	2
+Capacity: 13
+
+Profit: 25
+Path: [0, 3, 2]
+Calculation Time: 2.7606003284454346
+
+
+128:
+0	12	1	6
+13	0	10	10
+15	11	0	13
+12	6	13	0
+
+Vertex Weights:
+5	10	10	8
+Capacity: 18
+
+Profit: 25
+Path: [0, 2, 1]
+Calculation Time: 2.706829071044922
+
+
+129:
+0	1	15	11
+2	0	2	5
+8	1	0	7
+8	13	5	0
+
+Vertex Weights:
+8	4	6	3
+Capacity: 9
+
+Profit: 21
+Path: [0, 1, 2, 1, 3]
+Calculation Time: 2.2449429035186768
+
+
+130:
+0	8	2	3
+7	0	13	13
+8	1	0	15
+14	11	6	0
+
+Vertex Weights:
+5	6	14	8
+Capacity: 11
+
+Profit: 33
+Path: [0, 3, 2, 1]
+Calculation Time: 2.267169713973999
+
+
+131:
+0	13	14	5
+6	0	9	1
+12	6	0	6
+7	1	13	0
+
+Vertex Weights:
+7	15	7	6
+Capacity: 12
+
+Profit: 28
+Path: [0, 3, 1]
+Calculation Time: 2.653611421585083
+
+
+132:
+0	14	8	13
+13	0	8	5
+3	1	0	10
+6	15	9	0
+
+Vertex Weights:
+13	3	4	12
+Capacity: 19
+
+Profit: 32
+Path: [0, 2, 1, 3]
+Calculation Time: 2.2439863681793213
+
+
+133:
+0	8	4	7
+4	0	6	15
+9	12	0	1
+6	3	1	0
+
+Vertex Weights:
+8	6	10	12
+Capacity: 10
+
+Profit: 36
+Path: [0, 2, 3, 1]
+Calculation Time: 2.261012554168701
+
+
+134:
+0	1	3	9
+3	0	15	12
+11	4	0	10
+12	7	6	0
+
+Vertex Weights:
+7	11	5	3
+Capacity: 15
+
+Profit: 23
+Path: [0, 1, 0, 2]
+Calculation Time: 2.6952855587005615
+
+
+135:
+0	4	7	14
+9	0	5	13
+9	9	0	11
+12	8	1	0
+
+Vertex Weights:
+2	14	10	8
+Capacity: 30
+
+Profit: 34
+Path: [0, 3, 2, 1]
+Calculation Time: 2.2555060386657715
+
+
+136:
+0	13	12	14
+11	0	6	7
+8	6	0	8
+2	15	6	0
+
+Vertex Weights:
+11	4	2	13
+Capacity: 19
+
+Profit: 24
+Path: [0, 3]
+Calculation Time: 1.7774004936218262
+
+
+137:
+0	6	3	3
+11	0	2	1
+3	1	0	3
+3	6	3	0
+
+Vertex Weights:
+3	3	4	4
+Capacity: 7
+
+Profit: 14
+Path: [0, 2, 1, 3]
+Calculation Time: 2.2285032272338867
+
+
+138:
+0	4	4	1
+9	0	15	15
+4	5	0	15
+10	11	3	0
+
+Vertex Weights:
+8	7	3	8
+Capacity: 9
+
+Profit: 26
+Path: [0, 3, 2, 1]
+Calculation Time: 2.252505302429199
+
+
+139:
+0	14	1	4
+2	0	9	4
+1	1	0	15
+14	10	7	0
+
+Vertex Weights:
+12	5	6	5
+Capacity: 5
+
+Profit: 23
+Path: [0, 2, 1]
+Calculation Time: 2.6666016578674316
+
+
+140:
+0	8	7	5
+11	0	5	6
+5	3	0	8
+4	7	9	0
+
+Vertex Weights:
+15	10	6	11
+Capacity: 17
+
+Profit: 42
+Path: [0, 3, 1, 2]
+Calculation Time: 2.267509937286377
+
+
+141:
+0	13	13	1
+11	0	8	8
+10	4	0	8
+6	6	2	0
+
+Vertex Weights:
+8	12	9	8
+Capacity: 14
+
+Profit: 37
+Path: [0, 3, 2, 1]
+Calculation Time: 2.2928061485290527
+
+
+142:
+0	4	15	12
+14	0	11	14
+1	11	0	2
+14	4	6	0
+
+Vertex Weights:
+4	14	11	11
+Capacity: 10
+
+Profit: 18
+Path: [0, 1]
+Calculation Time: 1.814901351928711
+
+
+143:
+0	6	3	8
+5	0	15	12
+11	7	0	8
+13	15	13	0
+
+Vertex Weights:
+11	3	13	1
+Capacity: 24
+
+Profit: 28
+Path: [0, 1, 0, 2, 3]
+Calculation Time: 2.311530828475952
+
+
+144:
+0	1	10	10
+1	0	2	15
+12	1	0	12
+13	12	2	0
+
+Vertex Weights:
+5	6	3	8
+Capacity: 14
+
+Profit: 22
+Path: [0, 3, 2, 1]
+Calculation Time: 2.2464585304260254
+
+
+145:
+0	3	6	10
+8	0	5	3
+5	1	0	2
+7	4	2	0
+
+Vertex Weights:
+14	4	10	1
+Capacity: 10
+
+Profit: 29
+Path: [0, 1, 2, 3]
+Calculation Time: 2.251068353652954
+
+
+146:
+0	12	5	2
+12	0	5	12
+4	15	0	3
+5	8	4	0
+
+Vertex Weights:
+12	7	5	9
+Capacity: 13
+
+Profit: 28
+Path: [0, 3, 1]
+Calculation Time: 2.7712669372558594
+
+
+147:
+0	8	4	1
+2	0	12	10
+9	1	0	2
+8	13	8	0
+
+Vertex Weights:
+14	3	6	14
+Capacity: 7
+
+Profit: 34
+Path: [0, 2, 3]
+Calculation Time: 2.7216129302978516
+
+
+148:
+0	7	8	6
+2	0	6	11
+13	9	0	11
+11	2	5	0
+
+Vertex Weights:
+7	6	2	11
+Capacity: 12
+
+Profit: 24
+Path: [0, 3, 1]
+Calculation Time: 2.7265830039978027
+
+
+149:
+0	7	12	11
+5	0	12	3
+6	11	0	11
+3	3	15	0
+
+Vertex Weights:
+12	5	7	12
+Capacity: 25
+
+Profit: 36
+Path: [0, 1, 3, 2]
+Calculation Time: 2.2525076866149902
+
+
+150:
+0	3	9	15
+13	0	2	11
+4	12	0	7
+3	13	1	0
+
+Vertex Weights:
+14	6	13	4
+Capacity: 14
+
+Profit: 37
+Path: [0, 1, 2, 3]
+Calculation Time: 2.275512218475342
+
+
+151:
+0	1	7	7
+13	0	12	10
+8	12	0	14
+14	10	7	0
+
+Vertex Weights:
+1	9	12	12
+Capacity: 22
+
+Profit: 34
+Path: [0, 1, 3, 2]
+Calculation Time: 2.281512975692749
+
+
+152:
+0	14	14	11
+3	0	15	3
+2	9	0	2
+1	4	14	0
+
+Vertex Weights:
+7	7	2	7
+Capacity: 23
+
+Profit: 23
+Path: [0, 2, 3, 1]
+Calculation Time: 2.2579100131988525
+
+
+153:
+0	10	11	5
+9	0	11	11
+9	11	0	12
+14	2	8	0
+
+Vertex Weights:
+13	14	15	8
+Capacity: 24
+
+Profit: 50
+Path: [0, 3, 1, 2]
+Calculation Time: 2.2355072498321533
+
+
+154:
+0	8	14	13
+12	0	12	8
+4	7	0	12
+5	14	1	0
+
+Vertex Weights:
+7	7	12	2
+Capacity: 18
+
+Profit: 28
+Path: [0, 1, 3, 2]
+Calculation Time: 2.2705116271972656
+
+
+155:
+0	15	5	5
+1	0	15	8
+10	5	0	11
+8	4	14	0
+
+Vertex Weights:
+13	7	12	10
+Capacity: 15
+
+Profit: 42
+Path: [0, 3, 1, 0, 2]
+Calculation Time: 2.24991512298584
+
+
+156:
+0	14	11	13
+12	0	3	5
+7	14	0	15
+5	7	6	0
+
+Vertex Weights:
+1	1	8	3
+Capacity: 19
+
+Profit: 12
+Path: [0, 3, 2]
+Calculation Time: 2.719745397567749
+
+
+157:
+0	15	4	9
+15	0	12	11
+12	10	0	15
+7	7	13	0
+
+Vertex Weights:
+15	12	15	7
+Capacity: 23
+
+Profit: 42
+Path: [0, 2, 1]
+Calculation Time: 2.765622854232788
+
+
+158:
+0	9	9	13
+14	0	7	8
+7	3	0	13
+8	3	6	0
+
+Vertex Weights:
+10	10	8	1
+Capacity: 18
+
+Profit: 28
+Path: [0, 1, 2]
+Calculation Time: 2.772270679473877
+
+
+159:
+0	8	12	9
+15	0	4	12
+2	5	0	8
+5	13	1	0
+
+Vertex Weights:
+7	12	11	3
+Capacity: 13
+
+Profit: 30
+Path: [0, 1, 2]
+Calculation Time: 2.863645553588867
+
+
+160:
+0	11	11	14
+1	0	1	7
+12	6	0	8
+1	4	13	0
+
+Vertex Weights:
+4	7	14	15
+Capacity: 11
+
+Profit: 18
+Path: [0, 2]
+Calculation Time: 1.8584179878234863
+
+
+161:
+0	7	4	12
+14	0	13	1
+4	7	0	7
+15	7	3	0
+
+Vertex Weights:
+10	7	2	14
+Capacity: 13
+
+Profit: 33
+Path: [0, 1, 3, 2]
+Calculation Time: 2.3460452556610107
+
+
+162:
+0	5	2	3
+11	0	13	6
+9	3	0	11
+7	5	2	0
+
+Vertex Weights:
+11	15	15	14
+Capacity: 17
+
+Profit: 55
+Path: [0, 3, 2, 1]
+Calculation Time: 2.3365273475646973
+
+
+163:
+0	14	11	11
+5	0	9	3
+13	9	0	9
+11	7	9	0
+
+Vertex Weights:
+6	9	8	13
+Capacity: 27
+
+Profit: 36
+Path: [0, 2, 3, 1]
+Calculation Time: 2.2635085582733154
+
+
+164:
+0	6	9	10
+7	0	5	10
+14	11	0	1
+13	3	9	0
+
+Vertex Weights:
+1	2	2	3
+Capacity: 12
+
+Profit: 8
+Path: [0, 1, 2, 3]
+Calculation Time: 2.2995176315307617
+
+
+165:
+0	2	6	2
+8	0	10	15
+12	12	0	5
+10	2	3	0
+
+Vertex Weights:
+14	9	10	2
+Capacity: 14
+
+Profit: 35
+Path: [0, 3, 1, 2]
+Calculation Time: 2.2915163040161133
+
+
+166:
+0	5	7	15
+13	0	10	12
+8	3	0	15
+13	5	7	0
+
+Vertex Weights:
+14	7	14	11
+Capacity: 36
+
+Profit: 46
+Path: [0, 3, 2, 1]
+Calculation Time: 2.2666618824005127
+
+
+167:
+0	4	7	15
+7	0	4	15
+11	2	0	9
+4	5	14	0
+
+Vertex Weights:
+8	7	4	9
+Capacity: 17
+
+Profit: 28
+Path: [0, 1, 2, 3]
+Calculation Time: 2.2377946376800537
+
+
+168:
+0	10	7	12
+4	0	1	13
+3	4	0	3
+7	9	2	0
+
+Vertex Weights:
+8	9	5	4
+Capacity: 9
+
+Profit: 13
+Path: [0, 2]
+Calculation Time: 1.809786319732666
+
+
+169:
+0	14	6	2
+2	0	12	11
+10	14	0	15
+2	7	3	0
+
+Vertex Weights:
+4	9	5	9
+Capacity: 12
+
+Profit: 22
+Path: [0, 3, 1]
+Calculation Time: 2.6830787658691406
+
+
+170:
+0	1	3	11
+9	0	3	4
+10	8	0	6
+1	9	2	0
+
+Vertex Weights:
+15	9	2	6
+Capacity: 7
+
+Profit: 32
+Path: [0, 1, 3, 2]
+Calculation Time: 2.2293148040771484
+
+
+171:
+0	14	15	12
+9	0	4	8
+10	5	0	7
+12	13	6	0
+
+Vertex Weights:
+5	13	3	13
+Capacity: 30
+
+Profit: 34
+Path: [0, 1, 3, 2]
+Calculation Time: 2.265072822570801
+
+
+172:
+0	10	12	8
+13	0	14	1
+15	8	0	13
+6	13	9	0
+
+Vertex Weights:
+1	5	4	5
+Capacity: 28
+
+Profit: 15
+Path: [0, 1, 3, 2]
+Calculation Time: 2.3828928470611572
+
+
+173:
+0	11	13	6
+15	0	7	13
+5	9	0	11
+9	3	3	0
+
+Vertex Weights:
+10	10	12	9
+Capacity: 13
+
+Profit: 31
+Path: [0, 3, 2]
+Calculation Time: 2.767893075942993
+
+
+174:
+0	3	6	15
+1	0	10	4
+8	8	0	7
+15	15	3	0
+
+Vertex Weights:
+2	1	7	11
+Capacity: 11
+
+Profit: 21
+Path: [0, 1, 3, 2]
+Calculation Time: 2.273530960083008
+
+
+175:
+0	9	1	6
+11	0	10	9
+7	2	0	8
+5	6	1	0
+
+Vertex Weights:
+4	4	7	3
+Capacity: 16
+
+Profit: 18
+Path: [0, 3, 2, 1]
+Calculation Time: 2.244504928588867
+
+
+176:
+0	3	5	7
+4	0	9	5
+14	7	0	12
+14	13	10	0
+
+Vertex Weights:
+4	8	5	3
+Capacity: 14
+
+Profit: 17
+Path: [0, 1, 2]
+Calculation Time: 2.676603317260742
+
+
+177:
+0	9	9	9
+10	0	11	15
+7	12	0	13
+8	10	14	0
+
+Vertex Weights:
+5	10	6	4
+Capacity: 40
+
+Profit: 25
+Path: [0, 3, 1, 2]
+Calculation Time: 2.2365036010742188
+
+
+178:
+0	11	9	11
+13	0	5	5
+13	3	0	5
+13	15	1	0
+
+Vertex Weights:
+1	3	7	7
+Capacity: 17
+
+Profit: 18
+Path: [0, 3, 2, 1]
+Calculation Time: 2.2445051670074463
+
+
+179:
+0	11	8	10
+3	0	7	6
+3	1	0	15
+10	2	1	0
+
+Vertex Weights:
+14	4	4	5
+Capacity: 12
+
+Profit: 27
+Path: [0, 3, 2, 1]
+Calculation Time: 2.248506784439087
+
+
+180:
+0	9	8	13
+8	0	12	8
+5	2	0	11
+9	8	4	0
+
+Vertex Weights:
+14	6	9	9
+Capacity: 18
+
+Profit: 38
+Path: [0, 2, 1, 3]
+Calculation Time: 2.242504358291626
+
+
+181:
+0	5	5	9
+3	0	9	7
+7	9	0	13
+13	3	13	0
+
+Vertex Weights:
+7	13	11	1
+Capacity: 16
+
+Profit: 31
+Path: [0, 1, 0, 2]
+Calculation Time: 2.6856045722961426
+
+
+182:
+0	12	11	13
+12	0	3	3
+14	1	0	5
+15	7	4	0
+
+Vertex Weights:
+13	3	8	9
+Capacity: 14
+
+Profit: 24
+Path: [0, 2, 1]
+Calculation Time: 2.689605474472046
+
+
+183:
+0	12	7	6
+7	0	8	2
+6	15	0	15
+3	8	9	0
+
+Vertex Weights:
+4	15	6	2
+Capacity: 15
+
+Profit: 21
+Path: [0, 1, 3]
+Calculation Time: 2.7191312313079834
+
+
+184:
+0	8	8	15
+6	0	5	11
+9	6	0	11
+3	3	12	0
+
+Vertex Weights:
+1	3	9	8
+Capacity: 21
+
+Profit: 18
+Path: [0, 2, 3]
+Calculation Time: 2.6787755489349365
+
+
+185:
+0	2	10	2
+14	0	6	8
+10	1	0	5
+14	9	9	0
+
+Vertex Weights:
+8	7	10	3
+Capacity: 19
+
+Profit: 28
+Path: [0, 3, 2, 1]
+Calculation Time: 2.25102162361145
+
+
+186:
+0	13	2	13
+12	0	13	7
+2	15	0	8
+6	2	14	0
+
+Vertex Weights:
+3	2	6	13
+Capacity: 13
+
+Profit: 24
+Path: [0, 2, 3, 1]
+Calculation Time: 2.2421505451202393
+
+
+187:
+0	8	5	3
+9	0	1	7
+14	4	0	14
+8	7	10	0
+
+Vertex Weights:
+10	8	8	8
+Capacity: 17
+
+Profit: 34
+Path: [0, 3, 1, 2]
+Calculation Time: 2.2625083923339844
+
+
+188:
+0	13	13	11
+7	0	7	8
+13	1	0	8
+9	10	9	0
+
+Vertex Weights:
+12	7	5	4
+Capacity: 27
+
+Profit: 28
+Path: [0, 2, 1, 3]
+Calculation Time: 2.2509710788726807
+
+
+189:
+0	9	10	8
+12	0	4	2
+13	14	0	3
+9	12	1	0
+
+Vertex Weights:
+15	7	10	8
+Capacity: 24
+
+Profit: 40
+Path: [0, 1, 2, 3]
+Calculation Time: 2.2705111503601074
+
+
+190:
+0	2	5	14
+11	0	14	11
+13	10	0	6
+9	6	14	0
+
+Vertex Weights:
+10	4	2	6
+Capacity: 18
+
+Profit: 22
+Path: [0, 2, 3, 1]
+Calculation Time: 2.267789840698242
+
+
+191:
+0	1	5	6
+10	0	6	11
+8	9	0	12
+11	12	11	0
+
+Vertex Weights:
+10	12	11	1
+Capacity: 17
+
+Profit: 33
+Path: [0, 1, 2]
+Calculation Time: 2.715611457824707
+
+
+192:
+0	3	6	13
+5	0	3	11
+9	11	0	11
+3	1	6	0
+
+Vertex Weights:
+2	15	2	5
+Capacity: 15
+
+Profit: 22
+Path: [0, 1, 3]
+Calculation Time: 2.6726014614105225
+
+
+193:
+0	5	13	15
+3	0	6	3
+10	10	0	10
+3	9	11	0
+
+Vertex Weights:
+3	2	7	14
+Capacity: 19
+
+Profit: 26
+Path: [0, 1, 3, 2]
+Calculation Time: 2.2985174655914307
+
+
+194:
+0	11	11	11
+9	0	10	14
+4	5	0	4
+2	15	6	0
+
+Vertex Weights:
+3	10	8	13
+Capacity: 20
+
+Profit: 24
+Path: [0, 3, 2]
+Calculation Time: 2.6921181678771973
+
+
+195:
+0	13	11	11
+15	0	13	9
+15	12	0	11
+3	10	7	0
+
+Vertex Weights:
+12	3	1	1
+Capacity: 25
+
+Profit: 16
+Path: [0, 1, 3]
+Calculation Time: 2.6615982055664062
+
+
+196:
+0	11	12	14
+12	0	2	8
+11	7	0	8
+7	15	14	0
+
+Vertex Weights:
+5	7	1	3
+Capacity: 22
+
+Profit: 16
+Path: [0, 1, 2, 3]
+Calculation Time: 2.233503818511963
+
+
+197:
+0	14	2	9
+5	0	2	4
+14	2	0	3
+3	3	15	0
+
+Vertex Weights:
+7	6	5	13
+Capacity: 11
+
+Profit: 31
+Path: [0, 2, 3, 1]
+Calculation Time: 2.2645092010498047
+
+
+198:
+0	13	9	6
+5	0	11	11
+4	3	0	1
+12	2	10	0
+
+Vertex Weights:
+11	13	10	12
+Capacity: 19
+
+Profit: 46
+Path: [0, 3, 1, 2]
+Calculation Time: 2.2525367736816406
+
+
+199:
+0	1	5	3
+15	0	8	2
+15	7	0	15
+6	9	14	0
+
+Vertex Weights:
+1	3	7	8
+Capacity: 11
+
+Profit: 12
+Path: [0, 3, 0, 1]
+Calculation Time: 2.6760218143463135
+
+
+200:
+0	4	8	9
+11	0	1	2
+10	1	0	11
+10	2	2	0
+
+Vertex Weights:
+7	3	7	4
+Capacity: 11
+
+Profit: 21
+Path: [0, 1, 2, 1, 3]
+Calculation Time: 2.2642128467559814
+
+
+201:
+0	11	12	14	4
+10	0	15	15	13
+8	5	0	3	9
+6	11	6	0	9
+9	12	14	6	0
+
+Vertex Weights:
+9	12	14	11	9
+Capacity: 18
+
+Profit: 43
+Path: [0, 4, 3, 2]
+Calculation Time: 3.6530258655548096
+
+
+202:
+0	3	8	15	14
+10	0	15	12	13
+13	13	0	9	12
+15	6	4	0	8
+12	15	10	8	0
+
+Vertex Weights:
+5	12	11	5	8
+Capacity: 32
+
+Profit: 41
+Path: [0, 1, 3, 2, 4]
+Calculation Time: 3.1480507850646973
+
+
+203:
+0	13	12	7	8
+15	0	9	10	4
+12	13	0	10	11
+8	3	3	0	3
+15	10	6	15	0
+
+Vertex Weights:
+11	3	5	13	1
+Capacity: 24
+
+Profit: 33
+Path: [0, 3, 1, 4, 2]
+Calculation Time: 3.141709804534912
+
+
+204:
+0	11	7	4	5
+11	0	8	9	14
+6	10	0	13	6
+9	7	2	0	9
+7	14	1	12	0
+
+Vertex Weights:
+10	7	3	8	3
+Capacity: 24
+
+Profit: 31
+Path: [0, 4, 2, 0, 3, 1]
+Calculation Time: 3.126704692840576
+
+
+205:
+0	11	4	5	7
+9	0	13	15	6
+10	1	0	7	10
+7	13	9	0	5
+10	8	15	8	0
+
+Vertex Weights:
+5	1	2	4	10
+Capacity: 25
+
+Profit: 22
+Path: [0, 2, 1, 4, 3]
+Calculation Time: 3.1327064037323
+
+
+206:
+0	13	4	14	7
+6	0	13	3	9
+7	2	0	12	12
+4	9	10	0	4
+2	1	14	4	0
+
+Vertex Weights:
+13	7	15	15	8
+Capacity: 15
+
+Profit: 58
+Path: [0, 2, 1, 3, 4]
+Calculation Time: 3.1247034072875977
+
+
+207:
+0	6	1	11	1
+15	0	8	1	11
+11	8	0	6	9
+8	14	11	0	3
+7	10	2	8	0
+
+Vertex Weights:
+15	7	2	9	3
+Capacity: 18
+
+Profit: 36
+Path: [0, 4, 1, 3, 4, 2]
+Calculation Time: 3.1437082290649414
+
+
+208:
+0	9	3	1	9
+2	0	8	14	9
+14	9	0	2	10
+6	9	5	0	15
+3	14	4	7	0
+
+Vertex Weights:
+9	12	8	13	3
+Capacity: 20
+
+Profit: 42
+Path: [0, 2, 3, 1]
+Calculation Time: 3.6092441082000732
+
+
+209:
+0	8	9	10	12
+4	0	14	2	5
+13	3	0	10	14
+7	9	5	0	3
+7	11	11	6	0
+
+Vertex Weights:
+8	12	8	8	2
+Capacity: 19
+
+Profit: 38
+Path: [0, 2, 1, 3, 4]
+Calculation Time: 3.1298952102661133
+
+
+210:
+0	12	5	13	1
+11	0	6	1	11
+9	12	0	13	1
+5	9	14	0	4
+1	12	11	2	0
+
+Vertex Weights:
+13	5	12	5	2
+Capacity: 13
+
+Profit: 32
+Path: [0, 4, 0, 2, 4, 3]
+Calculation Time: 3.5616402626037598
+
+
+211:
+0	10	3	2	7
+15	0	8	10	4
+8	9	0	8	12
+7	14	14	0	6
+8	4	2	7	0
+
+Vertex Weights:
+13	10	1	14	9
+Capacity: 22
+
+Profit: 47
+Path: [0, 3, 4, 1, 4, 2]
+Calculation Time: 3.1367061138153076
+
+
+212:
+0	7	5	1	13
+4	0	5	11	4
+15	8	0	8	4
+5	1	14	0	3
+14	2	15	8	0
+
+Vertex Weights:
+15	2	2	7	1
+Capacity: 14
+
+Profit: 27
+Path: [0, 3, 4, 1, 2]
+Calculation Time: 3.1647121906280518
+
+
+213:
+0	4	9	12	8
+7	0	8	9	6
+4	4	0	10	1
+11	12	8	0	5
+3	13	3	15	0
+
+Vertex Weights:
+2	4	5	9	2
+Capacity: 21
+
+Profit: 22
+Path: [0, 1, 3, 4, 2]
+Calculation Time: 3.159721612930298
+
+
+214:
+0	11	11	9	15
+8	0	14	9	15
+4	5	0	7	5
+12	3	6	0	13
+5	6	12	12	0
+
+Vertex Weights:
+11	14	14	12	11
+Capacity: 24
+
+Profit: 51
+Path: [0, 3, 2, 1]
+Calculation Time: 3.656822919845581
+
+
+215:
+0	3	9	3	2
+14	0	7	15	15
+7	1	0	15	8
+2	9	6	0	11
+5	5	6	9	0
+
+Vertex Weights:
+7	5	12	1	11
+Capacity: 15
+
+Profit: 36
+Path: [0, 3, 0, 4, 2, 1]
+Calculation Time: 3.1467084884643555
+
+
+216:
+0	11	11	8	9
+2	0	6	12	2
+14	13	0	14	13
+14	4	10	0	8
+10	9	6	13	0
+
+Vertex Weights:
+7	5	3	1	3
+Capacity: 26
+
+Profit: 19
+Path: [0, 3, 1, 4, 2]
+Calculation Time: 3.14892315864563
+
+
+217:
+0	14	10	14	9
+14	0	3	1	10
+11	4	0	8	8
+3	10	5	0	13
+2	11	9	5	0
+
+Vertex Weights:
+8	5	13	6	9
+Capacity: 14
+
+Profit: 26
+Path: [0, 2, 1]
+Calculation Time: 2.778447389602661
+
+
+218:
+0	7	1	12	3
+8	0	8	6	15
+1	3	0	5	2
+10	7	10	0	1
+7	13	8	10	0
+
+Vertex Weights:
+6	9	13	14	13
+Capacity: 10
+
+Profit: 46
+Path: [0, 2, 3, 4]
+Calculation Time: 3.621262788772583
+
+
+219:
+0	1	11	13	5
+6	0	1	12	15
+10	5	0	7	3
+15	10	5	0	3
+3	1	5	13	0
+
+Vertex Weights:
+9	11	6	8	8
+Capacity: 14
+
+Profit: 42
+Path: [0, 1, 2, 4, 1, 2, 3]
+Calculation Time: 3.1237032413482666
+
+
+220:
+0	6	9	9	3
+3	0	8	5	3
+14	1	0	11	10
+12	13	9	0	6
+8	6	10	12	0
+
+Vertex Weights:
+15	9	8	8	12
+Capacity: 16
+
+Profit: 44
+Path: [0, 4, 1, 3]
+Calculation Time: 3.6103832721710205
+
+
+221:
+0	5	1	2	9
+6	0	14	7	15
+5	8	0	11	6
+12	2	7	0	7
+12	13	10	15	0
+
+Vertex Weights:
+12	4	5	15	15
+Capacity: 17
+
+Profit: 51
+Path: [0, 3, 1, 0, 2, 4]
+Calculation Time: 3.1357059478759766
+
+
+222:
+0	7	12	3	6
+1	0	2	8	1
+1	8	0	6	5
+8	1	7	0	4
+7	6	1	13	0
+
+Vertex Weights:
+8	7	9	12	14
+Capacity: 6
+
+Profit: 50
+Path: [0, 3, 1, 4, 2]
+Calculation Time: 3.116701602935791
+
+
+223:
+0	8	8	12	8
+4	0	3	14	3
+6	15	0	1	6
+10	2	1	0	1
+9	1	8	12	0
+
+Vertex Weights:
+12	5	2	14	2
+Capacity: 7
+
+Profit: 12
+Path: [0]
+Calculation Time: 0.8892004489898682
+
+
+224:
+0	12	3	12	13
+10	0	1	11	1
+14	1	0	12	7
+15	2	9	0	9
+9	11	3	1	0
+
+Vertex Weights:
+2	7	7	14	12
+Capacity: 10
+
+Profit: 42
+Path: [0, 2, 1, 4, 3]
+Calculation Time: 3.164712429046631
+
+
+225:
+0	7	15	12	14
+5	0	1	12	6
+7	11	0	15	10
+14	6	11	0	3
+7	5	1	9	0
+
+Vertex Weights:
+10	10	14	15	3
+Capacity: 26
+
+Profit: 52
+Path: [0, 3, 4, 1, 2]
+Calculation Time: 3.1217024326324463
+
+
+226:
+0	9	1	7	9
+14	0	6	6	3
+7	7	0	12	6
+3	4	4	0	3
+13	11	7	13	0
+
+Vertex Weights:
+15	14	10	2	2
+Capacity: 12
+
+Profit: 41
+Path: [0, 2, 1, 4]
+Calculation Time: 3.598332643508911
+
+
+227:
+0	4	1	8	6
+14	0	5	8	2
+3	3	0	1	11
+5	5	7	0	11
+11	7	13	11	0
+
+Vertex Weights:
+1	4	12	13	11
+Capacity: 11
+
+Profit: 41
+Path: [0, 2, 3, 1, 4]
+Calculation Time: 3.209378957748413
+
+
+228:
+0	5	11	4	7
+8	0	7	12	11
+4	9	0	8	2
+2	9	1	0	1
+1	14	11	14	0
+
+Vertex Weights:
+14	6	8	12	15
+Capacity: 10
+
+Profit: 49
+Path: [0, 3, 2, 4]
+Calculation Time: 3.639512777328491
+
+
+229:
+0	4	11	11	5
+6	0	4	15	12
+9	14	0	15	14
+2	10	1	0	7
+11	11	8	3	0
+
+Vertex Weights:
+9	10	7	9	6
+Capacity: 11
+
+Profit: 31
+Path: [0, 4, 3, 2]
+Calculation Time: 3.627380609512329
+
+
+230:
+0	6	2	14	14
+12	0	1	4	6
+4	13	0	2	9
+12	5	10	0	6
+8	6	2	13	0
+
+Vertex Weights:
+15	14	6	3	6
+Capacity: 19
+
+Profit: 44
+Path: [0, 2, 3, 1, 4]
+Calculation Time: 3.1427080631256104
+
+
+231:
+0	15	4	2	12
+15	0	15	9	2
+11	6	0	11	12
+12	12	4	0	13
+4	6	7	14	0
+
+Vertex Weights:
+8	2	14	8	9
+Capacity: 20
+
+Profit: 41
+Path: [0, 3, 2, 1, 4]
+Calculation Time: 3.189718008041382
+
+
+232:
+0	10	11	1	4
+6	0	14	3	9
+5	10	0	9	1
+10	10	9	0	14
+14	3	12	8	0
+
+Vertex Weights:
+9	14	5	6	3
+Capacity: 15
+
+Profit: 37
+Path: [0, 3, 2, 4, 1]
+Calculation Time: 3.198317050933838
+
+
+233:
+0	6	11	15	1
+15	0	11	8	11
+10	3	0	6	10
+15	4	6	0	2
+10	4	7	13	0
+
+Vertex Weights:
+11	14	12	8	1
+Capacity: 30
+
+Profit: 46
+Path: [0, 4, 2, 1, 3]
+Calculation Time: 3.1817164421081543
+
+
+234:
+0	15	6	2	9
+2	0	14	2	8
+15	14	0	1	7
+3	8	3	0	3
+8	8	6	13	0
+
+Vertex Weights:
+4	13	13	14	11
+Capacity: 14
+
+Profit: 44
+Path: [0, 3, 2, 3, 1]
+Calculation Time: 3.6300950050354004
+
+
+235:
+0	1	8	3	2
+14	0	14	5	4
+2	10	0	1	13
+5	1	7	0	13
+6	5	2	9	0
+
+Vertex Weights:
+10	13	13	5	3
+Capacity: 6
+
+Profit: 44
+Path: [0, 4, 2, 3, 1]
+Calculation Time: 3.1092193126678467
+
+
+236:
+0	2	13	8	2
+13	0	3	15	13
+6	9	0	8	4
+10	3	13	0	3
+9	2	1	11	0
+
+Vertex Weights:
+1	14	5	4	10
+Capacity: 17
+
+Profit: 34
+Path: [0, 3, 4, 1, 2]
+Calculation Time: 3.136070966720581
+
+
+237:
+0	1	8	9	3
+7	0	3	6	9
+10	15	0	3	1
+15	15	15	0	13
+11	10	1	4	0
+
+Vertex Weights:
+2	6	11	5	3
+Capacity: 9
+
+Profit: 27
+Path: [0, 1, 2, 4, 3]
+Calculation Time: 3.1960341930389404
+
+
+238:
+0	14	14	1	3
+9	0	7	1	10
+8	15	0	6	4
+11	6	1	0	15
+1	9	11	8	0
+
+Vertex Weights:
+15	5	15	15	14
+Capacity: 10
+
+Profit: 59
+Path: [0, 4, 0, 3, 2]
+Calculation Time: 3.593808889389038
+
+
+239:
+0	6	7	13	5
+6	0	7	13	4
+15	12	0	1	10
+8	10	11	0	8
+14	14	3	13	0
+
+Vertex Weights:
+9	6	11	6	9
+Capacity: 18
+
+Profit: 41
+Path: [0, 1, 4, 2, 3]
+Calculation Time: 3.189718723297119
+
+
+240:
+0	6	6	8	15
+5	0	12	12	7
+2	10	0	4	4
+15	9	4	0	6
+11	15	13	7	0
+
+Vertex Weights:
+7	15	11	10	9
+Capacity: 21
+
+Profit: 43
+Path: [0, 3, 2, 0, 1]
+Calculation Time: 3.655822515487671
+
+
+241:
+0	6	13	7	11
+9	0	6	14	15
+11	6	0	15	13
+2	11	2	0	13
+7	14	13	10	0
+
+Vertex Weights:
+10	4	5	8	10
+Capacity: 23
+
+Profit: 33
+Path: [0, 3, 2, 4]
+Calculation Time: 3.6198151111602783
+
+
+242:
+0	11	5	1	8
+14	0	6	10	1
+10	12	0	4	6
+2	12	10	0	13
+4	8	13	1	0
+
+Vertex Weights:
+10	7	4	14	6
+Capacity: 15
+
+Profit: 37
+Path: [0, 1, 4, 3]
+Calculation Time: 3.6614933013916016
+
+
+243:
+0	1	6	11	12
+9	0	12	7	3
+13	3	0	15	5
+15	12	14	0	7
+10	3	14	4	0
+
+Vertex Weights:
+12	9	13	10	8
+Capacity: 27
+
+Profit: 52
+Path: [0, 2, 1, 3, 4]
+Calculation Time: 3.168713331222534
+
+
+244:
+0	11	7	6	2
+2	0	12	1	15
+13	14	0	5	1
+13	14	14	0	1
+2	9	11	7	0
+
+Vertex Weights:
+8	7	7	15	15
+Capacity: 19
+
+Profit: 52
+Path: [0, 2, 4, 1, 3]
+Calculation Time: 3.1713075637817383
+
+
+245:
+0	3	9	4	15
+15	0	4	5	12
+10	12	0	2	9
+15	4	9	0	6
+11	2	6	7	0
+
+Vertex Weights:
+1	5	6	14	2
+Capacity: 27
+
+Profit: 28
+Path: [0, 1, 2, 3, 4]
+Calculation Time: 3.1551833152770996
+
+
+246:
+0	6	3	9	1
+6	0	9	11	11
+1	15	0	13	4
+1	9	1	0	11
+1	14	3	13	0
+
+Vertex Weights:
+6	2	7	10	5
+Capacity: 13
+
+Profit: 28
+Path: [0, 3, 2, 0, 4]
+Calculation Time: 3.5971078872680664
+
+
+247:
+0	4	6	8	2
+2	0	6	14	2
+6	12	0	13	1
+7	13	11	0	7
+10	5	6	5	0
+
+Vertex Weights:
+12	6	6	1	2
+Capacity: 18
+
+Profit: 27
+Path: [0, 1, 4, 2, 4, 3]
+Calculation Time: 3.117702007293701
+
+
+248:
+0	10	5	10	14
+15	0	13	5	6
+3	11	0	14	7
+11	14	4	0	13
+2	12	12	14	0
+
+Vertex Weights:
+2	7	8	9	5
+Capacity: 21
+
+Profit: 26
+Path: [0, 1, 3, 2]
+Calculation Time: 3.5497989654541016
+
+
+249:
+0	9	3	14	13
+1	0	11	10	3
+2	9	0	6	7
+6	12	11	0	7
+4	2	2	14	0
+
+Vertex Weights:
+5	2	5	9	14
+Capacity: 16
+
+Profit: 33
+Path: [0, 2, 3, 4]
+Calculation Time: 3.5818068981170654
+
+
+250:
+0	12	4	11	3
+7	0	15	6	15
+14	8	0	7	8
+10	13	2	0	1
+15	14	1	14	0
+
+Vertex Weights:
+14	4	14	14	10
+Capacity: 27
+
+Profit: 56
+Path: [0, 2, 1, 3, 4]
+Calculation Time: 3.1097004413604736
+
+
+251:
+0	6	14	12	11
+14	0	11	13	15
+4	3	0	4	10
+1	5	6	0	8
+6	10	12	15	0
+
+Vertex Weights:
+4	8	14	14	1
+Capacity: 25
+
+Profit: 40
+Path: [0, 1, 2, 3]
+Calculation Time: 3.630816698074341
+
+
+252:
+0	9	8	2	12
+14	0	15	4	2
+6	2	0	4	8
+4	12	15	0	9
+4	9	14	7	0
+
+Vertex Weights:
+1	4	1	14	2
+Capacity: 17
+
+Profit: 21
+Path: [0, 3, 1, 4]
+Calculation Time: 3.654822587966919
+
+
+253:
+0	5	10	11	11
+5	0	3	11	5
+15	7	0	3	14
+2	14	7	0	13
+7	15	11	4	0
+
+Vertex Weights:
+2	5	15	12	4
+Capacity: 18
+
+Profit: 34
+Path: [0, 1, 2, 3]
+Calculation Time: 3.6329851150512695
+
+
+254:
+0	7	15	1	5
+14	0	3	14	10
+7	11	0	15	10
+3	6	11	0	9
+4	10	4	4	0
+
+Vertex Weights:
+9	2	8	1	3
+Capacity: 21
+
+Profit: 23
+Path: [0, 3, 1, 2, 4]
+Calculation Time: 3.214843511581421
+
+
+255:
+0	6	2	11	12
+3	0	11	7	5
+12	15	0	15	1
+5	12	13	0	5
+12	8	6	9	0
+
+Vertex Weights:
+10	12	3	10	9
+Capacity: 21
+
+Profit: 44
+Path: [0, 1, 0, 2, 4, 3]
+Calculation Time: 3.1399710178375244
+
+
+256:
+0	3	1	12	13
+5	0	10	1	7
+15	14	0	3	11
+12	13	3	0	11
+1	5	13	9	0
+
+Vertex Weights:
+1	7	11	9	1
+Capacity: 12
+
+Profit: 28
+Path: [0, 1, 3, 2]
+Calculation Time: 3.6303279399871826
+
+
+257:
+0	9	6	5	15
+6	0	6	6	2
+4	9	0	3	3
+14	7	6	0	6
+6	4	8	4	0
+
+Vertex Weights:
+4	13	6	13	5
+Capacity: 21
+
+Profit: 41
+Path: [0, 2, 3, 1, 4]
+Calculation Time: 3.20621395111084
+
+
+258:
+0	8	11	14	15
+15	0	3	4	11
+12	14	0	12	15
+9	8	11	0	8
+4	15	1	6	0
+
+Vertex Weights:
+11	11	4	15	7
+Capacity: 20
+
+Profit: 44
+Path: [0, 1, 3, 4]
+Calculation Time: 3.633187770843506
+
+
+259:
+0	15	6	11	8
+12	0	1	5	1
+11	1	0	1	11
+5	3	13	0	11
+15	7	7	15	0
+
+Vertex Weights:
+4	15	1	8	13
+Capacity: 9
+
+Profit: 33
+Path: [0, 2, 1, 4]
+Calculation Time: 3.6058220863342285
+
+
+260:
+0	1	4	6	4
+11	0	8	15	6
+12	4	0	13	9
+5	12	1	0	11
+6	4	11	11	0
+
+Vertex Weights:
+5	13	2	9	9
+Capacity: 13
+
+Profit: 29
+Path: [0, 3, 2, 1]
+Calculation Time: 3.647174119949341
+
+
+261:
+0	11	9	15	1
+2	0	3	9	8
+11	1	0	4	9
+10	11	7	0	10
+2	9	10	2	0
+
+Vertex Weights:
+10	13	6	4	3
+Capacity: 8
+
+Profit: 17
+Path: [0, 4, 3]
+Calculation Time: 2.730900526046753
+
+
+262:
+0	11	10	12	13
+3	0	4	15	13
+6	11	0	10	6
+3	1	6	0	9
+6	10	14	6	0
+
+Vertex Weights:
+9	14	4	6	1
+Capacity: 23
+
+Profit: 34
+Path: [0, 3, 1, 2, 4]
+Calculation Time: 3.1580135822296143
+
+
+263:
+0	4	7	12	11
+5	0	12	13	10
+13	5	0	10	5
+14	4	10	0	8
+15	6	4	10	0
+
+Vertex Weights:
+11	7	12	7	11
+Capacity: 27
+
+Profit: 48
+Path: [0, 2, 4, 3, 1]
+Calculation Time: 3.1467084884643555
+
+
+264:
+0	4	7	14	13
+15	0	14	15	15
+14	3	0	8	10
+3	11	7	0	6
+1	8	9	6	0
+
+Vertex Weights:
+4	2	8	10	3
+Capacity: 17
+
+Profit: 22
+Path: [0, 2, 3]
+Calculation Time: 2.6786017417907715
+
+
+265:
+0	4	3	12	8
+4	0	9	2	1
+15	7	0	14	7
+1	9	1	0	8
+2	8	9	8	0
+
+Vertex Weights:
+12	10	5	6	12
+Capacity: 6
+
+Profit: 34
+Path: [0, 1, 4]
+Calculation Time: 2.6906065940856934
+
+
+266:
+0	15	4	14	4
+2	0	3	2	7
+11	5	0	15	7
+10	15	12	0	12
+2	8	2	7	0
+
+Vertex Weights:
+11	13	14	7	3
+Capacity: 14
+
+Profit: 48
+Path: [0, 4, 2, 1, 3]
+Calculation Time: 3.199718952178955
+
+
+267:
+0	10	10	3	15
+10	0	8	14	13
+12	9	0	2	1
+3	14	1	0	5
+12	15	3	8	0
+
+Vertex Weights:
+6	14	12	15	2
+Capacity: 19
+
+Profit: 49
+Path: [0, 3, 2, 4, 2, 1]
+Calculation Time: 3.1747143268585205
+
+
+268:
+0	14	11	9	11
+15	0	13	13	8
+1	3	0	3	8
+11	5	8	0	9
+8	6	15	10	0
+
+Vertex Weights:
+1	8	15	3	15
+Capacity: 19
+
+Profit: 31
+Path: [0, 2, 4]
+Calculation Time: 2.6916067600250244
+
+
+269:
+0	13	1	2	10
+7	0	15	11	4
+15	2	0	5	2
+5	8	5	0	2
+9	12	14	11	0
+
+Vertex Weights:
+11	5	11	5	12
+Capacity: 12
+
+Profit: 39
+Path: [0, 3, 2, 4]
+Calculation Time: 3.6459391117095947
+
+
+270:
+0	11	10	11	14
+3	0	3	7	7
+11	5	0	9	5
+3	3	10	0	10
+14	13	10	9	0
+
+Vertex Weights:
+8	7	4	10	14
+Capacity: 24
+
+Profit: 43
+Path: [0, 3, 1, 2, 4]
+Calculation Time: 3.1776435375213623
+
+
+271:
+0	1	9	12	8
+7	0	2	8	12
+4	11	0	9	9
+5	10	15	0	4
+13	1	3	15	0
+
+Vertex Weights:
+4	6	6	12	5
+Capacity: 21
+
+Profit: 33
+Path: [0, 1, 2, 3, 4]
+Calculation Time: 3.152221918106079
+
+
+272:
+0	10	10	6	3
+11	0	8	7	12
+9	4	0	11	15
+13	1	15	0	13
+5	8	3	13	0
+
+Vertex Weights:
+12	2	8	10	7
+Capacity: 15
+
+Profit: 32
+Path: [0, 3, 1, 2]
+Calculation Time: 3.5838077068328857
+
+
+273:
+0	9	10	2	3
+3	0	13	1	14
+13	2	0	15	12
+5	11	12	0	3
+2	12	2	13	0
+
+Vertex Weights:
+9	2	1	15	1
+Capacity: 7
+
+Profit: 26
+Path: [0, 3, 4, 2]
+Calculation Time: 3.637819290161133
+
+
+274:
+0	5	6	1	10
+12	0	11	7	6
+14	9	0	4	8
+7	9	14	0	3
+4	10	13	4	0
+
+Vertex Weights:
+2	1	8	11	1
+Capacity: 15
+
+Profit: 22
+Path: [0, 2, 3, 4]
+Calculation Time: 3.6398184299468994
+
+
+275:
+0	13	10	7	1
+9	0	10	6	15
+10	4	0	13	9
+1	15	1	0	7
+1	7	1	12	0
+
+Vertex Weights:
+3	6	10	11	14
+Capacity: 11
+
+Profit: 38
+Path: [0, 4, 0, 3, 2]
+Calculation Time: 3.6588237285614014
+
+
+276:
+0	15	5	6	3
+9	0	6	8	5
+15	14	0	7	7
+4	14	10	0	12
+12	15	4	13	0
+
+Vertex Weights:
+12	10	11	12	6
+Capacity: 36
+
+Profit: 51
+Path: [0, 4, 2, 3, 1]
+Calculation Time: 3.197734832763672
+
+
+277:
+0	9	5	13	10
+15	0	4	8	11
+4	7	0	4	15
+3	3	15	0	7
+6	5	10	1	0
+
+Vertex Weights:
+11	2	6	8	12
+Capacity: 17
+
+Profit: 37
+Path: [0, 2, 3, 4]
+Calculation Time: 3.5918076038360596
+
+
+278:
+0	7	12	1	2
+3	0	2	10	1
+8	11	0	11	2
+6	12	2	0	1
+1	11	13	3	0
+
+Vertex Weights:
+12	10	12	8	12
+Capacity: 14
+
+Profit: 54
+Path: [0, 3, 2, 4, 0, 1]
+Calculation Time: 3.1780567169189453
+
+
+279:
+0	7	11	4	4
+13	0	2	8	9
+13	10	0	6	13
+6	9	12	0	11
+2	1	5	3	0
+
+Vertex Weights:
+4	11	14	10	1
+Capacity: 12
+
+Profit: 30
+Path: [0, 4, 1, 2]
+Calculation Time: 3.663795232772827
+
+
+280:
+0	9	1	3	6
+12	0	11	12	5
+5	7	0	3	15
+13	11	2	0	15
+4	14	9	10	0
+
+Vertex Weights:
+7	11	14	1	5
+Capacity: 18
+
+Profit: 38
+Path: [0, 3, 2, 1, 4]
+Calculation Time: 3.1507222652435303
+
+
+281:
+0	3	5	5	6
+9	0	14	12	6
+10	7	0	1	10
+5	11	7	0	8
+11	6	5	4	0
+
+Vertex Weights:
+8	12	15	15	14
+Capacity: 17
+
+Profit: 64
+Path: [0, 1, 4, 2, 3]
+Calculation Time: 3.217926263809204
+
+
+282:
+0	14	9	11	13
+4	0	14	10	2
+9	3	0	9	4
+3	6	6	0	13
+14	13	5	7	0
+
+Vertex Weights:
+1	9	1	3	13
+Capacity: 21
+
+Profit: 27
+Path: [0, 2, 1, 4, 3]
+Calculation Time: 3.1628684997558594
+
+
+283:
+0	8	10	14	11
+1	0	7	10	1
+9	7	0	9	13
+2	10	2	0	5
+1	6	14	5	0
+
+Vertex Weights:
+13	5	7	13	12
+Capacity: 16
+
+Profit: 50
+Path: [0, 1, 4, 3, 2]
+Calculation Time: 3.1969194412231445
+
+
+284:
+0	4	15	13	13
+12	0	2	14	13
+6	14	0	5	9
+2	9	2	0	10
+12	14	5	4	0
+
+Vertex Weights:
+11	8	15	12	2
+Capacity: 16
+
+Profit: 46
+Path: [0, 1, 2, 3]
+Calculation Time: 3.57793927192688
+
+
+285:
+0	14	12	4	4
+11	0	8	9	7
+9	12	0	8	10
+12	14	5	0	2
+11	15	9	10	0
+
+Vertex Weights:
+5	12	3	6	11
+Capacity: 38
+
+Profit: 37
+Path: [0, 3, 4, 1, 2]
+Calculation Time: 3.172874689102173
+
+
+286:
+0	5	7	15	9
+13	0	3	1	9
+4	15	0	9	15
+10	12	15	0	10
+9	7	3	12	0
+
+Vertex Weights:
+4	11	2	1	14
+Capacity: 23
+
+Profit: 32
+Path: [0, 1, 3, 4, 2]
+Calculation Time: 3.172271966934204
+
+
+287:
+0	6	2	5	11
+8	0	15	8	10
+7	1	0	1	7
+12	3	6	0	7
+11	12	10	2	0
+
+Vertex Weights:
+15	6	2	7	7
+Capacity: 17
+
+Profit: 37
+Path: [0, 2, 3, 1, 4]
+Calculation Time: 3.184976816177368
+
+
+288:
+0	3	4	2	9
+11	0	11	12	9
+12	13	0	12	9
+8	10	9	0	6
+6	2	3	14	0
+
+Vertex Weights:
+9	3	2	4	4
+Capacity: 17
+
+Profit: 20
+Path: [0, 3, 4, 1]
+Calculation Time: 3.6128134727478027
+
+
+289:
+0	2	4	15	12
+3	0	6	13	2
+13	15	0	6	13
+4	9	8	0	11
+8	8	2	15	0
+
+Vertex Weights:
+1	7	11	2	13
+Capacity: 11
+
+Profit: 32
+Path: [0, 1, 4, 2]
+Calculation Time: 3.619793176651001
+
+
+290:
+0	10	12	12	11
+1	0	11	1	15
+3	11	0	1	7
+9	9	15	0	13
+4	8	9	5	0
+
+Vertex Weights:
+4	12	6	2	2
+Capacity: 26
+
+Profit: 24
+Path: [0, 1, 3, 2]
+Calculation Time: 3.5950374603271484
+
+
+291:
+0	11	5	7	1
+4	0	11	3	7
+1	11	0	13	14
+6	14	10	0	7
+5	1	9	4	0
+
+Vertex Weights:
+3	8	12	9	1
+Capacity: 10
+
+Profit: 24
+Path: [0, 2, 0, 4, 1]
+Calculation Time: 3.6433205604553223
+
+
+292:
+0	15	2	5	1
+13	0	12	2	10
+13	1	0	5	12
+15	1	15	0	8
+5	4	1	13	0
+
+Vertex Weights:
+11	2	14	5	1
+Capacity: 11
+
+Profit: 33
+Path: [0, 4, 2, 3, 1]
+Calculation Time: 3.188596248626709
+
+
+293:
+0	9	6	5	15
+9	0	1	13	8
+4	3	0	11	6
+1	2	13	0	8
+5	2	6	11	0
+
+Vertex Weights:
+13	8	15	1	2
+Capacity: 14
+
+Profit: 39
+Path: [0, 3, 1, 2, 4]
+Calculation Time: 3.1857845783233643
+
+
+294:
+0	6	15	6	5
+13	0	15	11	3
+11	9	0	13	3
+11	2	1	0	9
+11	2	3	7	0
+
+Vertex Weights:
+9	7	10	14	7
+Capacity: 25
+
+Profit: 47
+Path: [0, 1, 4, 3, 2]
+Calculation Time: 3.1831398010253906
+
+
+295:
+0	11	15	7	8
+4	0	11	15	14
+4	9	0	15	4
+8	6	6	0	15
+8	2	2	2	0
+
+Vertex Weights:
+8	13	9	13	11
+Capacity: 16
+
+Profit: 45
+Path: [0, 4, 3, 1]
+Calculation Time: 3.5812551975250244
+
+
+296:
+0	4	4	9	1
+6	0	6	15	9
+9	13	0	8	8
+11	13	5	0	10
+4	13	1	5	0
+
+Vertex Weights:
+12	14	15	14	5
+Capacity: 11
+
+Profit: 46
+Path: [0, 4, 2, 3]
+Calculation Time: 3.610241651535034
+
+
+297:
+0	3	4	15	2
+6	0	5	2	15
+1	1	0	2	5
+5	3	14	0	2
+7	14	2	4	0
+
+Vertex Weights:
+13	6	8	7	15
+Capacity: 7
+
+Profit: 49
+Path: [0, 4, 2, 1, 3]
+Calculation Time: 3.1449990272521973
+
+
+298:
+0	4	3	2	13
+3	0	1	1	14
+13	12	0	12	11
+12	15	10	0	6
+7	8	4	7	0
+
+Vertex Weights:
+6	7	1	5	1
+Capacity: 14
+
+Profit: 19
+Path: [0, 1, 3, 4]
+Calculation Time: 3.5658035278320312
+
+
+299:
+0	1	9	12	14
+3	0	6	11	1
+14	7	0	15	14
+2	8	7	0	8
+9	4	6	1	0
+
+Vertex Weights:
+6	13	12	12	8
+Capacity: 11
+
+Profit: 51
+Path: [0, 1, 4, 3, 2]
+Calculation Time: 3.146707773208618
+
+
+300:
+0	2	12	11	9
+2	0	11	13	9
+4	15	0	2	7
+14	5	14	0	15
+9	4	14	12	0
+
+Vertex Weights:
+12	11	5	15	3
+Capacity: 18
+
+Profit: 43
+Path: [0, 1, 2, 3]
+Calculation Time: 3.593809127807617
+
+
+301:
+0	1	13	7	3	14
+4	0	4	1	9	11
+2	14	0	8	9	3
+12	14	14	0	11	5
+9	13	2	12	0	10
+2	10	14	2	1	0
+
+Vertex Weights:
+4	9	1	3	3	15
+Capacity: 9
+
+Profit: 34
+Path: [0, 1, 3, 5, 4]
+Calculation Time: 4.511333465576172
+
+
+302:
+0	13	11	2	14	8
+15	0	1	12	1	1
+13	7	0	1	8	8
+9	14	15	0	1	15
+5	9	11	2	0	8
+12	13	12	9	8	0
+
+Vertex Weights:
+7	15	11	6	3	6
+Capacity: 12
+
+Profit: 31
+Path: [0, 3, 4, 1]
+Calculation Time: 3.626796007156372
+
+
+303:
+0	12	8	2	10	8
+13	0	6	13	4	15
+5	12	0	7	5	3
+13	8	9	0	7	11
+6	5	12	9	0	8
+6	13	8	7	14	0
+
+Vertex Weights:
+3	6	15	12	11	10
+Capacity: 27
+
+Profit: 57
+Path: [0, 3, 4, 1, 2, 5]
+Calculation Time: 4.095249891281128
+
+
+304:
+0	8	10	11	5	11
+10	0	10	15	1	8
+3	13	0	8	1	11
+6	10	1	0	13	3
+6	5	5	14	0	3
+15	11	3	7	4	0
+
+Vertex Weights:
+5	10	5	7	10	11
+Capacity: 19
+
+Profit: 43
+Path: [0, 1, 4, 5, 3]
+Calculation Time: 4.5899739265441895
+
+
+305:
+0	10	6	6	3	12
+9	0	14	12	1	3
+12	9	0	7	6	3
+11	12	7	0	10	12
+3	4	8	12	0	2
+3	12	14	10	9	0
+
+Vertex Weights:
+11	14	3	12	5	9
+Capacity: 17
+
+Profit: 42
+Path: [0, 4, 1, 4, 0, 3]
+Calculation Time: 3.6315948963165283
+
+
+306:
+0	11	15	11	12	14
+6	0	9	8	6	8
+4	12	0	1	4	1
+8	14	3	0	1	15
+14	9	5	8	0	9
+8	4	6	13	4	0
+
+Vertex Weights:
+15	14	13	10	2	12
+Capacity: 15
+
+Profit: 50
+Path: [0, 3, 2, 5]
+Calculation Time: 3.580805778503418
+
+
+307:
+0	12	1	4	3	15
+14	0	9	5	15	7
+2	12	0	6	9	7
+8	5	2	0	6	12
+7	9	11	10	0	11
+6	5	5	2	8	0
+
+Vertex Weights:
+11	2	5	11	5	2
+Capacity: 24
+
+Profit: 36
+Path: [0, 2, 0, 4, 5, 3, 1]
+Calculation Time: 4.085547208786011
+
+
+308:
+0	3	14	6	9	2
+13	0	3	15	11	2
+1	3	0	1	1	1
+3	9	12	0	3	2
+5	12	7	7	0	6
+12	13	11	6	13	0
+
+Vertex Weights:
+2	7	5	9	14	7
+Capacity: 11
+
+Profit: 37
+Path: [0, 1, 2, 3, 4]
+Calculation Time: 4.564026594161987
+
+
+309:
+0	11	3	4	8	10
+14	0	2	9	9	4
+7	3	0	15	14	13
+6	5	15	0	15	4
+13	11	13	4	0	1
+11	14	6	15	1	0
+
+Vertex Weights:
+1	2	12	6	2	9
+Capacity: 14
+
+Profit: 28
+Path: [0, 3, 5, 2]
+Calculation Time: 4.5460827350616455
+
+
+310:
+0	1	1	8	12	10
+15	0	7	10	13	2
+12	15	0	7	15	9
+15	5	13	0	14	11
+13	10	7	3	0	2
+11	1	13	8	9	0
+
+Vertex Weights:
+3	4	7	6	4	8
+Capacity: 30
+
+Profit: 32
+Path: [0, 2, 3, 1, 5, 4]
+Calculation Time: 4.089704275131226
+
+
+311:
+0	7	3	8	2	5
+7	0	15	11	3	6
+6	15	0	6	13	2
+8	7	11	0	2	7
+6	9	1	3	0	15
+7	11	11	9	2	0
+
+Vertex Weights:
+10	9	13	1	7	12
+Capacity: 21
+
+Profit: 52
+Path: [0, 4, 3, 1, 4, 2, 5]
+Calculation Time: 4.113691329956055
+
+
+312:
+0	9	10	13	11	6
+6	0	1	1	7	10
+15	11	0	6	5	6
+7	2	12	0	1	9
+10	13	1	12	0	3
+3	3	2	4	13	0
+
+Vertex Weights:
+7	7	13	7	13	9
+Capacity: 8
+
+Profit: 29
+Path: [0, 5, 2]
+Calculation Time: 2.6965255737304688
+
+
+313:
+0	12	8	2	10	4
+2	0	5	7	7	10
+7	1	0	6	7	14
+10	3	8	0	6	6
+13	8	8	8	0	5
+5	5	12	7	6	0
+
+Vertex Weights:
+12	14	3	7	11	11
+Capacity: 17
+
+Profit: 55
+Path: [0, 3, 1, 0, 5, 4]
+Calculation Time: 4.566027879714966
+
+
+314:
+0	8	14	2	14	11
+12	0	4	3	10	11
+13	14	0	12	12	10
+12	4	1	0	8	12
+12	7	12	3	0	3
+8	2	9	4	9	0
+
+Vertex Weights:
+2	15	7	14	5	15
+Capacity: 28
+
+Profit: 58
+Path: [0, 3, 2, 5, 1, 4]
+Calculation Time: 4.0519118309021
+
+
+315:
+0	7	11	8	14	4
+4	0	7	4	4	4
+7	1	0	1	9	5
+10	11	2	0	6	11
+5	11	9	11	0	5
+10	1	1	15	5	0
+
+Vertex Weights:
+11	1	5	2	3	11
+Capacity: 11
+
+Profit: 31
+Path: [0, 5, 2, 1, 4]
+Calculation Time: 4.538074731826782
+
+
+316:
+0	12	4	6	7	1
+8	0	8	9	10	7
+7	6	0	11	5	2
+6	5	2	0	3	11
+11	11	1	9	0	11
+4	10	1	9	1	0
+
+Vertex Weights:
+4	6	12	3	9	9
+Capacity: 21
+
+Profit: 43
+Path: [0, 5, 4, 2, 1, 3]
+Calculation Time: 4.079963207244873
+
+
+317:
+0	8	8	13	3	4
+2	0	8	13	12	9
+2	12	0	3	6	9
+7	11	2	0	10	15
+5	5	14	13	0	3
+7	12	3	9	9	0
+
+Vertex Weights:
+8	2	8	12	12	11
+Capacity: 19
+
+Profit: 51
+Path: [0, 4, 5, 2, 3]
+Calculation Time: 4.538729429244995
+
+
+318:
+0	10	11	2	13	9
+1	0	14	1	9	11
+3	15	0	8	3	6
+7	12	15	0	7	8
+3	11	15	6	0	8
+15	7	2	7	10	0
+
+Vertex Weights:
+8	11	4	8	13	3
+Capacity: 16
+
+Profit: 36
+Path: [0, 3, 5, 2, 4]
+Calculation Time: 4.491873741149902
+
+
+319:
+0	14	6	12	11	6
+7	0	15	12	5	6
+2	14	0	5	14	8
+4	15	1	0	13	6
+13	13	4	3	0	5
+8	11	4	6	7	0
+
+Vertex Weights:
+15	13	7	2	5	1
+Capacity: 20
+
+Profit: 35
+Path: [0, 2, 1]
+Calculation Time: 3.607952356338501
+
+
+320:
+0	4	10	6	4	9
+7	0	3	7	8	3
+13	11	0	7	6	3
+11	11	5	0	3	15
+1	10	11	4	0	13
+13	3	10	8	12	0
+
+Vertex Weights:
+4	8	5	10	14	7
+Capacity: 14
+
+Profit: 36
+Path: [0, 3, 4, 0, 1]
+Calculation Time: 3.563802480697632
+
+
+321:
+0	5	13	13	7	15
+12	0	10	10	15	11
+6	8	0	7	4	4
+7	3	5	0	10	6
+3	9	1	7	0	4
+7	8	12	5	1	0
+
+Vertex Weights:
+14	9	11	9	4	5
+Capacity: 18
+
+Profit: 47
+Path: [0, 4, 2, 3, 1]
+Calculation Time: 4.497519493103027
+
+
+322:
+0	3	12	12	3	12
+15	0	4	5	3	13
+8	9	0	4	4	7
+5	4	2	0	2	15
+7	4	2	8	0	5
+15	14	1	14	10	0
+
+Vertex Weights:
+5	9	7	6	8	1
+Capacity: 18
+
+Profit: 36
+Path: [0, 1, 4, 5, 2, 3]
+Calculation Time: 4.031907320022583
+
+
+323:
+0	7	9	6	4	13
+12	0	8	10	6	2
+9	15	0	10	3	6
+3	1	12	0	10	11
+10	5	7	13	0	7
+10	9	5	6	12	0
+
+Vertex Weights:
+13	15	13	1	13	9
+Capacity: 17
+
+Profit: 64
+Path: [0, 3, 1, 5, 2, 4]
+Calculation Time: 4.081918716430664
+
+
+324:
+0	6	4	10	1	2
+13	0	8	14	1	11
+8	12	0	15	7	9
+11	5	5	0	5	2
+8	2	15	12	0	12
+9	14	13	2	5	0
+
+Vertex Weights:
+8	14	14	3	14	2
+Capacity: 15
+
+Profit: 50
+Path: [0, 4, 1, 2]
+Calculation Time: 4.521016836166382
+
+
+325:
+0	8	4	9	11	6
+9	0	4	4	9	13
+4	3	0	13	9	8
+1	12	15	0	4	3
+11	13	9	11	0	3
+3	13	12	3	6	0
+
+Vertex Weights:
+11	14	15	7	10	9
+Capacity: 18
+
+Profit: 66
+Path: [0, 2, 1, 3, 4, 5]
+Calculation Time: 4.154233932495117
+
+
+326:
+0	4	13	7	12	5
+15	0	13	3	2	3
+14	1	0	11	12	14
+4	11	14	0	6	3
+4	8	9	12	0	7
+7	11	5	8	14	0
+
+Vertex Weights:
+15	3	15	10	2	10
 Capacity: 20
 
 Profit: 55
-Path: [0, 4, 5, 3, 8, 2, 7, 1]
-Calculation Time: 7.040980100631714
+Path: [0, 1, 3, 5, 2, 1, 4]
+Calculation Time: 4.0576255321502686
+
+
+327:
+0	14	11	10	9	14
+13	0	15	8	14	15
+14	10	0	11	3	15
+10	14	15	0	1	9
+6	2	8	13	0	4
+15	13	8	6	9	0
+
+Vertex Weights:
+2	2	12	7	2	7
+Capacity: 21
+
+Profit: 23
+Path: [0, 2, 4, 5]
+Calculation Time: 3.606820583343506
+
+
+328:
+0	9	9	11	5	7
+9	0	13	15	13	8
+4	7	0	14	5	3
+5	14	2	0	15	5
+1	14	6	1	0	5
+1	3	3	10	3	0
+
+Vertex Weights:
+2	9	15	15	15	5
+Capacity: 11
+
+Profit: 52
+Path: [0, 4, 3, 2, 5]
+Calculation Time: 4.571029424667358
+
+
+329:
+0	12	9	13	3	4
+7	0	8	2	4	15
+9	3	0	8	9	3
+15	6	2	0	1	3
+11	14	1	6	0	7
+8	8	1	12	9	0
+
+Vertex Weights:
+8	6	8	9	2	1
+Capacity: 15
+
+Profit: 34
+Path: [0, 4, 2, 1, 3, 5]
+Calculation Time: 4.108445882797241
+
+
+330:
+0	12	2	11	9	5
+3	0	7	5	10	10
+7	7	0	10	9	6
+4	11	10	0	4	14
+8	15	13	5	0	6
+2	6	2	7	5	0
+
+Vertex Weights:
+2	2	9	7	10	14
+Capacity: 28
+
+Profit: 44
+Path: [0, 2, 3, 4, 5, 1]
+Calculation Time: 4.127530813217163
+
+
+331:
+0	2	3	11	4	8
+13	0	8	12	2	15
+12	6	0	11	2	15
+3	13	9	0	11	10
+8	4	8	5	0	3
+15	8	4	11	9	0
+
+Vertex Weights:
+12	1	7	13	2	6
+Capacity: 16
+
+Profit: 35
+Path: [0, 2, 4, 3, 0, 1]
+Calculation Time: 4.482358455657959
+
+
+332:
+0	2	9	3	14	14
+8	0	2	4	5	8
+7	2	0	2	5	6
+6	5	1	0	5	14
+2	11	9	4	0	14
+7	5	1	3	15	0
+
+Vertex Weights:
+2	12	2	13	14	11
+Capacity: 18
+
+Profit: 54
+Path: [0, 1, 2, 5, 3, 4]
+Calculation Time: 4.073914289474487
+
+
+333:
+0	6	15	7	11	2
+4	0	1	14	7	9
+12	9	0	9	1	5
+3	6	7	0	7	14
+1	6	7	5	0	4
+13	9	4	3	1	0
+
+Vertex Weights:
+9	12	8	1	4	9
+Capacity: 11
+
+Profit: 42
+Path: [0, 5, 4, 1, 2]
+Calculation Time: 4.4734108448028564
+
+
+334:
+0	3	6	9	8	15
+14	0	10	14	7	2
+4	14	0	7	12	15
+13	10	1	0	9	12
+12	10	14	7	0	1
+7	12	12	6	4	0
+
+Vertex Weights:
+4	13	9	13	13	4
+Capacity: 22
+
+Profit: 56
+Path: [0, 1, 5, 4, 3, 2]
+Calculation Time: 4.109988212585449
+
+
+335:
+0	13	1	4	13	14
+8	0	12	6	13	8
+10	11	0	3	9	5
+4	15	6	0	14	9
+3	3	12	14	0	15
+4	3	1	9	9	0
+
+Vertex Weights:
+2	8	3	8	14	14
+Capacity: 19
+
+Profit: 41
+Path: [0, 2, 5, 4, 1]
+Calculation Time: 4.529054880142212
+
+
+336:
+0	12	5	5	9	8
+6	0	12	5	3	4
+10	1	0	8	9	8
+7	14	3	0	12	7
+13	5	8	4	0	4
+4	11	2	6	15	0
+
+Vertex Weights:
+15	1	7	3	10	4
+Capacity: 20
+
+Profit: 40
+Path: [0, 3, 2, 1, 4, 5]
+Calculation Time: 4.113224267959595
+
+
+337:
+0	2	3	9	12	14
+7	0	14	6	7	2
+7	1	0	4	4	14
+8	3	2	0	3	14
+4	2	3	9	0	10
+15	12	1	13	12	0
+
+Vertex Weights:
+9	1	4	13	4	12
+Capacity: 14
+
+Profit: 43
+Path: [0, 1, 5, 2, 3, 4]
+Calculation Time: 4.1214728355407715
+
+
+338:
+0	11	7	7	15	1
+8	0	7	14	15	10
+2	1	0	13	6	15
+4	13	14	0	7	3
+2	14	7	7	0	15
+9	11	11	13	12	0
+
+Vertex Weights:
+12	13	14	6	14	15
+Capacity: 21
+
+Profit: 68
+Path: [0, 5, 4, 2, 1]
+Calculation Time: 4.493022203445435
+
+
+339:
+0	13	1	13	1	11
+4	0	14	5	2	15
+3	12	0	1	6	9
+3	8	9	0	5	7
+8	11	14	15	0	12
+9	13	15	3	2	0
+
+Vertex Weights:
+13	10	14	3	12	14
+Capacity: 19
+
+Profit: 56
+Path: [0, 2, 3, 0, 4, 5]
+Calculation Time: 4.546015977859497
+
+
+340:
+0	10	1	15	5	9
+9	0	15	8	12	1
+15	1	0	5	12	10
+7	6	13	0	13	9
+15	9	15	15	0	13
+11	2	8	9	5	0
+
+Vertex Weights:
+15	12	7	1	7	2
+Capacity: 18
+
+Profit: 44
+Path: [0, 2, 3, 1, 5, 4]
+Calculation Time: 4.040927886962891
+
+
+341:
+0	14	14	8	7	2
+11	0	15	2	6	1
+4	6	0	7	15	15
+9	15	4	0	14	7
+11	5	8	4	0	11
+14	4	10	2	13	0
+
+Vertex Weights:
+7	12	6	5	1	2
+Capacity: 15
+
+Profit: 32
+Path: [0, 5, 1, 3, 2]
+Calculation Time: 4.538599014282227
+
+
+342:
+0	15	5	1	10	9
+11	0	10	7	13	15
+15	6	0	12	4	7
+11	6	6	0	2	3
+5	6	9	8	0	14
+14	10	3	13	6	0
+
+Vertex Weights:
+10	11	13	8	15	7
+Capacity: 16
+
+Profit: 53
+Path: [0, 3, 5, 2, 4]
+Calculation Time: 4.5980353355407715
+
+
+343:
+0	13	6	12	9	7
+13	0	2	3	3	2
+11	9	0	7	3	3
+7	14	1	0	5	1
+6	6	15	6	0	1
+9	10	14	10	5	0
+
+Vertex Weights:
+6	7	10	14	3	10
+Capacity: 20
+
+Profit: 50
+Path: [0, 2, 4, 1, 3, 5]
+Calculation Time: 4.069549798965454
+
+
+344:
+0	10	8	13	4	7
+4	0	6	13	7	13
+1	4	0	3	4	2
+4	7	15	0	15	14
+13	1	11	12	0	4
+11	3	7	9	5	0
+
+Vertex Weights:
+13	8	13	2	2	12
+Capacity: 14
+
+Profit: 48
+Path: [0, 4, 1, 2, 5]
+Calculation Time: 4.48047661781311
+
+
+345:
+0	15	11	3	2	4
+11	0	1	2	15	6
+3	5	0	7	9	13
+4	8	8	0	8	3
+12	7	14	10	0	5
+1	2	10	6	15	0
+
+Vertex Weights:
+15	5	13	5	6	5
+Capacity: 8
+
+Profit: 38
+Path: [0, 5, 1, 2]
+Calculation Time: 3.6359832286834717
+
+
+346:
+0	3	2	4	10	1
+10	0	6	10	11	9
+9	9	0	5	7	6
+14	14	14	0	13	12
+10	3	15	6	0	2
+11	11	8	6	6	0
+
+Vertex Weights:
+14	8	5	7	2	6
+Capacity: 23
+
+Profit: 42
+Path: [0, 5, 4, 1, 2, 3]
+Calculation Time: 4.069072723388672
+
+
+347:
+0	1	1	4	10	13
+8	0	3	2	7	8
+11	10	0	7	13	3
+8	9	14	0	9	7
+7	14	7	10	0	14
+1	14	12	10	15	0
+
+Vertex Weights:
+8	13	10	5	4	11
+Capacity: 13
+
+Profit: 47
+Path: [0, 2, 5, 0, 1, 3]
+Calculation Time: 4.587046146392822
+
+
+348:
+0	3	14	15	15	9
+8	0	7	15	5	12
+11	9	0	11	5	11
+1	4	10	0	4	10
+7	10	1	9	0	3
+13	10	1	5	3	0
+
+Vertex Weights:
+4	3	1	11	6	14
+Capacity: 19
+
+Profit: 38
+Path: [0, 1, 4, 5, 3]
+Calculation Time: 4.676339864730835
+
+
+349:
+0	13	11	14	11	9
+9	0	10	5	11	9
+12	3	0	11	10	2
+3	10	15	0	9	15
+9	14	14	6	0	4
+3	13	12	10	4	0
+
+Vertex Weights:
+7	10	6	2	15	2
+Capacity: 31
+
+Profit: 40
+Path: [0, 2, 1, 4, 3]
+Calculation Time: 5.446226119995117
+
+
+350:
+0	15	1	5	15	4
+9	0	12	13	6	2
+1	4	0	1	7	7
+12	9	1	0	8	2
+3	8	1	1	0	6
+10	8	10	4	3	0
+
+Vertex Weights:
+3	1	2	15	14	4
+Capacity: 9
+
+Profit: 38
+Path: [0, 5, 4, 3, 2]
+Calculation Time: 4.5275795459747314
+
+
+351:
+0	15	13	7	8	1
+15	0	6	12	14	13
+5	6	0	6	9	2
+5	10	15	0	9	6
+13	12	7	14	0	11
+3	12	2	7	2	0
+
+Vertex Weights:
+7	14	13	3	3	2
+Capacity: 19
+
+Profit: 39
+Path: [0, 5, 2, 1, 2, 5, 4]
+Calculation Time: 4.497012615203857
+
+
+352:
+0	1	3	10	8	13
+2	0	10	6	5	9
+6	12	0	10	11	6
+2	7	10	0	2	3
+6	4	4	12	0	3
+11	8	8	11	11	0
+
+Vertex Weights:
+14	3	9	1	8	14
+Capacity: 19
+
+Profit: 49
+Path: [0, 1, 3, 4, 2, 5]
+Calculation Time: 4.072915315628052
+
+
+353:
+0	12	2	2	9	10
+5	0	12	12	8	7
+5	1	0	7	4	4
+1	6	1	0	4	8
+10	1	6	5	0	10
+11	11	10	1	2	0
+
+Vertex Weights:
+11	12	7	6	8	6
+Capacity: 11
+
+Profit: 50
+Path: [0, 3, 2, 5, 4, 1]
+Calculation Time: 4.091155529022217
+
+
+354:
+0	8	4	9	5	14
+15	0	5	11	11	1
+11	9	0	15	3	15
+8	2	3	0	1	7
+12	3	10	3	0	7
+11	10	13	6	14	0
+
+Vertex Weights:
+7	10	2	3	7	11
+Capacity: 19
+
+Profit: 40
+Path: [0, 2, 4, 1, 5, 3]
+Calculation Time: 4.051985740661621
+
+
+355:
+0	13	9	4	1	2
+12	0	12	2	13	8
+3	13	0	5	15	7
+4	8	7	0	14	2
+6	1	7	12	0	9
+10	3	8	12	5	0
+
+Vertex Weights:
+14	15	3	3	11	6
+Capacity: 14
+
+Profit: 52
+Path: [0, 4, 1, 3, 5, 2]
+Calculation Time: 4.065939426422119
+
+
+356:
+0	7	15	8	5	5
+13	0	12	1	9	11
+8	7	0	9	3	8
+10	5	14	0	3	7
+7	14	14	8	0	10
+1	1	12	5	2	0
+
+Vertex Weights:
+15	14	3	3	7	8
+Capacity: 18
+
+Profit: 47
+Path: [0, 5, 1, 3, 4]
+Calculation Time: 4.543662786483765
+
+
+357:
+0	10	5	5	13	7
+4	0	13	11	1	2
+3	15	0	6	13	11
+11	7	1	0	13	9
+12	11	2	3	0	10
+10	6	4	2	11	0
+
+Vertex Weights:
+13	3	11	8	12	9
+Capacity: 11
+
+Profit: 41
+Path: [0, 5, 3, 2]
+Calculation Time: 3.6058104038238525
+
+
+358:
+0	9	12	6	5	3
+7	0	3	1	8	4
+5	1	0	13	6	14
+2	13	2	0	7	5
+12	3	1	1	0	9
+9	4	8	6	9	0
+
+Vertex Weights:
+13	6	1	3	2	3
+Capacity: 14
+
+Profit: 28
+Path: [0, 4, 3, 2, 1, 5]
+Calculation Time: 4.064916372299194
+
+
+359:
+0	12	1	15	8	4
+4	0	2	2	7	15
+14	4	0	7	12	6
+13	8	2	0	14	9
+11	13	9	11	0	4
+11	9	7	8	10	0
+
+Vertex Weights:
+15	11	11	8	5	5
+Capacity: 23
+
+Profit: 50
+Path: [0, 5, 3, 2, 1]
+Calculation Time: 6.32697057723999
+
+
+360:
+0	5	4	5	11	1
+8	0	6	1	14	8
+15	9	0	11	9	6
+6	11	6	0	6	15
+14	4	11	14	0	12
+14	4	15	2	3	0
+
+Vertex Weights:
+7	7	5	14	2	3
+Capacity: 20
+
+Profit: 38
+Path: [0, 5, 4, 1, 3, 2]
+Calculation Time: 4.061914920806885
+
+
+361:
+0	5	9	9	7	10
+5	0	8	11	7	10
+2	5	0	15	9	5
+8	1	9	0	4	6
+12	5	3	11	0	8
+14	12	2	13	14	0
+
+Vertex Weights:
+15	14	1	1	6	5
+Capacity: 27
+
+Profit: 42
+Path: [0, 3, 1, 4, 2, 5]
+Calculation Time: 4.102071762084961
+
+
+362:
+0	11	8	9	6	7
+4	0	7	10	8	12
+10	3	0	6	3	6
+13	12	7	0	8	7
+6	4	11	12	0	9
+4	6	15	12	5	0
+
+Vertex Weights:
+13	11	14	5	9	10
+Capacity: 24
+
+Profit: 57
+Path: [0, 5, 4, 1, 2]
+Calculation Time: 5.399622678756714
+
+
+363:
+0	9	6	7	11	7
+7	0	10	14	11	15
+14	15	0	13	1	12
+2	9	15	0	7	2
+5	8	12	1	0	9
+15	3	9	3	13	0
+
+Vertex Weights:
+4	15	10	8	13	14
+Capacity: 14
+
+Profit: 64
+Path: [0, 2, 4, 3, 5, 1]
+Calculation Time: 4.074254751205444
+
+
+364:
+0	1	2	4	6	5
+11	0	1	11	10	3
+6	8	0	6	15	3
+15	15	9	0	7	3
+4	6	10	11	0	4
+2	7	4	4	5	0
+
+Vertex Weights:
+7	10	15	3	1	7
+Capacity: 17
+
+Profit: 43
+Path: [0, 1, 2, 3, 5, 4]
+Calculation Time: 4.077942132949829
+
+
+365:
+0	10	2	14	9	15
+14	0	10	13	6	6
+5	1	0	2	13	10
+4	11	12	0	3	5
+6	5	1	11	0	10
+14	3	3	11	6	0
+
+Vertex Weights:
+12	11	8	7	12	2
+Capacity: 12
+
+Profit: 50
+Path: [0, 2, 3, 4, 2, 1]
+Calculation Time: 4.496011734008789
+
+
+366:
+0	13	7	3	6	12
+4	0	14	4	15	2
+13	2	0	13	12	4
+13	8	7	0	11	7
+3	12	10	13	0	11
+7	15	1	11	15	0
+
+Vertex Weights:
+7	8	9	9	1	13
+Capacity: 20
+
+Profit: 46
+Path: [0, 3, 1, 5, 2]
+Calculation Time: 4.46700644493103
+
+
+367:
+0	5	11	13	7	12
+3	0	2	10	14	13
+12	14	0	1	9	12
+13	5	14	0	12	3
+10	6	12	8	0	13
+11	5	6	7	15	0
+
+Vertex Weights:
+3	10	3	12	15	10
+Capacity: 21
+
+Profit: 53
+Path: [0, 4, 1, 2, 3, 5]
+Calculation Time: 4.064914703369141
+
+
+368:
+0	6	12	10	14	11
+14	0	13	4	3	8
+6	1	0	7	7	15
+4	8	4	0	4	9
+7	11	11	12	0	1
+3	1	14	14	15	0
+
+Vertex Weights:
+13	11	4	13	9	7
+Capacity: 12
+
+Profit: 40
+Path: [0, 1, 4, 5]
+Calculation Time: 3.643108367919922
+
+
+369:
+0	11	5	15	9	2
+1	0	8	7	9	11
+7	1	0	2	9	10
+6	4	3	0	10	12
+6	1	13	14	0	15
+6	5	7	3	3	0
+
+Vertex Weights:
+3	9	4	10	4	1
+Capacity: 10
+
+Profit: 27
+Path: [0, 5, 3, 2, 1]
+Calculation Time: 4.520289897918701
+
+
+370:
+0	14	10	7	4	3
+15	0	15	13	3	12
+8	2	0	4	9	11
+12	5	8	0	14	13
+4	9	6	9	0	4
+12	13	12	13	3	0
+
+Vertex Weights:
+1	6	10	7	8	7
+Capacity: 23
+
+Profit: 39
+Path: [0, 5, 4, 2, 3, 1]
+Calculation Time: 4.019749164581299
+
+
+371:
+0	11	2	3	5	4
+6	0	9	1	4	9
+15	11	0	14	5	3
+1	2	4	0	11	12
+4	13	8	12	0	1
+14	12	14	2	14	0
+
+Vertex Weights:
+1	7	15	13	14	13
+Capacity: 12
+
+Profit: 63
+Path: [0, 2, 4, 5, 3, 1]
+Calculation Time: 4.103277206420898
+
+
+372:
+0	8	3	11	1	15
+2	0	3	7	2	9
+10	2	0	13	12	5
+5	10	15	0	6	15
+9	11	4	7	0	11
+11	12	10	15	3	0
+
+Vertex Weights:
+10	14	2	1	6	9
+Capacity: 17
+
+Profit: 41
+Path: [0, 4, 2, 1, 2, 5]
+Calculation Time: 4.527019023895264
+
+
+373:
+0	14	5	14	2	9
+1	0	5	12	4	2
+1	4	0	7	8	14
+10	1	9	0	6	8
+4	13	1	5	0	15
+11	14	4	11	8	0
+
+Vertex Weights:
+3	3	1	8	14	15
+Capacity: 12
+
+Profit: 43
+Path: [0, 4, 3, 1, 5]
+Calculation Time: 4.427996873855591
+
+
+374:
+0	9	4	8	3	13
+11	0	15	2	1	9
+5	13	0	11	9	12
+7	10	13	0	1	13
+1	11	12	5	0	4
+8	6	2	12	5	0
+
+Vertex Weights:
+1	6	12	3	7	5
+Capacity: 17
+
+Profit: 31
+Path: [0, 1, 4, 5, 2]
+Calculation Time: 4.53802227973938
+
+
+375:
+0	5	3	11	7	2
+14	0	1	5	5	15
+1	4	0	10	6	8
+2	6	10	0	1	13
+12	1	15	9	0	14
+13	11	1	3	2	0
+
+Vertex Weights:
+8	8	11	9	7	15
+Capacity: 10
+
+Profit: 58
+Path: [0, 5, 3, 4, 1, 2]
+Calculation Time: 4.038909196853638
+
+
+376:
+0	7	10	15	15	9
+3	0	6	4	2	6
+12	15	0	14	13	5
+14	11	11	0	7	8
+10	8	4	2	0	3
+5	7	5	5	2	0
+
+Vertex Weights:
+11	13	10	3	9	1
+Capacity: 22
+
+Profit: 47
+Path: [0, 1, 2, 5, 4, 3]
+Calculation Time: 4.049600601196289
+
+
+377:
+0	14	5	6	1	15
+13	0	5	5	1	15
+9	12	0	12	3	11
+7	1	14	0	3	7
+8	12	2	11	0	10
+2	5	3	11	10	0
+
+Vertex Weights:
+1	2	6	10	5	2
+Capacity: 17
+
+Profit: 24
+Path: [0, 3, 1, 2, 4]
+Calculation Time: 4.489165544509888
+
+
+378:
+0	11	10	2	3	4
+1	0	10	5	8	13
+6	15	0	1	3	4
+15	14	13	0	4	15
+8	8	15	13	0	14
+15	10	1	8	9	0
+
+Vertex Weights:
+12	7	5	2	4	10
+Capacity: 17
+
+Profit: 38
+Path: [0, 5, 2, 4, 1]
+Calculation Time: 4.470006227493286
+
+
+379:
+0	6	12	3	1	9
+15	0	1	6	1	3
+5	3	0	14	5	10
+12	14	11	0	11	10
+10	11	6	10	0	15
+2	14	10	8	9	0
+
+Vertex Weights:
+15	14	13	7	6	8
+Capacity: 11
+
+Profit: 48
+Path: [0, 4, 2, 1]
+Calculation Time: 3.5517995357513428
+
+
+380:
+0	2	6	3	2	1
+1	0	7	5	4	12
+1	1	0	12	15	5
+3	9	15	0	15	12
+2	7	9	14	0	13
+5	13	2	13	5	0
+
+Vertex Weights:
+6	4	12	12	6	4
+Capacity: 11
+
+Profit: 40
+Path: [0, 5, 2, 0, 4, 0, 3]
+Calculation Time: 4.499012231826782
+
+
+381:
+0	1	14	8	14	3
+15	0	6	8	6	9
+8	1	0	7	7	6
+10	9	14	0	12	14
+4	5	12	8	0	13
+8	3	6	1	7	0
+
+Vertex Weights:
+4	15	9	9	5	12
+Capacity: 20
+
+Profit: 49
+Path: [0, 5, 3, 1, 2]
+Calculation Time: 4.473007440567017
+
+
+382:
+0	8	10	15	11	15
+15	0	8	7	3	9
+6	13	0	8	14	9
+4	12	10	0	13	10
+4	11	15	7	0	12
+7	8	4	6	11	0
+
+Vertex Weights:
+13	9	8	1	5	4
+Capacity: 34
+
+Profit: 40
+Path: [0, 1, 4, 3, 5, 2]
+Calculation Time: 4.056913375854492
+
+
+383:
+0	11	4	7	14	3
+1	0	2	8	5	8
+10	13	0	15	13	4
+5	11	4	0	3	14
+8	5	3	8	0	15
+9	5	13	10	15	0
+
+Vertex Weights:
+13	6	6	4	14	7
+Capacity: 15
+
+Profit: 40
+Path: [0, 5, 1, 4]
+Calculation Time: 3.554800510406494
+
+
+384:
+0	14	4	1	8	3
+8	0	12	10	12	3
+1	14	0	15	2	3
+12	3	14	0	9	5
+14	14	4	9	0	10
+1	9	6	13	15	0
+
+Vertex Weights:
+11	2	3	9	9	8
+Capacity: 10
+
+Profit: 31
+Path: [0, 2, 5, 0, 3]
+Calculation Time: 3.5949180126190186
+
+
+385:
+0	9	13	7	7	1
+3	0	5	10	13	11
+8	2	0	11	2	4
+13	3	13	0	11	11
+8	10	8	3	0	14
+12	6	1	6	8	0
+
+Vertex Weights:
+3	1	7	2	3	3
+Capacity: 9
+
+Profit: 18
+Path: [0, 5, 2, 4, 3]
+Calculation Time: 4.485716104507446
+
+
+386:
+0	9	7	7	5	1
+2	0	10	5	10	15
+10	15	0	2	8	6
+8	10	14	0	9	7
+10	1	7	6	0	4
+5	4	5	11	14	0
+
+Vertex Weights:
+3	1	14	1	9	4
+Capacity: 12
+
+Profit: 26
+Path: [0, 4, 2]
+Calculation Time: 3.6108131408691406
+
+
+387:
+0	6	4	10	6	8
+10	0	8	15	8	8
+7	9	0	15	2	14
+6	10	12	0	6	6
+15	14	7	3	0	2
+12	3	1	15	10	0
+
+Vertex Weights:
+2	7	15	11	13	10
+Capacity: 12
+
+Profit: 47
+Path: [0, 2, 4, 5, 1]
+Calculation Time: 4.44700026512146
+
+
+388:
+0	9	7	11	15	8
+1	0	4	4	11	13
+5	9	0	11	5	8
+12	8	14	0	4	13
+15	2	10	13	0	9
+5	5	14	10	4	0
+
+Vertex Weights:
+14	2	10	11	13	2
+Capacity: 25
+
+Profit: 52
+Path: [0, 2, 5, 4, 1, 3]
+Calculation Time: 4.0679168701171875
+
+
+389:
+0	12	2	6	1	4
+14	0	1	3	4	12
+8	14	0	2	9	8
+9	12	7	0	11	11
+2	3	1	5	0	6
+8	4	5	15	5	0
+
+Vertex Weights:
+1	12	14	12	9	14
+Capacity: 12
+
+Profit: 53
+Path: [0, 5, 1, 2, 3]
+Calculation Time: 4.465004920959473
+
+
+390:
+0	7	4	11	8	2
+1	0	14	3	14	5
+14	12	0	11	11	2
+14	11	4	0	2	1
+13	13	9	5	0	1
+12	3	2	2	2	0
+
+Vertex Weights:
+9	6	15	2	14	13
+Capacity: 9
+
+Profit: 53
+Path: [0, 5, 3, 4, 5, 2]
+Calculation Time: 4.507014513015747
+
+
+391:
+0	15	3	4	13	15
+11	0	13	13	7	9
+3	13	0	5	11	8
+3	15	3	0	5	9
+6	6	4	14	0	4
+11	9	5	13	8	0
+
+Vertex Weights:
+3	3	11	9	14	2
+Capacity: 23
+
+Profit: 40
+Path: [0, 2, 3, 4, 1]
+Calculation Time: 4.473007440567017
+
+
+392:
+0	7	9	2	4	7
+4	0	13	11	15	11
+1	6	0	6	9	9
+10	2	10	0	9	13
+9	15	4	11	0	2
+12	10	4	5	8	0
+
+Vertex Weights:
+8	14	12	4	1	4
+Capacity: 13
+
+Profit: 39
+Path: [0, 4, 2, 0, 3, 1]
+Calculation Time: 4.502977132797241
+
+
+393:
+0	2	9	3	10	13
+4	0	6	5	5	14
+7	8	0	12	6	7
+5	12	6	0	12	15
+3	3	13	10	0	15
+10	5	8	3	14	0
+
+Vertex Weights:
+8	11	6	14	15	8
+Capacity: 31
+
+Profit: 62
+Path: [0, 3, 2, 4, 1, 2, 5]
+Calculation Time: 4.138866424560547
+
+
+394:
+0	2	5	5	3	15
+15	0	2	13	3	2
+7	9	0	12	2	11
+3	3	6	0	1	8
+12	1	3	11	0	15
+10	2	5	1	15	0
+
+Vertex Weights:
+13	11	11	2	14	2
+Capacity: 7
+
+Profit: 49
+Path: [0, 1, 2, 4]
+Calculation Time: 3.634005546569824
+
+
+395:
+0	14	7	10	6	10
+9	0	4	13	4	6
+9	8	0	15	2	12
+15	4	4	0	12	12
+2	6	2	3	0	13
+2	12	10	10	15	0
+
+Vertex Weights:
+4	12	5	8	9	5
+Capacity: 19
+
+Profit: 38
+Path: [0, 4, 3, 1, 2]
+Calculation Time: 4.537023067474365
+
+
+396:
+0	4	13	5	15	15
+8	0	3	13	6	3
+10	4	0	6	7	12
+10	9	11	0	13	8
+14	6	10	10	0	14
+1	10	3	3	1	0
+
+Vertex Weights:
+1	7	8	6	12	10
+Capacity: 12
+
+Profit: 30
+Path: [0, 1, 5, 4]
+Calculation Time: 3.646819829940796
+
+
+397:
+0	9	2	6	5	5
+15	0	13	12	8	1
+15	9	0	12	11	15
+4	9	1	0	11	8
+2	7	1	4	0	14
+12	12	2	4	14	0
+
+Vertex Weights:
+1	12	8	5	13	13
+Capacity: 20
+
+Profit: 52
+Path: [0, 4, 2, 1, 5, 3]
+Calculation Time: 4.10492467880249
+
+
+398:
+0	1	2	9	9	6
+7	0	11	5	7	13
+4	10	0	10	4	9
+5	13	8	0	1	10
+5	11	7	10	0	10
+15	12	1	10	5	0
+
+Vertex Weights:
+14	15	7	11	1	12
+Capacity: 14
+
+Profit: 48
+Path: [0, 5, 2, 0, 1]
+Calculation Time: 4.557345151901245
+
+
+399:
+0	9	14	6	9	3
+3	0	15	8	11	15
+9	1	0	2	8	11
+6	11	1	0	8	10
+1	12	10	12	0	1
+3	8	3	3	2	0
+
+Vertex Weights:
+8	7	9	6	7	8
+Capacity: 8
+
+Profit: 38
+Path: [0, 5, 3, 2, 1]
+Calculation Time: 4.516849756240845
+
+
+400:
+0	13	9	8	12	15
+7	0	3	12	1	6
+11	7	0	2	13	4
+5	12	4	0	3	1
+6	2	5	2	0	3
+9	10	7	9	14	0
+
+Vertex Weights:
+10	4	1	9	2	15
+Capacity: 12
+
+Profit: 35
+Path: [0, 2, 3, 5]
+Calculation Time: 3.6859986782073975
+
+
+401:
+0	13	7	13	8	5	14
+2	0	3	1	2	15	8
+9	14	0	10	12	9	5
+5	8	9	0	9	14	6
+1	2	13	10	0	7	10
+14	11	12	13	14	0	14
+4	4	10	14	8	5	0
+
+Vertex Weights:
+7	7	10	14	12	14	13
+Capacity: 17
+
+Profit: 53
+Path: [0, 4, 1, 3, 6]
+Calculation Time: 4.513132333755493
+
+
+402:
+0	10	13	15	3	8	7
+13	0	13	7	7	3	12
+1	15	0	15	10	11	1
+15	6	3	0	8	12	2
+7	12	10	3	0	13	15
+6	8	8	1	4	0	14
+9	14	13	9	3	8	0
+
+Vertex Weights:
+10	9	14	10	15	12	3
+Capacity: 14
+
+Profit: 52
+Path: [0, 4, 3, 2, 6]
+Calculation Time: 4.529919147491455
+
+
+403:
+0	9	1	5	14	7	14
+8	0	1	9	11	4	9
+9	11	0	1	12	8	4
+14	4	9	0	5	8	15
+7	14	12	10	0	1	10
+6	3	9	1	9	0	14
+7	15	11	14	12	15	0
+
+Vertex Weights:
+10	11	3	2	13	9	12
+Capacity: 20
+
+Profit: 60
+Path: [0, 2, 3, 4, 5, 1, 2, 6]
+Calculation Time: 5.012129068374634
+
+
+404:
+0	12	1	14	7	3	2
+15	0	14	9	3	12	6
+7	3	0	7	1	12	6
+13	14	14	0	14	12	7
+10	8	7	8	0	15	15
+1	11	5	6	14	0	6
+7	7	14	9	1	11	0
+
+Vertex Weights:
+13	11	11	6	7	9	11
+Capacity: 18
+
+Profit: 62
+Path: [0, 5, 0, 2, 1, 6, 4]
+Calculation Time: 7.293641090393066
+
+
+405:
+0	2	7	14	1	15	1
+15	0	15	14	4	13	7
+7	6	0	6	12	5	4
+14	13	11	0	9	1	13
+2	7	14	14	0	12	14
+8	3	3	13	14	0	13
+14	9	9	12	6	7	0
+
+Vertex Weights:
+15	14	9	6	4	12	11
+Capacity: 17
+
+Profit: 61
+Path: [0, 6, 5, 2, 1]
+Calculation Time: 5.44273829460144
+
+
+406:
+0	12	1	11	7	6	2
+5	0	5	2	13	9	15
+12	3	0	15	6	6	9
+10	12	7	0	1	12	5
+13	11	9	2	0	14	4
+15	12	9	3	2	0	1
+12	15	1	6	7	8	0
+
+Vertex Weights:
+11	2	9	1	14	7	6
+Capacity: 15
+
+Profit: 50
+Path: [0, 5, 6, 2, 1, 3, 4]
+Calculation Time: 5.017512559890747
+
+
+407:
+0	7	11	1	8	12	3
+9	0	2	12	15	9	1
+9	15	0	14	3	5	8
+12	13	12	0	2	5	5
+4	14	9	7	0	15	6
+4	4	9	7	14	0	9
+11	8	5	3	13	1	0
+
+Vertex Weights:
+2	5	3	11	14	6	9
+Capacity: 15
+
+Profit: 47
+Path: [0, 3, 4, 6, 5, 1]
+Calculation Time: 5.474352121353149
+
+
+408:
+0	5	9	15	11	13	11
+3	0	12	1	14	10	7
+12	7	0	8	3	2	7
+3	14	11	0	4	8	13
+13	5	5	8	0	3	10
+11	9	13	15	6	0	13
+10	15	12	3	2	9	0
+
+Vertex Weights:
+5	12	4	9	15	2	11
+Capacity: 27
+
+Profit: 58
+Path: [0, 1, 3, 4, 2, 6, 4, 5]
+Calculation Time: 4.981263875961304
+
+
+409:
+0	13	6	3	15	8	7
+2	0	13	15	15	11	6
+6	6	0	3	4	14	14
+15	9	14	0	7	6	2
+1	6	5	1	0	3	4
+2	10	8	5	8	0	10
+12	11	11	8	9	1	0
+
+Vertex Weights:
+7	2	5	13	7	10	11
+Capacity: 21
+
+Profit: 53
+Path: [0, 2, 4, 3, 6, 5]
+Calculation Time: 8.241855382919312
+
+
+410:
+0	10	10	2	2	8	5
+13	0	15	1	7	2	2
+9	12	0	3	10	7	11
+6	1	3	0	14	13	2
+6	11	15	10	0	4	9
+12	5	9	13	3	0	11
+2	6	7	1	10	10	0
+
+Vertex Weights:
+1	11	10	9	11	12	12
+Capacity: 14
+
+Profit: 56
+Path: [0, 3, 6, 3, 1, 5, 4]
+Calculation Time: 7.299036979675293
+
+
+411:
+0	12	13	5	9	5	4
+14	0	11	9	10	8	14
+10	15	0	11	15	11	3
+4	14	3	0	5	11	8
+1	12	12	14	0	10	8
+2	15	10	2	5	0	6
+4	11	8	1	10	9	0
+
+Vertex Weights:
+7	11	9	5	12	2	3
+Capacity: 30
+
+Profit: 47
+Path: [0, 3, 2, 6, 3, 4, 1]
+Calculation Time: 10.834411382675171
+
+
+412:
+0	5	5	2	15	14	11
+3	0	14	14	9	6	5
+2	5	0	7	14	14	7
+9	9	15	0	15	9	13
+13	12	8	5	0	7	10
+5	11	9	10	8	0	11
+15	12	9	2	2	13	0
+
+Vertex Weights:
+6	13	5	5	13	3	13
+Capacity: 21
+
+Profit: 50
+Path: [0, 1, 6, 4, 2]
+Calculation Time: 5.411501169204712
+
+
+413:
+0	8	9	8	6	11	1
+12	0	6	6	2	1	10
+10	10	0	6	9	3	2
+1	15	5	0	13	9	4
+4	1	11	12	0	1	3
+5	8	1	12	12	0	2
+13	12	3	13	14	1	0
+
+Vertex Weights:
+4	14	9	6	13	3	9
+Capacity: 10
+
+Profit: 43
+Path: [0, 4, 1, 5, 2]
+Calculation Time: 4.566051006317139
+
+
+414:
+0	10	13	4	2	5	4
+4	0	6	5	3	10	12
+2	12	0	1	6	3	7
+8	9	9	0	7	7	14
+1	7	3	5	0	8	3
+1	6	14	11	14	0	5
+3	4	4	9	12	10	0
+
+Vertex Weights:
+5	13	12	3	3	5	14
+Capacity: 13
+
+Profit: 39
+Path: [0, 4, 6, 2, 5]
+Calculation Time: 4.52301812171936
+
+
+415:
+0	14	11	4	4	2	4
+14	0	4	8	2	15	8
+6	7	0	14	3	10	8
+4	15	1	0	14	3	7
+11	11	13	11	0	11	2
+10	15	14	8	1	0	11
+7	9	3	1	15	6	0
+
+Vertex Weights:
+12	6	12	3	15	3	3
+Capacity: 19
+
+Profit: 54
+Path: [0, 5, 4, 6, 3, 2, 1]
+Calculation Time: 5.04813814163208
+
+
+416:
+0	9	5	8	15	1	8
+13	0	9	2	3	5	3
+9	6	0	3	7	9	12
+2	15	15	0	3	15	3
+1	3	13	13	0	9	5
+10	2	7	11	10	0	12
+5	14	13	7	11	15	0
+
+Vertex Weights:
+14	9	9	10	14	2	6
+Capacity: 20
+
+Profit: 64
+Path: [0, 5, 1, 4, 0, 2, 3, 6]
+Calculation Time: 4.96211576461792
+
+
+417:
+0	1	9	13	6	5	11
+11	0	7	9	10	12	9
+9	4	0	10	3	8	1
+10	13	13	0	5	4	7
+4	8	12	5	0	15	7
+12	2	3	8	9	0	15
+13	8	7	5	12	11	0
+
+Vertex Weights:
+6	2	13	7	8	11	2
+Capacity: 23
+
+Profit: 47
+Path: [0, 4, 3, 5, 2, 1]
+Calculation Time: 9.046037673950195
+
+
+418:
+0	12	10	10	15	9	13
+14	0	6	11	6	12	1
+13	1	0	8	5	3	14
+14	12	13	0	5	4	13
+15	3	10	4	0	14	7
+15	12	8	3	10	0	12
+8	11	1	4	13	13	0
+
+Vertex Weights:
+5	2	1	5	2	9	14
+Capacity: 24
+
+Profit: 38
+Path: [0, 5, 3, 4, 1, 6, 2]
+Calculation Time: 5.05228066444397
+
+
+419:
+0	3	5	8	2	11	5
+12	0	8	7	13	11	5
+2	8	0	15	11	1	5
+10	15	6	0	2	13	12
+5	11	7	2	0	7	4
+2	4	4	6	14	0	3
+9	7	8	12	8	7	0
+
+Vertex Weights:
+11	15	11	8	1	13	11
+Capacity: 17
+
+Profit: 61
+Path: [0, 2, 5, 1, 6]
+Calculation Time: 7.254378318786621
+
+
+420:
+0	7	6	11	8	5	10
+3	0	6	9	5	15	5
+1	8	0	8	1	9	2
+10	13	10	0	14	10	14
+4	4	3	11	0	1	5
+3	2	4	11	7	0	1
+8	11	2	14	6	14	0
+
+Vertex Weights:
+3	8	10	7	2	7	8
+Capacity: 15
+
+Profit: 38
+Path: [0, 5, 6, 2, 4, 5, 1]
+Calculation Time: 5.54398250579834
+
+
+421:
+0	12	13	8	11	8	13
+5	0	11	15	2	9	1
+8	7	0	6	10	2	4
+8	12	10	0	4	9	5
+12	7	5	2	0	15	5
+3	11	3	7	15	0	10
+6	14	11	10	14	7	0
+
+Vertex Weights:
+1	8	10	7	14	6	4
+Capacity: 23
+
+Profit: 46
+Path: [0, 5, 2, 1, 4, 3]
+Calculation Time: 6.559475660324097
+
+
+422:
+0	2	2	11	11	8	2
+13	0	8	6	6	3	2
+3	9	0	5	15	15	5
+1	7	8	0	12	10	5
+1	11	9	7	0	6	8
+13	15	4	9	9	0	15
+8	8	3	15	6	5	0
+
+Vertex Weights:
+13	1	13	14	11	3	11
+Capacity: 21
+
+Profit: 63
+Path: [0, 1, 6, 4, 0, 2, 3]
+Calculation Time: 9.97724723815918
+
+
+423:
+0	1	5	15	1	3	5
+10	0	15	7	11	14	11
+7	13	0	9	6	5	2
+15	7	4	0	14	14	2
+6	13	6	6	0	1	3
+10	13	15	14	8	0	6
+14	10	2	1	6	9	0
+
+Vertex Weights:
+7	11	3	6	15	13	14
+Capacity: 13
+
+Profit: 58
+Path: [0, 4, 5, 6, 3, 2]
+Calculation Time: 5.506708383560181
+
+
+424:
+0	8	8	5	15	5	15
+1	0	11	11	2	11	4
+10	14	0	7	2	14	10
+4	1	9	0	10	7	7
+1	11	5	5	0	8	2
+8	10	1	7	14	0	6
+2	1	14	15	5	8	0
+
+Vertex Weights:
+2	14	2	15	14	1	14
+Capacity: 16
+
+Profit: 59
+Path: [0, 3, 1, 4, 6]
+Calculation Time: 5.576762914657593
+
+
+425:
+0	1	4	7	3	3	8
+11	0	11	4	10	5	6
+3	3	0	11	9	13	4
+7	9	1	0	8	2	6
+4	14	11	15	0	15	2
+12	15	7	15	2	0	8
+8	3	8	14	10	13	0
+
+Vertex Weights:
+15	4	2	9	8	13	11
+Capacity: 15
+
+Profit: 62
+Path: [0, 5, 4, 6, 1, 3, 2]
+Calculation Time: 5.15574312210083
+
+
+426:
+0	2	9	15	11	10	9
+13	0	11	6	7	8	10
+8	6	0	15	12	10	7
+14	7	4	0	9	9	15
+14	3	8	14	0	3	6
+4	6	10	15	9	0	8
+2	12	8	12	6	3	0
+
+Vertex Weights:
+3	15	6	4	14	9	2
+Capacity: 24
+
+Profit: 47
+Path: [0, 1, 4, 5, 2]
+Calculation Time: 6.506464719772339
+
+
+427:
+0	15	10	7	7	7	6
+13	0	4	2	15	2	11
+9	4	0	11	3	4	14
+11	2	4	0	3	12	9
+9	10	7	2	0	5	10
+13	7	9	10	14	0	15
+15	6	4	2	8	12	0
+
+Vertex Weights:
+4	14	7	15	3	9	4
+Capacity: 22
+
+Profit: 56
+Path: [0, 6, 2, 4, 3, 1, 5]
+Calculation Time: 5.075144052505493
+
+
+428:
+0	12	11	11	7	6	8
+10	0	7	1	12	6	8
+9	13	0	8	15	4	13
+14	7	10	0	4	10	2
+5	15	3	3	0	6	1
+12	2	7	12	11	0	10
+14	13	13	5	1	12	0
+
+Vertex Weights:
+11	2	5	12	15	4	6
+Capacity: 14
+
+Profit: 50
+Path: [0, 5, 1, 3, 4, 6]
+Calculation Time: 5.422220468521118
+
+
+429:
+0	8	12	6	13	8	11
+5	0	3	15	5	4	12
+2	4	0	2	8	11	10
+12	4	8	0	11	2	13
+13	3	5	2	0	5	7
+11	15	8	1	6	0	10
+10	14	15	7	13	15	0
+
+Vertex Weights:
+8	3	2	7	8	13	14
+Capacity: 24
+
+Profit: 50
+Path: [0, 3, 5, 4, 6]
+Calculation Time: 7.216077566146851
+
+
+430:
+0	1	3	3	3	3	4
+7	0	11	1	8	1	7
+7	7	0	3	6	9	5
+4	4	10	0	5	13	12
+11	9	12	5	0	4	14
+4	1	12	9	12	0	13
+11	14	5	12	2	3	0
+
+Vertex Weights:
+1	2	9	2	15	3	11
+Capacity: 12
+
+Profit: 36
+Path: [0, 2, 6, 4]
+Calculation Time: 4.549898147583008
+
+
+431:
+0	6	15	12	6	9	9
+5	0	9	5	11	5	15
+1	8	0	3	3	5	12
+8	3	5	0	3	2	10
+12	6	13	7	0	10	14
+13	14	1	4	13	0	9
+2	1	7	6	10	7	0
+
+Vertex Weights:
+3	10	15	8	13	7	7
+Capacity: 17
+
+Profit: 56
+Path: [0, 1, 3, 5, 2, 4]
+Calculation Time: 5.455228805541992
+
+
+432:
+0	3	6	3	3	15	6
+11	0	9	11	11	1	6
+14	9	0	11	3	3	11
+12	2	3	0	15	6	8
+2	8	5	14	0	10	13
+3	7	8	15	14	0	14
+6	7	14	3	15	1	0
+
+Vertex Weights:
+12	8	6	5	14	4	7
+Capacity: 20
+
+Profit: 52
+Path: [0, 3, 2, 4, 0, 1, 6]
+Calculation Time: 10.762423753738403
+
+
+433:
+0	2	8	8	9	4	12
+15	0	15	11	5	10	14
+2	6	0	14	5	13	11
+15	8	2	0	2	11	5
+6	8	5	4	0	12	4
+6	1	4	11	13	0	4
+6	13	1	4	14	1	0
+
+Vertex Weights:
+14	5	11	4	1	9	12
+Capacity: 17
+
+Profit: 52
+Path: [0, 5, 1, 4, 6, 2]
+Calculation Time: 6.321956396102905
+
+
+434:
+0	8	5	1	10	14	11
+12	0	11	5	1	14	15
+7	8	0	14	2	11	4
+3	4	3	0	4	11	1
+8	9	11	8	0	1	10
+12	15	15	11	10	0	8
+12	13	6	10	11	3	0
+
+Vertex Weights:
+5	10	3	9	14	3	15
+Capacity: 12
+
+Profit: 49
+Path: [0, 3, 6, 2, 4, 5]
+Calculation Time: 5.385863304138184
+
+
+435:
+0	3	1	12	10	7	15
+3	0	4	4	4	2	15
+11	7	0	14	13	14	11
+14	12	8	0	3	10	15
+7	5	7	8	0	7	13
+10	3	2	6	15	0	10
+11	5	8	5	15	4	0
+
+Vertex Weights:
+7	7	2	14	8	1	10
+Capacity: 27
+
+Profit: 49
+Path: [0, 2, 6, 3, 4, 1, 5]
+Calculation Time: 4.945112705230713
+
+
+436:
+0	7	8	4	1	8	3
+2	0	7	6	9	8	14
+2	10	0	2	13	3	8
+14	10	9	0	3	7	3
+4	10	4	12	0	12	1
+9	5	2	11	1	0	1
+8	4	11	8	13	8	0
+
+Vertex Weights:
+7	6	14	12	5	11	3
+Capacity: 14
+
+Profit: 52
+Path: [0, 4, 6, 5, 2, 3]
+Calculation Time: 6.378972291946411
+
+
+437:
+0	13	5	15	3	5	12
+10	0	14	4	6	15	1
+1	5	0	5	10	12	2
+6	4	7	0	14	8	9
+10	5	6	15	0	8	4
+12	6	5	12	6	0	4
+2	11	13	3	1	9	0
+
+Vertex Weights:
+11	1	6	15	14	9	12
+Capacity: 22
+
+Profit: 68
+Path: [0, 5, 2, 6, 3, 1, 6, 4]
+Calculation Time: 5.907389163970947
+
+
+438:
+0	13	11	13	8	15	11
+10	0	8	3	7	2	12
+8	1	0	11	4	4	3
+15	7	2	0	10	9	12
+9	4	11	7	0	10	5
+5	4	2	8	14	0	10
+3	4	10	7	11	10	0
+
+Vertex Weights:
+11	13	1	10	15	2	14
+Capacity: 19
+
+Profit: 56
+Path: [0, 4, 1, 5, 2, 6]
+Calculation Time: 5.481759309768677
+
+
+439:
+0	9	4	5	4	9	2
+12	0	12	7	6	11	9
+5	6	0	2	4	3	7
+15	3	2	0	10	1	7
+12	2	5	7	0	6	3
+8	10	4	4	6	0	15
+4	5	10	14	9	8	0
+
+Vertex Weights:
+9	10	8	7	8	15	2
+Capacity: 17
+
+Profit: 57
+Path: [0, 2, 3, 5, 4, 1]
+Calculation Time: 8.244510412216187
+
+
+440:
+0	7	6	4	3	12	14
+14	0	2	14	5	12	14
+12	2	0	12	9	8	6
+5	1	11	0	14	10	14
+4	8	1	15	0	3	9
+11	2	13	10	6	0	11
+7	12	6	4	3	15	0
+
+Vertex Weights:
+13	2	4	2	2	4	15
+Capacity: 18
+
+Profit: 40
+Path: [0, 4, 5, 1, 2, 6]
+Calculation Time: 5.449227571487427
+
+
+441:
+0	10	15	4	12	13	15
+5	0	9	2	13	5	5
+11	3	0	3	15	14	14
+3	13	5	0	3	5	14
+4	9	1	14	0	11	8
+4	7	15	7	10	0	6
+13	4	8	1	9	6	0
+
+Vertex Weights:
+2	7	4	9	4	2	4
+Capacity: 19
+
+Profit: 30
+Path: [0, 3, 4, 2, 1, 6]
+Calculation Time: 5.474473476409912
+
+
+442:
+0	5	2	2	9	7	5
+13	0	13	4	7	9	8
+11	12	0	13	15	5	5
+1	7	7	0	8	5	12
+3	13	8	13	0	1	5
+3	7	10	10	2	0	4
+14	5	3	13	1	1	0
+
+Vertex Weights:
+8	11	13	1	8	13	13
+Capacity: 17
+
+Profit: 66
+Path: [0, 2, 6, 4, 5, 1]
+Calculation Time: 9.182465076446533
+
+
+443:
+0	7	7	6	1	3	15
+8	0	7	13	11	10	6
+6	6	0	5	6	4	2
+10	3	9	0	4	12	2
+13	10	10	15	0	10	12
+13	6	3	13	8	0	14
+7	10	12	4	9	13	0
+
+Vertex Weights:
+8	7	7	1	12	6	13
+Capacity: 21
+
+Profit: 48
+Path: [0, 4, 2, 6, 3, 1]
+Calculation Time: 7.279211759567261
+
+
+444:
+0	5	6	3	13	14	7
+4	0	6	15	7	6	11
+2	8	0	3	6	14	6
+15	14	6	0	4	8	9
+4	10	6	10	0	9	3
+4	14	12	4	8	0	13
+8	9	13	4	8	13	0
+
+Vertex Weights:
+7	2	13	2	13	12	13
+Capacity: 34
+
+Profit: 62
+Path: [0, 1, 5, 0, 2, 4, 6, 3]
+Calculation Time: 4.933111667633057
+
+
+445:
+0	1	8	15	2	11	9
+3	0	8	8	15	7	3
+9	3	0	11	9	2	13
+8	13	14	0	14	6	3
+14	11	3	5	0	8	6
+15	14	14	2	2	0	8
+11	15	10	10	11	14	0
+
+Vertex Weights:
+2	11	13	15	6	5	6
+Capacity: 17
+
+Profit: 58
+Path: [0, 1, 0, 4, 2, 5, 3, 6]
+Calculation Time: 4.950114488601685
+
+
+446:
+0	15	8	7	11	13	11
+15	0	2	11	12	5	4
+6	6	0	12	3	13	1
+10	15	9	0	7	12	6
+8	11	2	10	0	9	7
+3	2	15	3	6	0	2
+14	5	10	14	7	15	0
+
+Vertex Weights:
+2	1	13	6	6	1	6
+Capacity: 19
+
+Profit: 33
+Path: [0, 3, 4, 2, 6]
+Calculation Time: 4.5040130615234375
+
+
+447:
+0	4	3	14	4	6	9
+11	0	10	8	3	7	14
+11	6	0	4	15	6	5
+2	5	7	0	3	9	9
+2	3	11	2	0	13	3
+12	13	8	8	14	0	7
+9	11	14	4	1	6	0
+
+Vertex Weights:
+11	9	1	2	14	4	4
+Capacity: 17
+
+Profit: 42
+Path: [0, 5, 6, 4, 1]
+Calculation Time: 6.275411605834961
+
+
+448:
+0	11	4	2	14	9	4
+5	0	2	12	5	9	11
+14	8	0	7	1	4	11
+3	14	13	0	9	4	1
+1	12	10	8	0	7	15
+12	9	7	4	9	0	12
+6	13	11	3	6	12	0
+
+Vertex Weights:
+10	14	6	7	6	12	2
+Capacity: 16
+
+Profit: 43
+Path: [0, 3, 5, 1]
+Calculation Time: 4.524449586868286
+
+
+449:
+0	3	8	7	15	8	7
+6	0	15	4	14	11	8
+4	2	0	7	7	1	11
+2	11	11	0	15	7	4
+7	2	2	12	0	5	12
+10	8	2	14	13	0	5
+8	15	11	3	5	1	0
+
+Vertex Weights:
+9	12	8	12	3	7	4
+Capacity: 21
+
+Profit: 55
+Path: [0, 1, 3, 6, 4, 2, 5]
+Calculation Time: 4.972825050354004
+
+
+450:
+0	8	7	12	3	14	1
+3	0	8	2	9	11	6
+11	1	0	5	11	1	8
+6	1	5	0	1	7	11
+2	2	13	10	0	1	3
+10	5	13	10	13	0	2
+6	8	11	9	6	1	0
+
+Vertex Weights:
+10	6	11	4	10	6	11
+Capacity: 9
+
+Profit: 37
+Path: [0, 4, 5, 6]
+Calculation Time: 3.669825792312622
+
+
+451:
+0	2	1	6	11	11	15
+7	0	14	8	4	10	8
+1	13	0	3	10	13	3
+7	7	1	0	2	5	5
+9	14	14	6	0	7	3
+14	6	7	3	4	0	12
+15	6	1	2	1	5	0
+
+Vertex Weights:
+12	11	11	4	6	6	1
+Capacity: 14
+
+Profit: 45
+Path: [0, 1, 4, 6, 2, 3]
+Calculation Time: 6.3034186363220215
+
+
+452:
+0	6	11	5	7	1	1
+11	0	10	13	13	12	8
+14	15	0	1	2	4	7
+13	4	1	0	1	10	15
+11	9	5	10	0	7	2
+11	13	5	3	15	0	3
+13	10	12	12	15	12	0
+
+Vertex Weights:
+12	14	11	5	9	2	3
+Capacity: 22
+
+Profit: 56
+Path: [0, 5, 3, 2, 4, 6, 1]
+Calculation Time: 5.023961782455444
+
+
+453:
+0	14	1	11	7	4	5
+5	0	11	7	8	14	7
+11	12	0	2	5	7	5
+1	9	2	0	14	7	14
+3	8	8	5	0	11	11
+3	12	6	3	7	0	11
+15	2	2	13	11	14	0
+
+Vertex Weights:
+10	11	10	13	11	15	6
+Capacity: 17
+
+Profit: 65
+Path: [0, 5, 3, 2, 6, 1]
+Calculation Time: 7.239988565444946
+
+
+454:
+0	5	10	7	4	2	15
+4	0	5	9	14	4	4
+6	10	0	7	14	8	12
+4	11	3	0	2	2	14
+8	11	11	9	0	2	9
+13	13	8	9	12	0	2
+3	8	13	4	8	7	0
+
+Vertex Weights:
+8	10	4	14	9	9	12
+Capacity: 23
+
+Profit: 66
+Path: [0, 1, 2, 3, 4, 5, 6]
+Calculation Time: 4.946989297866821
+
+
+455:
+0	1	7	9	3	1	1
+8	0	11	10	12	13	2
+11	7	0	2	8	15	13
+8	9	9	0	14	8	6
+2	5	6	13	0	9	8
+1	5	10	2	11	0	15
+15	9	14	9	15	10	0
+
+Vertex Weights:
+12	13	15	13	6	13	13
+Capacity: 16
+
+Profit: 66
+Path: [0, 5, 0, 1, 2, 3]
+Calculation Time: 6.254408836364746
+
+
+456:
+0	10	8	12	9	8	9
+2	0	13	8	6	7	9
+2	14	0	12	13	5	3
+12	15	15	0	10	4	14
+4	4	3	9	0	14	8
+4	7	1	3	10	0	5
+11	2	1	1	9	9	0
+
+Vertex Weights:
+10	9	13	12	6	14	9
+Capacity: 16
+
+Profit: 58
+Path: [0, 5, 2, 6, 3]
+Calculation Time: 4.451000928878784
+
+
+457:
+0	4	15	13	9	6	8
+15	0	5	8	1	2	6
+13	5	0	14	13	15	11
+10	3	2	0	1	8	2
+13	5	8	8	0	12	10
+8	11	11	9	5	0	10
+15	2	11	15	2	5	0
+
+Vertex Weights:
+3	5	4	15	12	4	2
+Capacity: 18
+
+Profit: 39
+Path: [0, 1, 4, 3, 2]
+Calculation Time: 5.385213375091553
+
+
+458:
+0	15	14	10	5	11	2
+1	0	12	9	8	7	14
+11	8	0	11	8	1	1
+13	15	2	0	6	14	13
+9	8	14	6	0	8	1
+3	8	12	6	2	0	4
+12	12	5	14	9	7	0
+
+Vertex Weights:
+7	6	6	15	14	6	8
+Capacity: 16
+
+Profit: 56
+Path: [0, 6, 2, 5, 4, 3]
+Calculation Time: 5.3632073402404785
+
+
+459:
+0	13	11	12	7	8	4
+7	0	4	13	1	6	2
+8	14	0	12	6	14	12
+5	5	15	0	4	14	4
+9	12	12	13	0	5	6
+8	11	2	3	10	0	15
+10	7	11	9	12	11	0
+
+Vertex Weights:
+7	13	13	8	11	13	2
+Capacity: 20
+
+Profit: 59
+Path: [0, 6, 1, 4, 5, 2]
+Calculation Time: 5.381649017333984
+
+
+460:
+0	10	7	11	14	7	6
+7	0	1	3	4	6	7
+6	5	0	6	9	6	11
+14	9	2	0	2	12	8
+2	15	1	12	0	14	5
+8	14	2	8	3	0	8
+11	12	9	2	8	7	0
+
+Vertex Weights:
+5	10	2	8	1	4	14
+Capacity: 25
+
+Profit: 44
+Path: [0, 6, 3, 4, 2, 1, 5]
+Calculation Time: 5.00652289390564
+
+
+461:
+0	9	4	14	5	9	10
+1	0	12	3	12	10	10
+12	6	0	11	5	3	7
+15	12	10	0	7	4	6
+13	7	12	4	0	6	4
+4	3	7	6	12	0	10
+6	14	13	6	4	6	0
+
+Vertex Weights:
+4	7	14	8	3	10	2
+Capacity: 19
+
+Profit: 45
+Path: [0, 2, 5, 1, 3, 6]
+Calculation Time: 5.3934972286224365
+
+
+462:
+0	5	7	7	10	1	2
+4	0	10	10	13	6	9
+13	3	0	5	3	7	15
+5	4	4	0	10	13	4
+7	14	6	10	0	7	3
+8	3	9	14	11	0	13
+15	12	13	4	4	11	0
+
+Vertex Weights:
+7	15	7	15	3	1	9
+Capacity: 17
+
+Profit: 53
+Path: [0, 6, 3, 2, 1]
+Calculation Time: 5.315196990966797
+
+
+463:
+0	9	5	13	13	11	1
+5	0	10	14	2	9	8
+14	7	0	7	7	3	4
+15	2	7	0	14	2	12
+3	6	12	15	0	14	9
+1	3	6	8	14	0	11
+3	5	7	11	15	3	0
+
+Vertex Weights:
+10	8	10	4	11	6	9
+Capacity: 16
+
+Profit: 54
+Path: [0, 6, 2, 5, 1, 4]
+Calculation Time: 5.384211301803589
+
+
+464:
+0	5	12	12	2	3	11
+6	0	1	3	10	2	13
+4	10	0	15	3	6	4
+11	14	12	0	11	8	7
+4	13	13	11	0	11	10
+10	10	1	1	14	0	4
+5	4	6	12	4	6	0
+
+Vertex Weights:
+1	3	10	4	8	13	14
+Capacity: 18
+
+Profit: 49
+Path: [0, 4, 0, 5, 2, 6, 1]
+Calculation Time: 7.279708623886108
+
+
+465:
+0	8	1	8	6	8	15
+5	0	2	9	15	10	15
+10	8	0	14	7	10	6
+7	2	6	0	13	12	12
+9	9	7	4	0	1	4
+14	1	3	4	10	0	9
+15	11	12	3	10	14	0
+
+Vertex Weights:
+15	6	4	4	11	15	10
+Capacity: 23
+
+Profit: 65
+Path: [0, 4, 5, 1, 2, 6, 3]
+Calculation Time: 5.013943910598755
+
+
+466:
+0	10	15	2	7	15	1
+9	0	11	2	14	1	10
+13	5	0	10	15	2	7
+3	15	1	0	4	6	4
+5	13	7	12	0	2	2
+13	3	11	14	8	0	11
+7	12	9	7	12	10	0
+
+Vertex Weights:
+8	1	12	1	5	7	7
+Capacity: 17
+
+Profit: 41
+Path: [0, 3, 2, 5, 1, 3, 4, 6]
+Calculation Time: 4.952592134475708
+
+
+467:
+0	5	12	9	14	10	5
+5	0	7	2	12	5	5
+9	2	0	11	12	14	15
+3	6	14	0	9	4	2
+2	4	13	8	0	7	4
+3	14	9	4	4	0	6
+1	9	3	5	5	12	0
+
+Vertex Weights:
+11	7	3	1	1	8	15
+Capacity: 15
+
+Profit: 44
+Path: [0, 6, 2, 1, 5]
+Calculation Time: 4.500470399856567
+
+
+468:
+0	13	14	2	11	1	7
+7	0	8	8	9	5	2
+4	10	0	11	13	11	13
+7	9	12	0	3	5	14
+9	4	2	13	0	2	15
+2	15	13	10	11	0	4
+15	1	1	13	11	11	0
+
+Vertex Weights:
+2	6	1	8	10	8	4
+Capacity: 14
+
+Profit: 38
+Path: [0, 5, 0, 3, 4, 1, 6]
+Calculation Time: 5.391028165817261
+
+
+469:
+0	1	8	12	6	4	13
+4	0	13	6	12	5	14
+13	2	0	2	1	2	10
+6	5	12	0	2	13	11
+3	4	10	11	0	11	6
+4	11	8	3	3	0	1
+10	10	14	7	3	7	0
+
+Vertex Weights:
+4	2	15	12	1	10	5
+Capacity: 16
+
+Profit: 43
+Path: [0, 1, 5, 2, 3]
+Calculation Time: 5.3502044677734375
+
+
+470:
+0	11	13	5	1	1	8
+4	0	12	9	11	14	9
+3	10	0	11	5	5	5
+14	10	15	0	8	11	2
+15	10	14	13	0	11	11
+6	11	6	3	14	0	2
+6	12	2	1	6	14	0
+
+Vertex Weights:
+9	12	10	7	13	8	7
+Capacity: 17
+
+Profit: 54
+Path: [0, 5, 3, 6, 2, 0, 4]
+Calculation Time: 6.262409925460815
+
+
+471:
+0	1	13	4	2	14	13
+7	0	9	12	14	11	12
+10	5	0	3	14	7	15
+10	13	13	0	6	7	12
+14	6	13	7	0	12	7
+15	14	12	1	3	0	15
+7	10	14	3	8	13	0
+
+Vertex Weights:
+11	11	11	2	8	10	10
+Capacity: 25
+
+Profit: 53
+Path: [0, 1, 2, 3, 5, 4]
+Calculation Time: 8.045714855194092
+
+
+472:
+0	15	11	10	15	7	14
+13	0	13	7	2	14	7
+1	13	0	5	6	3	5
+2	4	2	0	15	10	5
+5	5	9	2	0	15	4
+13	1	15	15	13	0	2
+14	1	11	1	9	1	0
+
+Vertex Weights:
+1	15	13	2	14	1	12
+Capacity: 7
+
+Profit: 2
+Path: [0, 5]
+Calculation Time: 1.8098139762878418
+
+
+473:
+0	3	9	15	2	12	12
+15	0	7	11	1	8	7
+5	8	0	7	8	4	8
+14	8	11	0	15	1	2
+12	13	12	2	0	6	6
+7	4	5	15	1	0	11
+1	13	6	7	12	4	0
+
+Vertex Weights:
+13	10	6	4	11	8	6
+Capacity: 16
+
+Profit: 52
+Path: [0, 1, 4, 3, 5, 2]
+Calculation Time: 7.103599548339844
+
+
+474:
+0	7	4	12	7	2	10
+13	0	3	13	8	8	12
+3	9	0	7	5	7	5
+7	5	12	0	10	6	9
+2	5	8	7	0	5	1
+4	9	14	10	7	0	5
+15	2	10	15	2	6	0
+
+Vertex Weights:
+4	2	12	1	10	7	1
+Capacity: 17
+
+Profit: 36
+Path: [0, 5, 4, 6, 1, 2]
+Calculation Time: 5.38821268081665
+
+
+475:
+0	1	3	6	11	3	10
+11	0	8	7	12	9	11
+8	7	0	12	15	10	7
+13	14	13	0	10	1	6
+5	13	14	10	0	9	1
+12	5	8	9	6	0	6
+4	1	11	10	6	7	0
+
+Vertex Weights:
+5	14	14	2	11	1	2
+Capacity: 17
+
+Profit: 36
+Path: [0, 1, 3, 5, 2]
+Calculation Time: 5.432854652404785
+
+
+476:
+0	9	9	13	7	2	9
+3	0	8	12	11	5	15
+13	3	0	13	3	11	6
+13	6	2	0	1	15	15
+12	11	9	15	0	14	8
+4	4	5	5	13	0	6
+9	9	7	12	9	3	0
+
+Vertex Weights:
+14	11	4	14	8	8	11
+Capacity: 25
+
+Profit: 66
+Path: [0, 5, 3, 4, 6, 5, 1]
+Calculation Time: 9.970725774765015
+
+
+477:
+0	11	9	4	4	2	8
+10	0	12	4	2	3	15
+3	7	0	6	7	14	8
+13	7	12	0	6	12	5
+4	9	4	7	0	5	1
+5	10	14	12	12	0	2
+6	7	8	5	2	6	0
+
+Vertex Weights:
+11	2	15	12	7	1	2
+Capacity: 27
+
+Profit: 50
+Path: [0, 5, 6, 3, 4, 2, 1]
+Calculation Time: 5.051137208938599
+
+
+478:
+0	5	10	12	7	12	10
+5	0	2	10	3	11	6
+1	10	0	8	11	6	10
+12	12	9	0	3	11	14
+7	2	13	7	0	6	15
+11	9	4	5	6	0	11
+13	2	15	1	5	2	0
+
+Vertex Weights:
+7	10	5	15	4	12	13
+Capacity: 20
+
+Profit: 57
+Path: [0, 1, 6, 5, 3]
+Calculation Time: 6.356429576873779
+
+
+479:
+0	2	7	9	2	1	3
+6	0	9	9	3	3	9
+2	3	0	12	4	12	15
+10	12	8	0	10	11	5
+4	15	11	11	0	6	9
+10	8	1	8	4	0	12
+14	13	5	7	8	7	0
+
+Vertex Weights:
+15	2	1	8	13	8	3
+Capacity: 13
+
+Profit: 40
+Path: [0, 5, 2, 4, 0, 6]
+Calculation Time: 4.577037572860718
+
+
+480:
+0	12	14	6	12	10	11
+11	0	14	15	2	11	4
+4	6	0	2	9	8	3
+14	6	9	0	1	9	11
+7	2	4	3	0	13	4
+4	7	4	11	11	0	2
+7	14	9	2	6	14	0
+
+Vertex Weights:
+8	15	13	11	2	12	12
+Capacity: 20
+
+Profit: 61
+Path: [0, 3, 4, 1, 6, 3, 4, 2]
+Calculation Time: 6.370437145233154
+
+
+481:
+0	3	15	3	14	8	15
+11	0	1	15	8	8	7
+10	14	0	15	15	4	7
+4	2	15	0	4	15	10
+5	8	5	3	0	1	15
+10	8	5	2	9	0	2
+9	1	7	3	11	8	0
+
+Vertex Weights:
+2	2	4	14	11	1	3
+Capacity: 13
+
+Profit: 37
+Path: [0, 3, 4, 5, 6, 1, 2]
+Calculation Time: 4.951190710067749
+
+
+482:
+0	4	6	14	2	4	3
+15	0	4	2	12	13	5
+5	2	0	7	8	1	4
+1	6	9	0	9	9	1
+1	13	8	4	0	1	6
+10	3	5	10	15	0	11
+3	1	8	3	7	9	0
+
+Vertex Weights:
+14	12	12	5	2	10	4
+Capacity: 13
+
+Profit: 59
+Path: [0, 4, 3, 6, 1, 2, 5]
+Calculation Time: 4.964087963104248
+
+
+483:
+0	15	12	11	5	6	14
+2	0	8	11	14	9	2
+4	6	0	10	9	4	9
+2	7	4	0	11	8	2
+5	3	8	7	0	14	1
+13	5	4	15	14	0	2
+15	6	4	4	1	8	0
+
+Vertex Weights:
+2	1	3	11	5	12	4
+Capacity: 15
+
+Profit: 34
+Path: [0, 5, 6, 4, 6, 3]
+Calculation Time: 4.504796981811523
+
+
+484:
+0	12	2	11	5	3	14
+2	0	14	9	15	3	8
+11	13	0	4	8	4	4
+15	10	10	0	10	10	7
+7	5	3	1	0	4	2
+14	9	14	9	12	0	5
+7	1	7	15	11	8	0
+
+Vertex Weights:
+1	9	3	10	8	7	15
+Capacity: 14
+
+Profit: 43
+Path: [0, 4, 3, 6, 1]
+Calculation Time: 4.463005542755127
+
+
+485:
+0	10	11	3	8	10	3
+13	0	4	14	2	8	6
+5	2	0	10	7	13	12
+8	3	6	0	12	1	4
+13	9	7	4	0	12	7
+1	6	10	15	15	0	12
+15	11	15	10	7	9	0
+
+Vertex Weights:
+7	5	8	8	15	6	13
+Capacity: 16
+
+Profit: 49
+Path: [0, 3, 5, 0, 6, 4]
+Calculation Time: 4.534019470214844
+
+
+486:
+0	7	10	7	2	8	12
+7	0	5	12	9	5	9
+9	8	0	1	12	6	4
+10	3	12	0	6	4	15
+9	3	6	6	0	4	2
+12	11	11	1	5	0	1
+5	2	9	4	11	7	0
+
+Vertex Weights:
+3	9	7	7	9	6	3
+Capacity: 24
+
+Profit: 44
+Path: [0, 4, 6, 3, 5, 6, 1, 2]
+Calculation Time: 4.976619720458984
+
+
+487:
+0	2	5	9	7	8	6
+12	0	4	10	10	9	12
+3	4	0	4	13	12	3
+5	15	9	0	14	3	11
+11	3	13	2	0	6	4
+1	14	13	3	7	0	11
+9	3	6	10	10	7	0
+
+Vertex Weights:
+5	11	2	12	11	11	6
+Capacity: 24
+
+Profit: 58
+Path: [0, 1, 2, 6, 4, 3, 5]
+Calculation Time: 4.9773170948028564
+
+
+488:
+0	9	13	4	10	5	3
+15	0	6	3	8	5	2
+4	3	0	15	7	4	11
+6	15	9	0	7	15	13
+14	12	11	3	0	13	1
+9	7	13	1	8	0	11
+5	3	7	4	8	5	0
+
+Vertex Weights:
+6	13	9	9	12	1	6
+Capacity: 31
+
+Profit: 56
+Path: [0, 6, 2, 1, 3, 4, 6, 5]
+Calculation Time: 4.991123914718628
+
+
+489:
+0	8	8	5	4	5	10
+8	0	6	5	2	12	10
+12	8	0	6	5	5	2
+6	1	11	0	4	2	13
+10	12	15	6	0	2	11
+8	15	11	8	12	0	9
+4	2	3	9	13	12	0
+
+Vertex Weights:
+9	10	5	14	6	10	3
+Capacity: 14
+
+Profit: 49
+Path: [0, 3, 1, 4, 5]
+Calculation Time: 4.50202202796936
+
+
+490:
+0	11	8	5	7	11	2
+4	0	15	6	14	3	9
+11	12	0	12	12	15	6
+2	2	1	0	5	13	1
+14	2	10	14	0	6	13
+10	11	15	4	15	0	5
+9	5	13	13	7	4	0
+
+Vertex Weights:
+7	11	12	12	6	6	11
+Capacity: 13
+
+Profit: 48
+Path: [0, 6, 5, 3, 2]
+Calculation Time: 4.5700297355651855
+
+
+491:
+0	7	3	4	6	4	12
+3	0	12	12	3	14	4
+7	15	0	10	8	10	6
+3	14	3	0	1	11	1
+15	7	11	15	0	3	9
+8	13	11	11	5	0	1
+5	15	7	15	1	5	0
+
+Vertex Weights:
+15	3	1	13	14	13	11
+Capacity: 20
+
+Profit: 69
+Path: [0, 3, 6, 5, 6, 4, 1]
+Calculation Time: 9.988225221633911
+
+
+492:
+0	6	5	6	3	1	5
+1	0	3	9	11	13	8
+4	15	0	5	4	8	13
+7	6	1	0	7	9	12
+8	9	13	3	0	9	5
+2	14	9	7	5	0	13
+15	14	2	15	1	11	0
+
+Vertex Weights:
+11	2	11	11	9	3	12
+Capacity: 20
+
+Profit: 59
+Path: [0, 1, 0, 5, 0, 6, 4, 3, 2]
+Calculation Time: 7.765219449996948
+
+
+493:
+0	8	3	4	15	3	3
+11	0	5	9	15	10	11
+1	2	0	7	7	5	4
+7	1	3	0	5	5	15
+4	1	2	14	0	10	13
+10	3	8	12	13	0	15
+11	1	6	1	1	7	0
+
+Vertex Weights:
+2	3	5	6	10	13	15
+Capacity: 9
+
+Profit: 36
+Path: [0, 6, 3, 5]
+Calculation Time: 4.634606838226318
+
+
+494:
+0	14	5	3	4	4	7
+15	0	10	8	1	7	7
+7	13	0	7	1	7	9
+6	7	12	0	2	7	5
+14	11	3	11	0	7	7
+13	7	5	5	8	0	10
+13	5	10	9	12	14	0
+
+Vertex Weights:
+2	7	8	6	2	14	1
+Capacity: 28
+
+Profit: 40
+Path: [0, 5, 3, 1, 4, 2, 4, 6]
+Calculation Time: 5.0131285190582275
+
+
+495:
+0	6	14	7	6	1	1
+4	0	9	1	15	13	6
+9	2	0	3	14	14	13
+10	10	10	0	1	14	9
+8	11	14	5	0	15	9
+6	13	15	10	12	0	4
+4	4	13	8	15	7	0
+
+Vertex Weights:
+9	2	6	10	10	11	6
+Capacity: 20
+
+Profit: 48
+Path: [0, 5, 6, 1, 3, 4]
+Calculation Time: 7.2676355838775635
+
+
+496:
+0	4	2	7	8	3	15
+3	0	2	5	2	2	8
+8	12	0	13	15	4	9
+14	6	13	0	6	3	2
+2	3	2	12	0	5	11
+12	3	15	14	2	0	1
+3	13	8	8	10	10	0
+
+Vertex Weights:
+7	15	11	6	12	2	8
+Capacity: 20
+
+Profit: 61
+Path: [0, 2, 5, 4, 1, 3, 6]
+Calculation Time: 5.864320278167725
+
+
+497:
+0	7	8	12	15	12	10
+15	0	14	7	13	3	3
+6	8	0	13	12	5	7
+15	4	3	0	15	2	4
+5	10	1	5	0	10	13
+10	4	2	11	6	0	10
+9	6	15	9	9	13	0
+
+Vertex Weights:
+1	12	12	2	10	11	2
+Capacity: 31
+
+Profit: 50
+Path: [0, 1, 5, 4, 3, 2, 6]
+Calculation Time: 6.890532970428467
+
+
+498:
+0	13	1	13	9	2	7
+3	0	13	9	15	9	8
+6	6	0	5	12	8	6
+14	11	10	0	10	5	4
+14	2	7	15	0	4	7
+2	14	5	10	6	0	8
+9	4	14	4	12	10	0
+
+Vertex Weights:
+1	9	15	9	15	9	8
+Capacity: 17
+
+Profit: 49
+Path: [0, 5, 4, 1, 0, 2]
+Calculation Time: 5.400053262710571
+
+
+499:
+0	15	1	1	9	6	5
+12	0	14	7	7	8	9
+3	14	0	9	8	3	5
+6	10	12	0	2	5	15
+14	4	5	9	0	6	15
+15	14	6	5	10	0	6
+8	11	3	10	2	2	0
+
+Vertex Weights:
+5	12	6	8	6	9	10
+Capacity: 19
+
+Profit: 56
+Path: [0, 2, 6, 5, 3, 4, 1]
+Calculation Time: 4.944112539291382
+
+
+500:
+0	5	15	8	2	10	7
+8	0	5	5	7	7	1
+13	8	0	7	1	4	15
+1	9	7	0	2	6	13
+8	4	8	2	0	6	7
+1	6	7	9	10	0	7
+1	2	2	11	5	15	0
+
+Vertex Weights:
+14	1	5	14	3	10	7
+Capacity: 12
+
+Profit: 44
+Path: [0, 1, 6, 2, 4, 3]
+Calculation Time: 5.386212348937988
+
+
+501:
+0	15	6	1	14	4	12	13
+13	0	8	6	4	12	13	1
+10	4	0	2	4	6	8	5
+1	12	5	0	15	14	12	1
+2	7	10	14	0	9	14	8
+12	2	11	14	2	0	2	2
+14	15	13	8	14	12	0	3
+6	5	3	2	8	9	12	0
+
+Vertex Weights:
+15	5	7	13	12	5	9	6
+Capacity: 13
+
+Profit: 58
+Path: [0, 3, 7, 2, 1, 4]
+Calculation Time: 6.242405414581299
+
+
+502:
+0	1	6	4	4	2	14	11
+1	0	10	3	15	10	12	7
+1	10	0	8	12	1	15	7
+10	14	15	0	12	13	5	14
+6	10	9	15	0	6	14	8
+12	6	4	10	7	0	9	10
+12	5	1	9	13	12	0	13
+15	3	4	3	9	3	4	0
+
+Vertex Weights:
+4	11	14	1	4	8	8	15
+Capacity: 26
+
+Profit: 65
+Path: [0, 1, 0, 4, 7, 3, 6, 2, 5]
+Calculation Time: 13.058038234710693
+
+
+503:
+0	11	14	5	14	7	4	8
+8	0	6	2	9	10	10	5
+6	8	0	3	1	7	4	7
+9	10	8	0	6	10	1	3
+13	5	7	15	0	6	1	5
+11	5	14	8	9	0	6	1
+13	6	10	11	4	3	0	6
+11	15	6	12	13	10	6	0
+
+Vertex Weights:
+7	2	10	11	1	9	11	5
+Capacity: 26
+
+Profit: 56
+Path: [0, 1, 3, 6, 5, 7, 2, 4]
+Calculation Time: 6.748007297515869
+
+
+504:
+0	12	13	7	13	6	15	12
+13	0	2	11	11	9	2	1
+13	8	0	9	9	4	11	2
+5	6	7	0	12	7	8	3
+15	13	2	2	0	14	14	10
+8	9	9	5	8	0	14	11
+10	15	10	3	1	2	0	6
+12	4	8	4	2	9	3	0
+
+Vertex Weights:
+3	11	3	1	9	1	8	14
+Capacity: 22
+
+Profit: 49
+Path: [0, 3, 7, 1, 6, 4, 2]
+Calculation Time: 11.736642122268677
+
+
+505:
+0	5	14	7	13	14	11	15
+13	0	7	12	2	15	11	9
+8	2	0	9	9	10	5	4
+5	4	12	0	5	5	11	14
+6	13	10	15	0	4	6	7
+15	8	13	4	2	0	4	14
+11	9	7	12	4	10	0	12
+9	6	1	5	9	13	15	0
+
+Vertex Weights:
+13	6	13	15	3	2	15	10
+Capacity: 19
+
+Profit: 52
+Path: [0, 3, 1, 4, 6]
+Calculation Time: 4.575031280517578
+
+
+506:
+0	3	12	3	4	13	11	9
+5	0	1	12	3	14	4	6
+3	5	0	5	4	3	6	3
+12	12	12	0	6	7	6	2
+12	15	1	3	0	10	3	11
+7	11	11	5	5	0	12	1
+5	3	12	9	12	13	0	14
+6	12	13	4	8	5	6	0
+
+Vertex Weights:
+9	15	10	7	8	13	3	14
+Capacity: 18
+
+Profit: 76
+Path: [0, 1, 4, 2, 5, 7, 3]
+Calculation Time: 12.573338985443115
+
+
+507:
+0	5	13	1	15	11	2	11
+7	0	10	2	9	8	2	15
+10	7	0	1	13	6	14	12
+3	9	3	0	14	5	1	4
+6	4	10	6	0	10	8	6
+14	12	14	8	13	0	8	9
+7	6	13	4	2	1	0	9
+15	7	7	15	2	12	11	0
+
+Vertex Weights:
+5	2	14	6	11	10	9	14
+Capacity: 15
+
+Profit: 59
+Path: [0, 3, 2, 3, 6, 4, 7]
+Calculation Time: 8.019439220428467
+
+
+508:
+0	11	5	1	12	14	1	1
+13	0	7	5	7	6	9	13
+15	10	0	1	10	14	2	6
+11	15	12	0	15	15	9	2
+5	1	13	3	0	1	3	2
+12	11	7	1	11	0	15	4
+14	7	8	14	8	13	0	8
+5	4	12	7	5	15	5	0
+
+Vertex Weights:
+2	5	1	13	15	1	5	3
+Capacity: 19
+
+Profit: 44
+Path: [0, 6, 2, 3, 7, 4, 1]
+Calculation Time: 12.586834907531738
+
+
+509:
+0	4	7	2	8	11	11	14
+7	0	8	7	12	7	6	6
+11	3	0	11	5	4	6	11
+10	1	4	0	10	5	13	1
+9	9	15	15	0	6	11	11
+9	15	11	1	1	0	9	12
+7	7	15	3	15	13	0	3
+15	1	7	3	4	2	4	0
+
+Vertex Weights:
+10	6	2	13	8	4	13	13
+Capacity: 21
+
+Profit: 69
+Path: [0, 3, 2, 1, 6, 7, 5, 4]
+Calculation Time: 9.410117149353027
+
+
+510:
+0	11	4	1	1	11	9	7
+1	0	13	10	5	9	2	6
+11	8	0	3	9	5	9	4
+3	7	4	0	3	3	1	7
+1	4	12	2	0	1	9	14
+8	13	2	2	12	0	10	15
+9	3	5	1	7	12	0	8
+10	6	15	2	5	5	13	0
+
+Vertex Weights:
+3	12	6	5	10	10	5	13
+Capacity: 10
+
+Profit: 51
+Path: [0, 3, 6, 1, 0, 4, 5, 2]
+Calculation Time: 6.2814741134643555
+
+
+511:
+0	13	15	12	9	3	10	6
+13	0	13	10	14	13	1	12
+13	6	0	6	2	10	10	1
+15	8	4	0	11	1	11	9
+6	6	14	9	0	2	11	12
+4	15	13	9	1	0	1	8
+9	3	6	9	6	10	0	4
+2	10	15	2	9	7	3	0
+
+Vertex Weights:
+9	2	5	1	11	12	5	1
+Capacity: 12
+
+Profit: 42
+Path: [0, 5, 6, 2, 4]
+Calculation Time: 4.4767985343933105
+
+
+512:
+0	3	6	7	12	1	2	2
+12	0	1	5	4	5	6	3
+9	7	0	10	9	12	11	14
+13	3	6	0	14	6	7	8
+2	14	9	3	0	12	10	8
+1	9	12	6	10	0	9	3
+14	13	9	11	11	9	0	15
+12	8	4	11	2	3	2	0
+
+Vertex Weights:
+7	12	2	4	6	8	5	12
+Capacity: 11
+
+Profit: 45
+Path: [0, 5, 7, 4, 0, 1]
+Calculation Time: 5.348204612731934
+
+
+513:
+0	5	12	12	7	2	8	15
+1	0	11	1	7	12	12	3
+14	11	0	2	8	12	2	2
+14	11	3	0	14	7	2	5
+10	4	1	4	0	1	10	5
+13	4	1	9	8	0	8	6
+11	9	14	7	12	15	0	3
+5	14	11	8	13	5	10	0
+
+Vertex Weights:
+2	13	6	4	9	13	5	7
+Capacity: 21
+
+Profit: 59
+Path: [0, 4, 5, 1, 3, 2, 6, 7]
+Calculation Time: 5.917332649230957
+
+
+514:
+0	6	8	13	5	10	14	6
+12	0	7	9	11	4	6	5
+15	12	0	4	2	4	3	10
+6	9	13	0	2	5	15	6
+11	3	12	10	0	8	10	11
+3	5	8	3	10	0	4	9
+5	14	3	8	6	5	0	7
+7	8	9	2	13	7	11	0
+
+Vertex Weights:
+10	15	2	6	3	6	4	7
+Capacity: 18
+
+Profit: 47
+Path: [0, 7, 3, 4, 1, 5]
+Calculation Time: 6.363839864730835
+
+
+515:
+0	2	3	5	2	15	10	6
+9	0	12	12	11	2	7	2
+15	3	0	1	1	8	9	7
+7	9	9	0	10	8	1	14
+14	7	11	7	0	2	2	4
+11	13	13	12	7	0	8	11
+13	11	3	2	14	3	0	12
+4	13	12	8	6	3	14	0
+
+Vertex Weights:
+14	3	1	10	11	13	3	13
+Capacity: 14
+
+Profit: 55
+Path: [0, 1, 7, 0, 2, 4, 5]
+Calculation Time: 7.204530477523804
+
+
+516:
+0	3	8	6	10	12	11	14
+15	0	13	4	7	15	2	8
+3	12	0	4	6	9	3	5
+12	7	14	0	15	2	14	3
+11	3	4	1	0	4	4	13
+12	15	4	3	5	0	1	13
+10	4	9	3	14	9	0	5
+12	11	12	6	15	3	10	0
+
+Vertex Weights:
+9	8	12	7	4	12	12	12
+Capacity: 16
+
+Profit: 60
+Path: [0, 1, 6, 7, 5, 3]
+Calculation Time: 7.129253625869751
+
+
+517:
+0	9	12	10	9	10	2	4
+9	0	9	10	5	4	12	3
+14	12	0	3	3	14	15	8
+6	3	9	0	13	10	4	6
+3	5	12	3	0	9	3	15
+3	9	10	12	8	0	11	9
+11	4	1	5	11	15	0	7
+2	4	2	8	15	12	7	0
+
+Vertex Weights:
+8	6	4	13	13	3	11	15
+Capacity: 23
+
+Profit: 73
+Path: [0, 6, 2, 4, 3, 1, 7, 1, 5]
+Calculation Time: 5.853317499160767
+
+
+518:
+0	3	7	7	4	15	13	4
+9	0	4	12	15	3	9	6
+15	8	0	15	15	6	10	12
+6	4	2	0	5	15	15	11
+12	10	11	13	0	9	4	12
+15	3	15	8	15	0	5	11
+9	8	10	11	13	10	0	5
+5	10	11	2	13	5	10	0
+
+Vertex Weights:
+4	4	8	10	5	7	13	12
+Capacity: 27
+
+Profit: 63
+Path: [0, 4, 6, 7, 3, 2, 5, 1]
+Calculation Time: 5.873328447341919
+
+
+519:
+0	8	3	2	9	13	6	8
+15	0	14	2	11	11	14	3
+7	15	0	1	15	1	3	3
+11	4	1	0	9	3	10	1
+6	8	3	6	0	3	8	1
+5	11	8	10	2	0	2	5
+1	8	9	1	14	5	0	5
+11	13	12	2	10	5	10	0
+
+Vertex Weights:
+7	1	1	13	12	9	10	8
+Capacity: 9
+
+Profit: 50
+Path: [0, 2, 5, 4, 7, 3]
+Calculation Time: 5.352205038070679
+
+
+520:
+0	13	7	2	5	6	6	4
+3	0	10	15	12	9	10	5
+2	9	0	13	5	4	4	11
+5	7	4	0	10	9	15	8
+12	6	3	2	0	2	1	11
+10	14	2	1	12	0	2	14
+15	10	10	1	10	1	0	4
+2	15	10	3	12	11	9	0
+
+Vertex Weights:
+7	4	14	15	4	1	10	12
+Capacity: 25
+
+Profit: 67
+Path: [0, 4, 6, 5, 2, 0, 7, 3, 1]
+Calculation Time: 13.190243482589722
+
+
+521:
+0	12	8	3	15	7	15	2
+13	0	3	8	15	7	4	5
+2	15	0	1	8	15	11	3
+4	9	1	0	14	8	13	15
+10	1	2	6	0	8	9	3
+7	14	15	9	1	0	13	8
+5	14	6	1	13	1	0	4
+13	1	3	10	3	5	14	0
+
+Vertex Weights:
+9	13	15	2	11	3	4	9
+Capacity: 9
+
+Profit: 57
+Path: [0, 7, 4, 1, 2]
+Calculation Time: 4.51201605796814
+
+
+522:
+0	4	2	3	4	4	3	8
+10	0	11	15	4	2	15	15
+1	14	0	8	6	5	7	9
+5	7	2	0	9	11	11	10
+8	12	1	12	0	11	15	2
+15	5	14	5	6	0	8	12
+15	10	10	1	5	14	0	14
+3	9	14	2	2	1	11	0
+
+Vertex Weights:
+2	10	15	14	13	6	9	12
+Capacity: 15
+
+Profit: 71
+Path: [0, 6, 3, 2, 0, 4, 7, 5]
+Calculation Time: 9.926239728927612
+
+
+523:
+0	14	12	2	7	15	11	9
+11	0	7	14	1	1	2	6
+8	5	0	15	10	6	1	4
+4	1	3	0	3	3	13	14
+8	7	2	5	0	1	13	14
+10	4	15	12	4	0	1	9
+13	11	10	14	9	14	0	7
+10	11	3	5	1	2	14	0
+
+Vertex Weights:
+4	12	3	13	9	8	1	15
+Capacity: 13
+
+Profit: 65
+Path: [0, 3, 1, 4, 2, 7, 5, 6]
+Calculation Time: 5.85332727432251
+
+
+524:
+0	15	6	11	10	14	9	10
+11	0	14	7	13	8	8	1
+6	12	0	3	6	3	7	12
+15	1	8	0	12	14	10	5
+8	4	15	9	0	11	15	8
+6	5	3	7	5	0	13	5
+6	14	15	14	8	8	0	12
+2	4	13	11	14	9	3	0
+
+Vertex Weights:
+8	10	15	14	11	15	6	4
+Capacity: 18
+
+Profit: 66
+Path: [0, 2, 5, 2, 3, 1, 7]
+Calculation Time: 5.418201923370361
+
+
+525:
+0	15	2	12	1	5	4	5
+2	0	11	10	1	5	2	1
+15	14	0	10	1	11	10	9
+11	1	6	0	4	11	8	1
+11	5	7	11	0	8	14	8
+11	12	1	6	9	0	14	5
+7	7	11	15	7	12	0	9
+8	5	15	4	14	2	2	0
+
+Vertex Weights:
+1	14	13	5	2	9	10	5
+Capacity: 13
+
+Profit: 45
+Path: [0, 2, 4, 1, 7, 6]
+Calculation Time: 6.301867246627808
+
+
+526:
+0	4	10	15	8	12	1	13
+3	0	2	2	8	2	10	5
+5	2	0	6	6	10	10	2
+12	13	14	0	14	2	12	8
+11	6	7	1	0	6	13	14
+9	1	8	4	11	0	6	6
+9	11	9	3	11	12	0	6
+8	6	14	6	12	14	15	0
+
+Vertex Weights:
+15	11	11	1	3	9	13	3
+Capacity: 16
+
+Profit: 63
+Path: [0, 6, 3, 5, 1, 2, 4]
+Calculation Time: 7.270637273788452
+
+
+527:
+0	8	8	12	5	10	1	10
+12	0	2	1	5	6	1	14
+10	6	0	10	3	4	6	8
+15	4	3	0	4	5	4	6
+15	15	6	9	0	5	4	14
+3	14	11	11	15	0	8	4
+6	6	13	8	13	3	0	6
+15	14	2	4	6	7	2	0
+
+Vertex Weights:
+10	2	8	5	4	11	3	11
+Capacity: 19
+
+Profit: 52
+Path: [0, 6, 5, 7, 3, 2, 4]
+Calculation Time: 10.023362874984741
+
+
+528:
+0	13	13	11	6	14	1	6
+11	0	10	9	10	13	13	4
+9	3	0	5	7	4	1	14
+7	6	9	0	5	11	15	7
+10	1	14	4	0	11	7	14
+11	4	4	14	8	0	1	11
+9	13	14	7	8	11	0	8
+7	11	10	7	1	9	4	0
+
+Vertex Weights:
+3	14	7	10	13	6	2	9
+Capacity: 30
+
+Profit: 64
+Path: [0, 6, 5, 2, 1, 7, 4, 3]
+Calculation Time: 7.688129901885986
+
+
+529:
+0	1	6	11	7	12	9	5
+11	0	13	14	5	7	3	7
+14	7	0	11	13	8	3	5
+3	4	5	0	8	6	11	15
+6	8	4	8	0	10	10	10
+1	9	12	1	6	0	2	8
+9	8	2	1	2	8	0	6
+15	9	14	11	1	15	11	0
+
+Vertex Weights:
+6	5	15	15	8	12	15	12
+Capacity: 14
+
+Profit: 71
+Path: [0, 7, 4, 2, 6, 3]
+Calculation Time: 5.4732325077056885
+
+
+530:
+0	14	8	2	4	4	12	4
+1	0	5	9	6	10	11	6
+7	15	0	2	10	15	1	1
+5	5	7	0	2	5	15	6
+8	9	7	8	0	5	4	9
+15	9	9	5	8	0	1	4
+11	13	8	13	3	5	0	15
+2	10	11	10	4	3	14	0
+
+Vertex Weights:
+14	2	3	7	4	6	1	11
+Capacity: 16
+
+Profit: 46
+Path: [0, 3, 4, 2, 7, 5, 6]
+Calculation Time: 8.168764352798462
+
+
+531:
+0	3	10	5	1	13	9	6
+3	0	7	15	10	12	9	15
+8	11	0	6	5	15	1	14
+13	5	6	0	4	4	8	4
+13	11	8	2	0	13	11	8
+2	12	1	1	5	0	6	10
+3	6	5	15	15	4	0	5
+14	10	8	14	6	11	13	0
+
+Vertex Weights:
+10	2	10	11	2	9	5	3
+Capacity: 15
+
+Profit: 50
+Path: [0, 4, 3, 5, 2, 6, 7]
+Calculation Time: 6.3124213218688965
+
+
+532:
+0	2	13	7	9	13	9	12
+14	0	15	14	2	12	14	15
+10	13	0	8	4	8	6	9
+2	6	8	0	15	10	2	12
+2	13	3	15	0	11	14	5
+8	15	10	5	8	0	5	3
+6	8	9	2	12	1	0	4
+13	15	14	8	1	8	15	0
+
+Vertex Weights:
+5	11	12	15	5	1	5	1
+Capacity: 18
+
+Profit: 54
+Path: [0, 1, 4, 2, 6, 3, 6, 5]
+Calculation Time: 6.323729038238525
+
+
+533:
+0	10	9	15	9	8	10	12
+12	0	12	15	13	14	13	5
+15	12	0	1	6	13	2	5
+15	12	2	0	5	1	12	11
+4	14	9	6	0	4	5	5
+15	12	15	9	5	0	4	3
+9	5	5	7	14	13	0	6
+10	3	14	9	8	11	2	0
+
+Vertex Weights:
+7	10	13	14	8	6	15	12
+Capacity: 24
+
+Profit: 77
+Path: [0, 2, 3, 5, 7, 6, 1]
+Calculation Time: 10.884901285171509
+
+
+534:
+0	4	5	3	3	14	3	5
+15	0	3	5	6	6	7	2
+8	8	0	14	11	7	13	1
+4	2	12	0	2	11	5	6
+10	13	5	10	0	15	3	5
+3	11	6	12	8	0	8	6
+6	7	15	1	12	13	0	12
+13	14	9	7	6	11	12	0
+
+Vertex Weights:
+2	7	2	8	15	2	8	12
+Capacity: 23
+
+Profit: 56
+Path: [0, 4, 6, 3, 1, 5, 2, 7]
+Calculation Time: 10.55237889289856
+
+
+535:
+0	2	10	5	14	2	15	7
+10	0	12	8	6	1	11	9
+12	4	0	15	4	14	8	14
+6	7	12	0	10	3	11	9
+10	5	15	5	0	3	8	13
+10	8	6	6	9	0	13	9
+15	6	7	8	3	4	0	12
+2	8	7	12	4	10	15	0
+
+Vertex Weights:
+12	12	4	12	12	14	3	1
+Capacity: 35
+
+Profit: 70
+Path: [0, 1, 5, 2, 6, 4, 3, 7]
+Calculation Time: 13.109981298446655
+
+
+536:
+0	15	14	10	9	15	15	6
+12	0	15	14	4	2	2	10
+9	8	0	7	7	15	10	7
+13	7	1	0	12	9	15	15
+5	7	3	3	0	5	13	3
+4	12	6	3	1	0	12	7
+3	8	8	11	15	13	0	3
+9	9	12	8	1	13	4	0
+
+Vertex Weights:
+8	6	8	14	6	5	14	5
+Capacity: 19
+
+Profit: 55
+Path: [0, 7, 6, 7, 4, 3, 2]
+Calculation Time: 5.465789318084717
+
+
+537:
+0	10	6	5	2	12	13	6
+10	0	3	2	6	12	12	2
+1	8	0	11	11	10	6	3
+5	7	5	0	12	2	5	7
+4	5	2	4	0	15	11	11
+2	3	10	9	14	0	1	13
+9	13	10	3	11	5	0	14
+3	13	7	15	3	5	7	0
+
+Vertex Weights:
+12	3	10	12	5	4	2	4
+Capacity: 17
+
+Profit: 50
+Path: [0, 4, 3, 5, 1, 2, 7]
+Calculation Time: 10.014345407485962
+
+
+538:
+0	7	7	14	15	13	9	4
+7	0	15	7	14	3	1	11
+11	14	0	7	5	10	12	1
+15	3	4	0	14	11	2	14
+5	2	5	1	0	9	2	9
+1	14	14	11	6	0	13	3
+6	14	4	6	7	11	0	12
+11	4	2	15	12	14	8	0
+
+Vertex Weights:
+1	7	13	9	9	7	15	6
+Capacity: 16
+
+Profit: 60
+Path: [0, 7, 2, 4, 3, 1, 6]
+Calculation Time: 6.286985874176025
+
+
+539:
+0	13	9	14	10	5	6	8
+9	0	6	2	8	5	14	7
+4	10	0	1	9	10	8	10
+7	13	10	0	12	3	7	9
+14	8	2	14	0	6	6	13
+8	3	12	13	11	0	6	3
+14	3	9	4	1	2	0	11
+9	6	14	1	1	3	5	0
+
+Vertex Weights:
+7	3	11	1	8	12	11	9
+Capacity: 25
+
+Profit: 62
+Path: [0, 6, 1, 5, 7, 4, 2, 3]
+Calculation Time: 5.915708780288696
+
+
+540:
+0	7	6	13	11	6	5	14
+1	0	13	8	13	7	6	1
+10	6	0	1	10	8	4	10
+13	2	7	0	3	3	8	7
+13	5	10	4	0	11	13	13
+5	5	6	3	12	0	5	5
+10	6	7	12	8	14	0	13
+15	5	11	14	10	15	11	0
+
+Vertex Weights:
+13	2	3	1	8	1	12	8
+Capacity: 20
+
+Profit: 44
+Path: [0, 6, 4, 3, 1, 7]
+Calculation Time: 7.288865566253662
+
+
+541:
+0	12	11	13	2	4	2	12
+4	0	4	6	10	5	3	9
+6	5	0	14	3	14	6	2
+13	7	12	0	10	9	11	7
+11	12	9	15	0	12	9	13
+14	13	9	15	6	0	5	12
+6	15	10	1	12	7	0	11
+9	13	12	1	7	2	3	0
+
+Vertex Weights:
+5	7	12	12	14	2	9	10
+Capacity: 22
+
+Profit: 64
+Path: [0, 4, 2, 7, 5, 6, 3]
+Calculation Time: 9.996130228042603
+
+
+542:
+0	9	3	15	10	15	15	5
+13	0	15	7	7	9	15	7
+14	12	0	6	6	9	11	7
+5	13	4	0	4	15	7	14
+7	3	2	12	0	12	8	15
+7	4	13	7	2	0	9	10
+2	10	11	9	7	12	0	3
+6	6	15	9	9	15	3	0
+
+Vertex Weights:
+8	11	13	4	6	1	15	8
+Capacity: 31
+
+Profit: 65
+Path: [0, 2, 4, 1, 7, 6, 3]
+Calculation Time: 18.978309631347656
+
+
+543:
+0	6	8	3	12	15	12	6
+12	0	2	7	8	10	6	1
+13	3	0	8	5	5	13	1
+5	12	5	0	5	14	1	7
+8	8	14	14	0	1	11	1
+10	9	12	4	10	0	9	14
+2	15	7	4	7	3	0	5
+1	2	6	11	10	5	4	0
+
+Vertex Weights:
+4	7	5	14	5	2	13	8
+Capacity: 13
+
+Profit: 51
+Path: [0, 3, 6, 7, 1, 2]
+Calculation Time: 5.474243879318237
+
+
+544:
+0	2	5	4	12	14	8	10
+6	0	15	6	9	11	4	10
+10	14	0	7	10	10	12	11
+2	10	10	0	15	15	5	8
+11	6	9	5	0	12	7	15
+15	14	7	8	11	0	10	3
+11	3	7	7	15	7	0	1
+15	1	4	4	4	1	2	0
+
+Vertex Weights:
+14	14	10	13	6	8	5	8
+Capacity: 18
+
+Profit: 64
+Path: [0, 3, 0, 1, 6, 7, 2]
+Calculation Time: 8.053393840789795
+
+
+545:
+0	7	2	9	10	11	15	9
+3	0	15	10	1	6	12	6
+13	11	0	14	13	1	14	2
+1	14	2	0	3	2	7	14
+6	13	6	15	0	13	3	6
+5	1	8	8	12	0	5	9
+15	13	5	13	1	12	0	10
+4	6	8	15	12	10	15	0
+
+Vertex Weights:
+2	11	3	12	7	5	1	3
+Capacity: 18
+
+Profit: 41
+Path: [0, 3, 2, 5, 1, 4, 6]
+Calculation Time: 6.3482985496521
+
+
+546:
+0	3	15	4	7	12	12	11
+5	0	8	12	3	15	5	11
+8	2	0	15	15	11	4	1
+10	3	8	0	4	4	6	7
+13	2	5	6	0	8	12	11
+4	6	9	6	12	0	11	6
+6	3	11	14	11	12	0	11
+11	15	1	9	10	2	4	0
+
+Vertex Weights:
+12	4	4	9	10	15	9	1
+Capacity: 25
+
+Profit: 64
+Path: [0, 3, 6, 1, 4, 2, 7, 5]
+Calculation Time: 5.949340343475342
+
+
+547:
+0	15	9	1	6	10	2	8
+8	0	14	6	10	8	4	15
+1	2	0	8	13	12	7	12
+10	3	3	0	4	11	2	15
+1	14	8	3	0	7	3	12
+4	8	8	9	4	0	4	11
+2	12	14	1	1	5	0	14
+4	9	13	14	5	5	14	0
+
+Vertex Weights:
+6	11	13	2	4	11	13	13
+Capacity: 17
+
+Profit: 56
+Path: [0, 3, 2, 1, 6, 5]
+Calculation Time: 10.875155210494995
+
+
+548:
+0	14	11	7	3	12	1	13
+14	0	15	6	5	3	4	3
+8	14	0	9	2	4	11	9
+14	9	15	0	2	14	2	2
+7	8	14	3	0	4	15	8
+14	6	5	10	7	0	14	3
+10	10	13	3	13	13	0	4
+1	6	13	13	11	4	15	0
+
+Vertex Weights:
+6	1	9	4	8	2	2	11
+Capacity: 18
+
+Profit: 42
+Path: [0, 6, 3, 7, 5, 2, 4]
+Calculation Time: 9.052981853485107
+
+
+549:
+0	9	2	7	7	12	2	9
+15	0	15	11	14	11	4	13
+15	8	0	2	10	7	8	12
+15	1	5	0	14	11	1	9
+3	1	8	15	0	10	7	1
+9	5	1	10	3	0	15	11
+10	2	13	4	10	2	0	14
+13	11	5	6	5	1	9	0
+
+Vertex Weights:
+8	11	10	12	14	9	4	9
+Capacity: 10
+
+Profit: 57
+Path: [0, 2, 3, 6, 5, 4]
+Calculation Time: 5.372342348098755
+
+
+550:
+0	10	2	1	7	13	7	11
+1	0	13	9	5	8	10	10
+9	6	0	9	14	6	10	9
+2	9	9	0	10	12	10	13
+11	14	1	13	0	12	3	3
+14	14	5	10	12	0	3	10
+3	2	15	1	6	2	0	1
+11	12	12	9	14	8	8	0
+
+Vertex Weights:
+15	1	12	15	14	9	6	3
+Capacity: 18
+
+Profit: 71
+Path: [0, 4, 2, 5, 6, 3]
+Calculation Time: 7.213623523712158
+
+
+551:
+0	4	7	14	9	14	15	10
+3	0	11	14	6	14	8	1
+15	11	0	11	6	5	9	9
+8	15	5	0	4	7	5	9
+2	7	14	3	0	7	4	2
+5	8	7	14	11	0	14	10
+9	13	10	3	6	2	0	11
+7	10	3	15	2	14	6	0
+
+Vertex Weights:
+13	7	15	9	7	11	1	10
+Capacity: 15
+
+Profit: 61
+Path: [0, 1, 7, 4, 3, 2]
+Calculation Time: 5.410218954086304
+
+
+552:
+0	8	10	15	1	8	1	7
+11	0	10	12	12	9	1	5
+8	15	0	2	7	8	3	6
+1	10	14	0	12	9	3	4
+2	14	10	10	0	10	11	14
+3	11	13	9	15	0	12	5
+10	2	14	1	6	2	0	9
+14	5	3	7	11	12	6	0
+
+Vertex Weights:
+10	4	4	4	12	15	6	12
+Capacity: 13
+
+Profit: 55
+Path: [0, 4, 0, 6, 5, 7]
+Calculation Time: 6.333522319793701
+
+
+553:
+0	14	1	1	15	1	4	4
+3	0	12	9	8	1	5	9
+10	7	0	2	9	4	14	15
+7	12	12	0	11	11	11	7
+2	1	4	2	0	8	9	6
+5	1	1	4	15	0	8	11
+11	6	15	11	11	12	0	2
+4	12	2	10	1	3	4	0
+
+Vertex Weights:
+10	2	7	8	4	12	4	5
+Capacity: 9
+
+Profit: 40
+Path: [0, 7, 4, 1, 5, 2]
+Calculation Time: 5.356846332550049
+
+
+554:
+0	1	10	14	4	11	10	9
+7	0	11	10	15	12	14	3
+14	8	0	6	5	5	1	11
+7	13	14	0	14	8	10	2
+3	13	10	15	0	7	9	7
+10	6	3	4	11	0	8	13
+7	12	6	6	6	6	0	9
+6	6	2	13	7	11	7	0
+
+Vertex Weights:
+10	6	4	1	1	1	1	5
+Capacity: 25
+
+Profit: 29
+Path: [0, 4, 0, 1, 7, 2, 6, 5, 3]
+Calculation Time: 5.841834545135498
+
+
+555:
+0	4	14	12	7	13	9	2
+7	0	9	8	10	5	9	1
+1	9	0	2	15	12	4	7
+12	9	12	0	13	9	5	4
+9	5	1	3	0	3	13	15
+11	8	11	15	7	0	8	9
+14	3	5	8	1	7	0	13
+12	8	7	12	6	12	13	0
+
+Vertex Weights:
+1	9	1	3	8	11	13	5
+Capacity: 15
+
+Profit: 34
+Path: [0, 1, 7, 4, 5]
+Calculation Time: 4.4886956214904785
+
+
+556:
+0	8	6	3	6	1	2	7
+3	0	8	8	4	10	13	10
+1	11	0	3	12	5	3	4
+6	6	12	0	12	10	13	7
+7	2	11	15	0	10	9	10
+6	6	15	5	9	0	5	12
+5	13	7	2	15	2	0	6
+2	10	13	14	9	13	2	0
+
+Vertex Weights:
+7	5	5	11	8	4	15	14
+Capacity: 22
+
+Profit: 60
+Path: [0, 4, 1, 0, 6, 3, 7]
+Calculation Time: 15.332732915878296
+
+
+557:
+0	12	4	3	7	12	10	6
+3	0	5	4	11	13	9	12
+7	1	0	3	14	7	8	8
+7	2	10	0	5	11	8	7
+13	5	8	8	0	6	15	5
+12	10	1	6	5	0	4	8
+6	7	8	6	15	4	0	10
+3	7	11	15	4	6	15	0
+
+Vertex Weights:
+3	4	5	3	14	2	11	7
+Capacity: 25
+
+Profit: 42
+Path: [0, 7, 4, 5, 6, 5, 2]
+Calculation Time: 15.437196254730225
+
+
+558:
+0	15	14	5	3	14	15	15
+4	0	10	1	2	3	10	12
+1	14	0	12	14	3	11	8
+3	6	13	0	7	15	15	4
+11	14	4	13	0	1	8	5
+13	9	4	4	13	0	3	4
+15	4	11	14	10	6	0	14
+9	8	7	3	15	7	6	0
+
+Vertex Weights:
+11	6	14	1	7	1	8	4
+Capacity: 16
+
+Profit: 41
+Path: [0, 4, 5, 2, 5, 6]
+Calculation Time: 5.489916563034058
+
+
+559:
+0	5	15	7	14	8	8	6
+12	0	9	10	9	7	6	3
+13	11	0	12	13	5	10	6
+2	12	9	0	14	6	6	2
+7	1	6	1	0	8	15	15
+14	15	4	6	5	0	4	11
+10	1	2	6	13	13	0	6
+11	12	5	5	9	12	3	0
+
+Vertex Weights:
+9	15	13	9	5	15	15	3
+Capacity: 20
+
+Profit: 71
+Path: [0, 5, 4, 3, 7, 6, 1]
+Calculation Time: 8.13977313041687
+
+
+560:
+0	12	2	5	6	14	11	5
+5	0	10	15	7	9	13	11
+3	10	0	5	4	7	15	7
+12	13	4	0	7	4	6	4
+10	6	8	15	0	6	5	1
+12	1	3	11	12	0	15	2
+14	6	10	12	8	6	0	6
+11	11	15	11	5	2	2	0
+
+Vertex Weights:
+12	8	11	11	1	8	8	7
+Capacity: 18
+
+Profit: 58
+Path: [0, 3, 2, 4, 7, 5, 1]
+Calculation Time: 9.85421872138977
+
+
+561:
+0	9	11	14	7	3	14	3
+4	0	8	11	2	12	10	10
+15	2	0	2	9	2	9	10
+7	3	1	0	11	10	5	15
+8	14	10	9	0	14	5	8
+14	14	5	13	7	0	12	5
+8	13	7	1	8	1	0	8
+8	15	1	15	8	9	7	0
+
+Vertex Weights:
+14	3	2	11	4	1	8	11
+Capacity: 19
+
+Profit: 54
+Path: [0, 7, 2, 1, 4, 6, 3, 2, 5]
+Calculation Time: 5.921342611312866
+
+
+562:
+0	12	5	14	3	13	8	9
+2	0	11	7	8	14	6	1
+8	3	0	15	8	10	12	12
+7	14	7	0	3	4	9	14
+10	3	5	8	0	5	2	8
+5	11	12	3	5	0	8	3
+4	3	11	4	4	14	0	7
+9	4	2	7	15	5	2	0
+
+Vertex Weights:
+4	5	15	15	6	9	1	2
+Capacity: 19
+
+Profit: 52
+Path: [0, 4, 6, 3, 5, 7, 2]
+Calculation Time: 10.04689335823059
+
+
+563:
+0	13	4	9	8	5	8	11
+5	0	7	14	8	4	10	5
+10	7	0	1	4	6	3	6
+12	10	15	0	1	2	10	7
+13	13	9	13	0	9	2	6
+13	3	12	3	2	0	15	7
+11	10	8	8	15	1	0	15
+6	4	10	9	1	11	5	0
+
+Vertex Weights:
+8	3	7	12	9	6	8	9
+Capacity: 23
+
+Profit: 62
+Path: [0, 2, 3, 5, 1, 7, 4, 6]
+Calculation Time: 5.886784791946411
+
+
+564:
+0	14	15	3	5	3	14	7
+4	0	1	3	1	1	2	12
+9	14	0	11	11	3	6	10
+7	1	8	0	12	15	1	2
+9	12	13	4	0	1	7	12
+11	3	9	11	8	0	14	4
+6	1	8	11	13	6	0	10
+3	4	10	14	13	14	1	0
+
+Vertex Weights:
+11	10	12	9	3	12	2	11
+Capacity: 13
+
+Profit: 70
+Path: [0, 3, 7, 6, 1, 4, 5, 1, 2]
+Calculation Time: 5.856316566467285
+
+
+565:
+0	14	4	13	7	12	14	5
+14	0	10	2	8	12	3	13
+2	14	0	12	6	9	5	1
+6	3	10	0	11	9	2	9
+15	9	11	12	0	1	6	2
+4	15	12	7	3	0	11	10
+1	4	6	15	13	6	0	8
+6	12	9	10	7	7	12	0
+
+Vertex Weights:
+4	13	5	11	5	12	3	5
+Capacity: 14
+
+Profit: 31
+Path: [0, 2, 7, 4, 5]
+Calculation Time: 4.558025360107422
+
+
+566:
+0	11	11	4	1	10	7	11
+10	0	2	14	2	6	1	6
+2	3	0	2	15	5	13	3
+12	1	7	0	1	10	2	13
+14	7	9	1	0	2	2	7
+4	1	4	4	2	0	15	6
+10	7	9	2	2	13	0	6
+7	4	9	1	3	7	9	0
+
+Vertex Weights:
+11	4	3	9	2	11	10	8
+Capacity: 14
+
+Profit: 58
+Path: [0, 4, 5, 1, 2, 7, 3, 6]
+Calculation Time: 6.024127721786499
+
+
+567:
+0	14	6	15	7	6	10	13
+13	0	4	8	1	10	1	13
+3	12	0	3	5	13	7	15
+3	14	5	0	9	13	11	6
+15	9	13	1	0	7	13	9
+8	7	7	15	3	0	14	11
+9	9	8	15	8	10	0	6
+15	1	9	11	12	11	1	0
+
+Vertex Weights:
+11	1	4	2	8	7	3	12
+Capacity: 17
+
+Profit: 43
+Path: [0, 5, 4, 3, 7, 6]
+Calculation Time: 5.385947942733765
+
+
+568:
+0	1	11	4	4	13	14	8
+11	0	14	11	6	12	1	12
+12	5	0	13	6	15	3	4
+5	14	8	0	2	3	11	3
+2	5	5	2	0	1	7	13
+4	5	15	13	13	0	5	3
+8	12	6	9	14	2	0	4
+5	8	13	5	11	6	6	0
+
+Vertex Weights:
+8	10	13	7	4	9	8	7
+Capacity: 14
+
+Profit: 53
+Path: [0, 1, 6, 5, 7, 3, 4]
+Calculation Time: 7.20319676399231
+
+
+569:
+0	12	2	11	12	5	11	3
+3	0	10	7	15	9	3	6
+13	4	0	13	11	13	9	13
+1	10	4	0	15	6	14	14
+14	2	9	14	0	6	6	3
+10	5	8	7	5	0	5	15
+2	15	9	3	1	11	0	5
+15	1	11	6	10	15	5	0
+
+Vertex Weights:
+4	14	11	1	13	1	4	3
+Capacity: 21
+
+Profit: 50
+Path: [0, 5, 6, 4, 7, 1, 0, 2]
+Calculation Time: 12.755320072174072
+
+
+570:
+0	4	11	3	3	15	9	10
+12	0	14	11	6	13	7	9
+3	2	0	8	7	11	8	12
+6	7	15	0	2	2	2	15
+5	2	3	8	0	2	13	9
+11	3	6	4	2	0	4	15
+11	12	5	6	12	2	0	14
+9	10	11	4	4	13	7	0
+
+Vertex Weights:
+10	2	4	13	12	15	14	6
+Capacity: 30
+
+Profit: 76
+Path: [0, 7, 3, 6, 5, 4, 2, 1]
+Calculation Time: 11.408782005310059
+
+
+571:
+0	1	4	1	8	10	10	8
+6	0	10	1	12	10	14	12
+15	5	0	1	12	13	2	10
+14	13	11	0	14	4	13	4
+2	10	13	14	0	3	11	7
+14	4	15	9	6	0	15	6
+12	8	7	2	5	2	0	5
+14	1	4	8	13	14	15	0
+
+Vertex Weights:
+7	6	1	7	9	14	4	5
+Capacity: 19
+
+Profit: 48
+Path: [0, 3, 7, 1, 3, 5, 4]
+Calculation Time: 9.968453645706177
+
+
+572:
+0	4	7	3	9	14	11	13
+4	0	10	7	4	8	14	6
+1	8	0	3	15	7	4	13
+12	13	2	0	11	5	7	15
+11	13	3	1	0	3	3	15
+15	5	7	9	10	0	11	1
+14	3	10	4	10	4	0	12
+2	12	1	7	5	9	3	0
+
+Vertex Weights:
+13	2	10	2	14	7	9	11
+Capacity: 20
+
+Profit: 68
+Path: [0, 1, 4, 6, 5, 7, 2, 3]
+Calculation Time: 5.917331695556641
+
+
+573:
+0	12	14	14	1	5	8	11
+12	0	10	7	9	8	10	14
+14	15	0	3	10	2	5	7
+3	1	8	0	15	13	6	10
+3	10	5	14	0	6	5	4
+13	4	8	7	12	0	5	10
+9	3	1	13	6	1	0	11
+8	15	9	14	11	15	15	0
+
+Vertex Weights:
+4	4	12	15	5	8	4	2
+Capacity: 14
+
+Profit: 44
+Path: [0, 4, 6, 2, 3, 1]
+Calculation Time: 5.503251075744629
+
+
+574:
+0	13	6	11	12	11	12	15
+5	0	14	14	15	13	14	10
+3	15	0	15	11	6	1	2
+12	6	13	0	4	1	2	10
+11	14	2	6	0	3	7	1
+9	3	8	5	8	0	1	4
+3	7	9	5	15	9	0	11
+1	13	2	13	9	7	15	0
+
+Vertex Weights:
+9	14	13	8	5	2	4	7
+Capacity: 16
+
+Profit: 50
+Path: [0, 2, 6, 3, 5, 1]
+Calculation Time: 5.415219783782959
+
+
+575:
+0	3	3	13	6	8	8	4
+7	0	14	3	8	2	5	12
+12	1	0	2	2	5	2	1
+12	15	6	0	2	7	13	3
+4	4	14	2	0	13	6	7
+8	5	12	5	9	0	3	7
+7	10	1	8	14	14	0	8
+2	11	12	12	14	15	2	0
+
+Vertex Weights:
+1	11	7	14	14	15	13	3
+Capacity: 12
+
+Profit: 61
+Path: [0, 1, 5, 6, 2, 3]
+Calculation Time: 8.01775574684143
+
+
+576:
+0	1	2	4	13	13	1	13
+6	0	14	3	8	9	7	8
+3	12	0	2	1	11	9	2
+9	4	2	0	4	9	1	8
+1	14	14	1	0	4	10	13
+5	12	13	8	5	0	4	13
+1	6	14	14	1	12	0	12
+15	9	11	1	13	4	9	0
+
+Vertex Weights:
+6	11	12	13	3	12	8	7
+Capacity: 15
+
+Profit: 72
+Path: [0, 6, 4, 0, 1, 3, 2, 7, 5]
+Calculation Time: 5.928211212158203
+
+
+577:
+0	5	14	1	3	5	9	3
+1	0	6	15	6	6	3	1
+11	7	0	5	7	15	14	6
+11	13	13	0	7	8	7	10
+12	2	13	3	0	15	11	2
+13	10	10	7	14	0	11	5
+7	14	4	7	3	8	0	8
+10	9	4	12	15	15	2	0
+
+Vertex Weights:
+2	6	11	5	8	3	13	4
+Capacity: 17
+
+Profit: 49
+Path: [0, 4, 1, 7, 6, 2, 3]
+Calculation Time: 9.040035724639893
+
+
+578:
+0	14	12	10	6	10	8	5
+2	0	2	12	10	11	12	15
+12	3	0	3	9	15	4	8
+8	15	6	0	1	8	6	3
+14	8	4	2	0	10	11	15
+8	7	5	12	11	0	1	14
+14	2	7	8	6	11	0	6
+15	7	1	13	15	14	3	0
+
+Vertex Weights:
+3	1	5	11	8	3	15	3
+Capacity: 20
+
+Profit: 46
+Path: [0, 7, 2, 3, 4, 2, 6, 1]
+Calculation Time: 9.997089385986328
+
+
+579:
+0	12	10	9	1	15	10	14
+14	0	8	15	3	15	15	5
+11	1	0	7	15	15	6	12
+5	7	7	0	12	6	5	15
+11	15	5	15	0	13	15	1
+9	9	13	5	11	0	11	11
+14	4	1	3	15	10	0	11
+2	11	15	11	4	4	11	0
+
+Vertex Weights:
+8	3	11	13	3	14	1	1
+Capacity: 19
+
+Profit: 54
+Path: [0, 4, 7, 5, 3, 6, 2, 1]
+Calculation Time: 5.795572280883789
+
+
+580:
+0	12	4	5	1	14	2	13
+3	0	5	14	1	10	10	7
+6	1	0	15	13	15	11	4
+11	13	2	0	13	8	14	2
+2	7	6	1	0	2	13	7
+5	12	12	12	9	0	6	14
+4	10	9	8	11	8	0	1
+10	3	10	12	11	5	8	0
+
+Vertex Weights:
+10	2	7	15	14	5	7	11
+Capacity: 14
+
+Profit: 71
+Path: [0, 6, 7, 1, 4, 3, 2, 1, 4, 5]
+Calculation Time: 5.812604665756226
+
+
+581:
+0	15	3	2	15	1	2	8
+7	0	14	4	2	2	15	14
+13	8	0	6	12	7	2	2
+10	7	14	0	6	7	11	9
+8	4	11	2	0	7	10	14
+14	11	13	10	10	0	9	4
+3	14	1	10	7	2	0	2
+1	6	3	8	5	4	8	0
+
+Vertex Weights:
+2	15	1	8	5	2	8	2
+Capacity: 11
+
+Profit: 30
+Path: [0, 3, 1, 4]
+Calculation Time: 4.552023649215698
+
+
+582:
+0	13	15	11	5	7	7	15
+9	0	12	14	4	8	14	3
+10	1	0	12	10	12	11	9
+3	6	6	0	15	12	9	7
+9	2	3	2	0	8	14	1
+4	7	6	13	13	0	15	2
+8	5	11	10	2	3	0	2
+1	5	11	2	13	13	8	0
+
+Vertex Weights:
+3	3	9	4	4	8	13	9
+Capacity: 15
+
+Profit: 37
+Path: [0, 6, 5, 7, 3]
+Calculation Time: 4.616004943847656
+
+
+583:
+0	9	6	2	1	14	11	5
+12	0	14	7	3	8	11	14
+11	5	0	12	7	8	12	2
+7	1	13	0	11	7	1	15
+3	2	10	10	0	8	7	8
+11	3	12	8	10	0	12	15
+1	9	1	8	3	12	0	12
+1	2	14	4	9	4	10	0
+
+Vertex Weights:
+5	12	5	11	3	13	14	1
+Capacity: 15
+
+Profit: 61
+Path: [0, 3, 6, 2, 7, 5, 1]
+Calculation Time: 8.110856056213379
+
+
+584:
+0	13	4	13	8	7	5	8
+3	0	14	4	6	12	14	14
+3	4	0	14	15	13	8	14
+12	1	4	0	14	1	13	4
+2	14	6	7	0	14	7	3
+5	9	5	14	6	0	9	3
+11	1	14	10	13	15	0	12
+5	6	3	9	9	2	11	0
+
+Vertex Weights:
+1	15	8	1	8	3	2	9
+Capacity: 26
+
+Profit: 47
+Path: [0, 6, 1, 3, 5, 4, 7, 2]
+Calculation Time: 7.780217170715332
+
+
+585:
+0	10	6	8	6	2	15	4
+8	0	4	13	10	5	8	13
+15	3	0	2	12	6	4	8
+3	1	5	0	15	14	14	2
+5	11	14	5	0	7	13	12
+1	2	3	13	4	0	8	2
+9	5	7	10	9	14	0	6
+6	3	8	4	3	10	12	0
+
+Vertex Weights:
+9	14	13	4	7	13	9	5
+Capacity: 20
+
+Profit: 69
+Path: [0, 5, 4, 3, 1, 2, 6]
+Calculation Time: 13.534252166748047
+
+
+586:
+0	4	15	7	15	2	4	10
+1	0	15	8	11	4	15	15
+11	14	0	3	10	4	1	1
+6	13	7	0	3	11	7	1
+15	2	1	5	0	8	11	15
+15	14	12	1	10	0	1	8
+9	1	14	10	15	5	0	10
+4	5	8	5	5	11	8	0
+
+Vertex Weights:
+11	1	4	14	12	1	5	9
+Capacity: 10
+
+Profit: 51
+Path: [0, 5, 3, 4, 2, 7]
+Calculation Time: 5.395214319229126
+
+
+587:
+0	5	14	6	11	12	9	10
+14	0	2	6	14	9	10	4
+9	10	0	14	12	2	3	2
+15	5	12	0	2	12	9	2
+14	1	11	7	0	8	6	8
+4	4	6	14	3	0	7	1
+10	3	3	11	2	5	0	13
+4	7	12	4	12	12	10	0
+
+Vertex Weights:
+7	15	9	15	13	11	14	12
+Capacity: 19
+
+Profit: 85
+Path: [0, 3, 4, 1, 2, 6, 2, 7]
+Calculation Time: 10.714412450790405
+
+
+588:
+0	5	13	15	15	13	13	15
+4	0	11	2	1	8	8	6
+9	13	0	9	7	6	14	5
+15	10	15	0	7	4	13	12
+12	7	5	9	0	14	4	8
+9	5	14	10	13	0	7	8
+7	11	12	12	13	8	0	4
+3	4	12	6	5	9	7	0
+
+Vertex Weights:
+13	13	2	12	5	3	14	1
+Capacity: 30
+
+Profit: 61
+Path: [0, 1, 3, 5, 1, 4, 6, 7]
+Calculation Time: 11.666922807693481
+
+
+589:
+0	10	2	13	2	6	6	1
+9	0	8	5	12	12	3	5
+14	8	0	6	1	3	2	2
+7	10	2	0	13	2	12	11
+3	13	1	2	0	10	7	7
+15	1	13	8	10	0	4	3
+4	9	8	6	5	2	0	7
+5	1	13	1	5	14	5	0
+
+Vertex Weights:
+10	1	5	6	3	1	8	13
+Capacity: 11
+
+Profit: 47
+Path: [0, 7, 3, 2, 4, 2, 6, 5, 1]
+Calculation Time: 5.885325193405151
+
+
+590:
+0	2	14	13	1	11	5	5
+13	0	8	3	12	6	10	1
+2	9	0	6	3	10	12	15
+1	15	11	0	1	8	7	13
+9	11	15	3	0	12	5	13
+10	4	9	2	3	0	12	15
+13	5	8	13	9	8	0	2
+8	7	9	10	4	13	6	0
+
+Vertex Weights:
+3	12	1	15	14	10	14	13
+Capacity: 26
+
+Profit: 81
+Path: [0, 1, 5, 3, 4, 6, 7]
+Calculation Time: 25.996618270874023
+
+
+591:
+0	14	1	14	10	4	2	9
+15	0	14	12	12	3	11	8
+11	5	0	15	12	12	2	12
+4	9	7	0	2	13	8	3
+9	13	14	13	0	3	14	1
+1	15	6	6	15	0	7	8
+3	9	5	2	8	13	0	13
+5	13	4	8	3	3	14	0
+
+Vertex Weights:
+8	3	5	11	13	11	11	11
+Capacity: 16
+
+Profit: 70
+Path: [0, 5, 0, 2, 6, 3, 4, 7]
+Calculation Time: 8.906005144119263
+
+
+592:
+0	6	2	12	7	12	13	8
+9	0	10	12	6	8	11	13
+8	6	0	14	1	11	8	11
+8	14	3	0	7	7	2	3
+10	1	1	5	0	15	13	8
+11	14	2	8	7	0	5	11
+12	13	10	6	9	14	0	11
+11	8	1	3	15	9	11	0
+
+Vertex Weights:
+3	8	11	9	13	8	2	3
+Capacity: 29
+
+Profit: 57
+Path: [0, 2, 4, 1, 5, 6, 3, 7]
+Calculation Time: 9.428123235702515
+
+
+593:
+0	6	11	8	12	12	10	12
+15	0	8	2	14	6	3	2
+4	3	0	10	11	14	2	10
+1	3	4	0	9	14	12	7
+11	11	13	2	0	4	7	3
+14	15	9	2	5	0	9	7
+10	2	10	13	5	2	0	15
+15	5	1	10	14	12	14	0
+
+Vertex Weights:
+4	11	9	10	3	13	8	5
+Capacity: 19
+
+Profit: 60
+Path: [0, 1, 7, 2, 6, 5, 3]
+Calculation Time: 8.936686277389526
+
+
+594:
+0	3	2	9	12	4	1	5
+9	0	4	9	7	4	5	11
+9	3	0	15	9	2	3	5
+13	6	9	0	9	12	14	11
+11	1	13	6	0	12	2	4
+2	2	6	7	13	0	11	9
+2	10	14	5	10	13	0	3
+12	13	10	6	12	13	6	0
+
+Vertex Weights:
+10	2	2	9	7	12	9	12
+Capacity: 22
+
+Profit: 56
+Path: [0, 2, 5, 1, 6, 7, 3]
+Calculation Time: 16.177719354629517
+
+
+595:
+0	1	11	6	1	2	6	15
+2	0	10	3	5	8	12	10
+11	9	0	2	8	2	4	10
+11	4	12	0	1	2	4	4
+10	1	14	2	0	6	1	15
+13	15	8	8	1	0	5	14
+13	7	14	1	11	9	0	2
+3	13	1	12	3	3	2	0
+
+Vertex Weights:
+2	13	14	8	10	10	1	15
+Capacity: 9
+
+Profit: 65
+Path: [0, 4, 6, 7, 2, 5, 4, 1]
+Calculation Time: 8.052813053131104
+
+
+596:
+0	12	1	6	10	5	15	1
+12	0	10	2	8	7	13	8
+10	7	0	2	4	6	5	6
+12	13	9	0	4	7	5	12
+1	5	7	10	0	1	4	4
+7	11	5	8	4	0	6	6
+9	2	13	7	6	5	0	2
+13	13	15	7	7	6	10	0
+
+Vertex Weights:
+4	7	11	6	8	4	12	14
+Capacity: 12
+
+Profit: 49
+Path: [0, 2, 4, 6, 7]
+Calculation Time: 5.298192739486694
+
+
+597:
+0	14	12	14	13	6	12	3
+4	0	14	6	12	15	13	10
+8	6	0	4	10	8	15	2
+3	8	8	0	7	13	4	15
+14	13	14	12	0	12	10	7
+1	13	7	11	11	0	1	9
+1	2	15	4	10	13	0	12
+5	8	13	14	4	3	2	0
+
+Vertex Weights:
+9	6	8	4	4	1	4	5
+Capacity: 27
+
+Profit: 40
+Path: [0, 7, 6, 1, 3, 2, 7, 4]
+Calculation Time: 13.400913000106812
+
+
+598:
+0	15	8	3	15	12	7	13
+7	0	8	12	3	15	4	13
+1	4	0	14	1	6	11	8
+11	10	3	0	15	6	3	12
+2	7	14	5	0	14	9	12
+12	5	9	4	4	0	9	10
+15	9	5	10	2	3	0	10
+1	5	2	11	3	7	4	0
+
+Vertex Weights:
+1	7	1	4	13	9	7	14
+Capacity: 30
+
+Profit: 56
+Path: [0, 3, 2, 7, 6, 5, 1, 4]
+Calculation Time: 6.707791090011597
+
+
+599:
+0	6	12	14	9	9	11	10
+8	0	1	3	8	10	9	1
+5	12	0	5	1	10	5	3
+14	1	15	0	10	15	9	6
+5	10	3	15	0	12	2	14
+5	10	2	13	15	0	8	5
+14	3	4	6	15	13	0	10
+8	3	4	15	12	6	14	0
+
+Vertex Weights:
+1	6	4	13	8	6	2	5
+Capacity: 22
+
+Profit: 45
+Path: [0, 1, 3, 1, 7, 5, 2, 4, 6]
+Calculation Time: 5.837313175201416
+
+
+600:
+0	5	11	4	5	1	14	12
+6	0	9	5	14	12	2	15
+6	13	0	2	7	13	15	7
+3	14	13	0	7	15	1	8
+11	1	9	12	0	11	10	12
+3	4	14	10	6	0	9	5
+14	4	5	14	6	9	0	13
+6	12	8	4	10	4	8	0
+
+Vertex Weights:
+13	3	13	1	4	11	2	15
+Capacity: 20
+
+Profit: 57
+Path: [0, 5, 1, 6, 2, 7]
+Calculation Time: 7.149609804153442
+
+
+601:
+0	3	10	1	10	2	11	7	6
+3	0	3	2	14	15	14	13	2
+4	8	0	7	11	15	3	12	6
+12	8	6	0	11	10	1	14	4
+6	8	5	12	0	4	9	6	8
+2	2	8	8	9	0	4	6	4
+10	10	10	15	1	3	0	1	8
+4	4	6	13	3	1	3	0	7
+10	13	9	6	12	13	12	10	0
+
+Vertex Weights:
+4	8	5	5	9	15	5	1	3
+Capacity: 11
+
+Profit: 49
+Path: [0, 3, 6, 4, 5, 1, 8]
+Calculation Time: 7.150608777999878
+
+
+602:
+0	8	14	12	5	13	14	6	2
+14	0	14	12	12	14	3	3	3
+8	13	0	8	5	13	4	4	5
+2	3	5	0	15	15	8	13	11
+10	9	5	6	0	12	1	15	10
+11	7	14	14	2	0	1	3	7
+2	2	15	3	8	12	0	8	10
+6	13	13	14	9	6	11	0	4
+1	4	3	5	3	13	3	5	0
+
+Vertex Weights:
+2	12	14	3	6	15	13	9	12
+Capacity: 17
+
+Profit: 69
+Path: [0, 8, 4, 6, 1, 7, 5]
+Calculation Time: 11.714653253555298
+
+
+603:
+0	12	10	5	13	13	6	10	8
+15	0	1	1	11	8	13	15	15
+7	7	0	10	8	14	11	2	4
+14	15	14	0	14	11	15	13	14
+1	15	9	4	0	4	14	10	9
+13	6	6	9	4	0	13	11	13
+7	1	11	14	11	12	0	12	2
+3	12	12	11	9	4	9	0	3
+12	1	2	5	3	15	4	15	0
+
+Vertex Weights:
+15	2	9	1	14	5	3	8	14
+Capacity: 15
+
+Profit: 57
+Path: [0, 6, 1, 2, 8, 4]
+Calculation Time: 5.350204944610596
+
+
+604:
+0	5	8	14	5	3	10	5	2
+1	0	15	5	15	3	6	5	10
+12	4	0	1	10	14	13	5	15
+12	7	3	0	2	9	7	2	3
+12	4	6	9	0	6	10	2	11
+10	6	8	5	12	0	13	7	1
+4	3	7	8	9	4	0	3	4
+7	9	15	10	11	7	11	0	6
+4	4	7	15	11	5	4	13	0
+
+Vertex Weights:
+14	12	10	7	11	11	5	5	12
+Capacity: 24
+
+Profit: 87
+Path: [0, 5, 8, 6, 1, 3, 2, 3, 4, 7]
+Calculation Time: 9.448127508163452
+
+
+605:
+0	12	7	1	4	7	13	15	7
+10	0	15	15	7	13	4	4	3
+4	5	0	8	7	1	11	11	2
+6	15	12	0	5	13	15	5	15
+7	15	10	4	0	5	9	5	13
+6	15	8	8	5	0	5	4	2
+14	3	10	11	6	7	0	12	12
+9	9	9	2	10	12	5	0	12
+13	14	7	13	2	10	5	9	0
+
+Vertex Weights:
+7	7	2	7	4	15	13	11	8
+Capacity: 27
+
+Profit: 72
+Path: [0, 3, 7, 6, 1, 8, 4, 5]
+Calculation Time: 22.576484203338623
+
+
+606:
+0	3	13	12	13	11	15	3	7
+2	0	5	9	2	5	7	2	8
+8	11	0	10	11	13	9	14	9
+3	7	6	0	5	3	8	8	8
+12	1	6	9	0	2	11	9	14
+5	7	5	2	9	0	8	10	2
+13	9	14	6	3	13	0	4	4
+4	12	13	4	7	5	14	0	10
+3	5	8	2	8	10	8	1	0
+
+Vertex Weights:
+2	2	5	2	14	5	6	8	5
+Capacity: 21
+
+Profit: 43
+Path: [0, 1, 4, 5, 8, 7, 3, 2]
+Calculation Time: 17.18040180206299
+
+
+607:
+0	6	2	2	6	2	2	1	6
+5	0	11	14	3	11	8	5	7
+12	9	0	3	15	11	6	12	4
+8	11	5	0	13	2	3	13	10
+5	9	6	14	0	10	13	15	4
+1	6	12	10	5	0	4	8	2
+8	14	9	14	14	4	0	11	8
+3	11	3	4	6	12	15	0	8
+11	11	6	14	10	8	7	14	0
+
+Vertex Weights:
+13	5	15	15	9	12	1	9	9
+Capacity: 25
+
+Profit: 87
+Path: [0, 7, 2, 3, 5, 1, 4, 8]
+Calculation Time: 34.44419479370117
+
+
+608:
+0	9	13	8	6	10	15	12	9
+2	0	7	2	1	12	5	12	13
+8	1	0	15	13	6	1	7	9
+1	9	12	0	5	8	9	11	9
+15	13	8	4	0	10	14	13	14
+3	12	13	13	10	0	1	9	14
+7	2	1	3	5	5	0	1	4
+11	14	14	10	5	6	4	0	4
+12	11	9	8	1	3	7	5	0
+
+Vertex Weights:
+9	3	1	4	2	4	11	2	4
+Capacity: 17
+
+Profit: 36
+Path: [0, 8, 5, 6, 2, 1, 3]
+Calculation Time: 6.274412155151367
+
+
+609:
+0	8	7	12	2	1	12	11	7
+14	0	14	10	14	5	6	9	14
+6	11	0	10	15	12	6	9	3
+13	7	3	0	10	12	11	8	9
+6	6	1	10	0	6	1	3	10
+11	14	8	8	13	0	14	13	10
+3	7	4	4	12	3	0	8	14
+2	5	12	1	9	2	10	0	9
+11	3	11	12	10	9	2	8	0
+
+Vertex Weights:
+4	3	5	10	13	3	3	1	6
+Capacity: 16
+
+Profit: 44
+Path: [0, 4, 6, 3, 2, 8, 1]
+Calculation Time: 8.13116455078125
+
+
+610:
+0	13	12	5	8	4	5	12	1
+10	0	12	14	11	9	2	3	14
+3	1	0	4	11	4	12	11	3
+11	6	4	0	10	3	10	2	3
+10	14	5	11	0	2	7	12	10
+6	5	14	8	15	0	5	4	5
+14	5	6	2	12	5	0	8	5
+2	5	4	1	13	10	8	0	15
+11	2	7	14	15	15	7	10	0
+
+Vertex Weights:
+10	11	13	13	8	15	3	5	2
+Capacity: 18
+
+Profit: 72
+Path: [0, 8, 1, 6, 3, 7, 2, 5]
+Calculation Time: 14.426251649856567
+
+
+611:
+0	11	7	10	5	5	2	15	9
+9	0	7	14	5	11	2	1	8
+13	11	0	8	2	4	8	13	6
+14	5	10	0	2	1	12	2	11
+5	10	14	5	0	5	6	15	14
+5	11	3	10	11	0	10	9	10
+11	3	8	5	11	9	0	7	9
+3	6	3	15	7	11	6	0	6
+13	11	1	7	15	2	9	10	0
+
+Vertex Weights:
+14	7	10	2	12	6	9	1	13
+Capacity: 19
+
+Profit: 72
+Path: [0, 6, 1, 7, 8, 5, 2, 4]
+Calculation Time: 10.768439054489136
+
+
+612:
+0	15	13	8	15	9	11	4	3
+11	0	8	8	9	8	9	8	1
+7	2	0	15	9	13	13	9	11
+2	15	3	0	5	9	2	11	6
+9	7	1	5	0	2	8	6	5
+6	5	5	15	5	0	2	11	8
+10	3	12	8	13	7	0	3	10
+10	4	4	14	9	7	11	0	5
+10	3	8	14	7	4	12	4	0
+
+Vertex Weights:
+8	6	9	8	1	10	12	9	12
+Capacity: 19
+
+Profit: 66
+Path: [0, 7, 2, 1, 8, 5, 6]
+Calculation Time: 10.793494939804077
+
+
+613:
+0	5	7	15	7	15	4	2	7
+12	0	9	7	4	7	5	6	7
+4	15	0	3	10	10	12	4	1
+12	5	2	0	8	4	15	13	1
+7	6	10	5	0	7	1	9	5
+12	1	6	15	13	0	1	12	1
+15	6	10	12	14	5	0	4	2
+3	4	7	11	6	6	4	0	7
+12	12	14	8	9	5	7	12	0
+
+Vertex Weights:
+3	14	9	15	6	12	1	10	11
+Capacity: 18
+
+Profit: 68
+Path: [0, 7, 1, 4, 3, 2, 8]
+Calculation Time: 12.58816123008728
+
+
+614:
+0	2	12	12	3	4	13	14	8
+1	0	5	1	10	10	2	1	1
+5	4	0	9	3	10	3	15	2
+5	6	5	0	8	10	1	6	10
+4	15	3	14	0	8	11	15	9
+15	2	6	6	11	0	9	2	1
+4	11	7	6	9	6	0	12	7
+9	7	11	1	1	10	14	0	13
+6	10	7	11	3	15	15	13	0
+
+Vertex Weights:
+2	1	4	10	6	7	3	9	1
+Capacity: 13
+
+Profit: 38
+Path: [0, 1, 3, 6, 5, 7, 4]
+Calculation Time: 8.941012859344482
+
+
+615:
+0	15	11	15	8	1	13	4	13
+7	0	8	9	12	1	10	5	8
+13	10	0	5	3	4	4	8	9
+15	5	7	0	14	5	10	9	8
+8	4	12	5	0	5	12	13	4
+7	11	15	1	13	0	1	8	14
+12	9	4	4	5	14	0	11	10
+2	8	14	4	15	15	15	0	7
+8	4	12	10	3	6	15	5	0
+
+Vertex Weights:
+10	6	6	1	5	8	4	4	5
+Capacity: 25
+
+Profit: 49
+Path: [0, 7, 0, 5, 6, 2, 4, 8, 1, 5, 3]
+Calculation Time: 6.790733814239502
+
+
+616:
+0	12	1	7	10	1	10	6	1
+3	0	13	15	2	4	6	11	12
+14	5	0	4	13	1	8	4	10
+11	2	7	0	11	4	15	2	12
+8	8	12	10	0	3	13	11	5
+9	11	8	3	10	0	15	10	9
+5	10	12	12	6	10	0	2	3
+14	1	14	15	2	12	13	0	9
+4	11	10	9	11	12	5	12	0
+
+Vertex Weights:
+7	13	14	7	1	10	15	3	1
+Capacity: 14
+
+Profit: 69
+Path: [0, 2, 5, 3, 7, 1, 6]
+Calculation Time: 8.93982720375061
+
+
+617:
+0	10	7	8	8	5	10	8	10
+4	0	15	9	14	8	9	10	4
+2	5	0	13	2	14	8	8	7
+2	5	1	0	1	11	2	8	3
+4	3	7	12	0	11	12	7	14
+5	11	2	8	7	0	15	15	11
+10	14	11	11	14	1	0	1	1
+9	6	12	3	8	1	2	0	14
+7	9	10	1	5	10	3	10	0
+
+Vertex Weights:
+7	5	15	5	15	5	7	12	2
+Capacity: 15
+
+Profit: 63
+Path: [0, 7, 6, 8, 3, 2, 4]
+Calculation Time: 6.224400997161865
+
+
+618:
+0	6	4	2	7	9	9	15	1
+14	0	14	15	1	14	5	1	13
+2	11	0	10	10	9	13	1	7
+11	2	7	0	15	12	5	5	7
+8	12	11	15	0	15	6	12	15
+12	12	7	11	1	0	1	8	3
+2	5	13	6	14	6	0	14	2
+15	2	8	3	12	12	15	0	1
+2	4	2	4	12	4	11	2	0
+
+Vertex Weights:
+12	2	6	7	14	10	12	2	13
+Capacity: 19
+
+Profit: 78
+Path: [0, 8, 5, 6, 8, 2, 7, 3, 1, 4]
+Calculation Time: 10.409343004226685
+
+
+619:
+0	10	14	5	15	3	10	8	4
+3	0	2	7	11	1	10	9	10
+6	1	0	3	9	2	2	13	13
+15	4	12	0	4	14	2	8	8
+7	11	11	6	0	13	1	8	9
+9	9	15	7	6	0	4	15	2
+14	5	12	6	10	7	0	3	2
+9	11	12	7	1	1	9	0	8
+10	13	11	12	13	2	12	12	0
+
+Vertex Weights:
+3	13	15	1	6	2	9	4	8
+Capacity: 18
+
+Profit: 51
+Path: [0, 3, 1, 2, 6, 8, 5]
+Calculation Time: 10.785988569259644
+
+
+620:
+0	2	1	9	5	5	3	9	14
+1	0	14	11	15	3	15	15	9
+12	9	0	9	9	8	1	10	15
+13	15	4	0	12	3	11	1	15
+11	6	2	12	0	11	4	10	12
+10	7	10	9	13	0	10	10	14
+9	3	5	14	1	12	0	15	7
+6	3	9	11	8	1	8	0	2
+3	7	15	8	12	15	13	6	0
+
+Vertex Weights:
+10	2	13	12	4	11	10	13	13
+Capacity: 17
+
+Profit: 75
+Path: [0, 2, 6, 4, 2, 3, 7, 8]
+Calculation Time: 10.755698919296265
+
+
+621:
+0	6	3	7	10	8	5	13	8
+3	0	5	8	6	2	7	13	4
+1	14	0	4	8	8	4	3	8
+14	9	8	0	4	10	11	9	10
+2	14	3	13	0	10	12	4	5
+10	14	11	4	2	0	8	1	8
+8	8	9	3	5	13	0	10	7
+8	9	1	13	15	9	15	0	3
+8	7	14	15	3	13	3	10	0
+
+Vertex Weights:
+12	2	5	14	7	15	10	5	6
+Capacity: 20
+
+Profit: 65
+Path: [0, 1, 5, 4, 2, 6, 3]
+Calculation Time: 13.452028751373291
+
+
+622:
+0	2	11	8	7	9	2	3	14
+5	0	14	15	11	12	9	3	1
+11	12	0	14	7	3	3	13	10
+14	2	3	0	6	6	12	15	15
+3	14	4	11	0	8	6	2	10
+10	4	10	4	8	0	15	2	6
+6	10	8	10	1	15	0	10	8
+2	12	10	2	9	12	15	0	14
+4	7	9	4	10	15	13	11	0
+
+Vertex Weights:
+13	3	4	3	1	8	7	13	9
+Capacity: 17
+
+Profit: 61
+Path: [0, 6, 4, 2, 5, 7, 3, 1, 8]
+Calculation Time: 6.788528203964233
+
+
+623:
+0	4	14	14	15	2	2	2	1
+5	0	7	11	13	7	10	14	1
+1	10	0	10	9	4	12	10	11
+5	13	9	0	14	1	10	7	1
+1	9	6	8	0	7	3	8	5
+9	9	4	11	2	0	15	10	11
+14	3	6	4	8	7	0	11	13
+5	7	15	13	7	1	5	0	12
+6	6	3	10	4	13	4	9	0
+
+Vertex Weights:
+7	11	1	10	14	14	2	5	8
+Capacity: 21
+
+Profit: 72
+Path: [0, 7, 5, 4, 6, 3, 8, 2, 0, 1]
+Calculation Time: 13.132445812225342
+
+
+624:
+0	8	5	10	8	9	7	1	15
+15	0	5	3	14	9	14	4	14
+7	12	0	13	9	4	8	13	2
+1	5	3	0	15	7	8	2	9
+8	5	5	1	0	9	8	4	7
+4	15	12	6	2	0	8	5	10
+1	13	8	15	9	6	0	11	6
+8	13	10	1	4	1	14	0	7
+14	6	2	3	12	15	9	3	0
+
+Vertex Weights:
+14	2	6	6	5	11	12	2	12
+Capacity: 22
+
+Profit: 68
+Path: [0, 7, 5, 4, 3, 6, 8, 2]
+Calculation Time: 20.891064643859863
+
+
+625:
+0	9	13	4	11	9	4	11	8
+4	0	7	1	13	14	6	9	1
+10	5	0	6	11	1	1	7	2
+1	13	5	0	7	12	2	1	12
+7	10	4	8	0	4	2	3	6
+13	13	9	7	1	0	2	1	6
+6	9	9	13	1	8	0	2	2
+1	7	6	6	1	13	7	0	3
+10	1	12	13	10	6	3	10	0
+
+Vertex Weights:
+8	12	9	7	15	12	1	8	1
+Capacity: 9
+
+Profit: 39
+Path: [0, 3, 7, 4, 6]
+Calculation Time: 4.50858211517334
+
+
+626:
+0	3	11	7	3	12	13	9	4
+11	0	15	7	3	11	7	14	13
+14	5	0	5	8	2	13	3	2
+13	9	3	0	10	3	14	9	12
+13	1	1	9	0	15	10	3	2
+15	5	15	3	5	0	3	10	5
+14	4	5	10	9	12	0	12	8
+15	9	1	5	13	8	4	0	2
+13	2	14	5	6	12	8	4	0
+
+Vertex Weights:
+4	10	3	1	9	5	14	11	13
+Capacity: 32
+
+Profit: 70
+Path: [0, 3, 5, 6, 1, 4, 7, 8, 7, 2]
+Calculation Time: 18.892446517944336
+
+
+627:
+0	15	14	15	6	2	3	1	14
+11	0	15	14	1	15	3	8	3
+11	2	0	10	14	6	6	9	5
+13	14	3	0	14	5	12	8	8
+12	9	5	4	0	6	10	14	2
+3	4	15	10	13	0	11	15	7
+6	2	3	2	3	4	0	7	6
+3	4	15	9	4	13	5	0	2
+9	5	14	8	5	1	6	10	0
+
+Vertex Weights:
+12	4	2	14	12	3	8	13	4
+Capacity: 18
+
+Profit: 72
+Path: [0, 7, 6, 3, 2, 1, 4, 8, 5]
+Calculation Time: 6.751437187194824
+
+
+628:
+0	15	15	8	6	1	11	7	2
+3	0	14	15	3	8	11	14	6
+13	15	0	15	7	12	8	13	1
+13	4	7	0	5	5	3	6	6
+13	13	13	15	0	11	9	6	2
+4	11	4	11	11	0	13	10	10
+4	3	11	15	5	7	0	9	3
+6	3	6	14	12	6	15	0	1
+7	10	11	6	11	12	5	3	0
+
+Vertex Weights:
+2	14	10	10	15	11	15	8	11
+Capacity: 25
+
+Profit: 96
+Path: [0, 5, 2, 8, 7, 8, 3, 6, 1, 4]
+Calculation Time: 6.85309100151062
+
+
+629:
+0	11	9	4	15	8	6	8	2
+3	0	15	2	14	2	10	3	10
+6	3	0	13	14	8	2	3	2
+4	14	9	0	11	3	12	4	14
+11	14	10	7	0	14	1	4	7
+10	4	7	6	10	0	9	12	12
+15	13	15	13	8	4	0	2	12
+15	1	13	11	11	7	6	0	2
+13	13	4	1	12	15	15	4	0
+
+Vertex Weights:
+2	13	8	2	14	1	10	15	9
+Capacity: 28
+
+Profit: 74
+Path: [0, 8, 2, 1, 3, 4, 6, 7, 1, 5]
+Calculation Time: 9.557914733886719
+
+
+630:
+0	1	9	9	8	7	8	10	2
+8	0	1	4	13	10	4	5	4
+5	8	0	1	8	14	1	12	11
+7	8	5	0	13	15	3	3	1
+10	1	15	11	0	7	4	10	8
+6	13	7	14	2	0	14	1	6
+1	5	3	15	10	4	0	2	10
+12	15	3	13	7	9	11	0	5
+1	10	12	10	1	8	13	11	0
+
+Vertex Weights:
+11	3	5	6	3	15	11	6	2
+Capacity: 12
+
+Profit: 57
+Path: [0, 1, 2, 6, 5, 7, 2, 3]
+Calculation Time: 9.03603458404541
+
+
+631:
+0	11	15	9	12	12	3	2	8
+2	0	9	5	2	1	9	2	3
+2	11	0	4	11	5	11	13	6
+8	12	2	0	8	15	15	1	11
+6	3	6	4	0	3	4	11	10
+11	3	11	7	5	0	1	7	8
+10	15	7	12	7	3	0	5	15
+2	15	12	15	4	3	2	0	4
+15	14	7	5	1	5	11	10	0
+
+Vertex Weights:
+2	8	9	3	1	8	6	8	4
+Capacity: 18
+
+Profit: 45
+Path: [0, 7, 6, 5, 1, 4, 3, 2]
+Calculation Time: 14.489962100982666
+
+
+632:
+0	4	4	3	9	4	9	14	11
+4	0	2	4	6	10	5	2	3
+9	1	0	1	6	1	15	4	10
+7	3	12	0	9	10	2	8	4
+2	3	12	14	0	11	6	4	14
+3	13	13	11	3	0	10	6	3
+2	5	7	4	9	3	0	6	7
+5	8	2	1	13	3	9	0	1
+14	6	5	3	8	15	6	8	0
+
+Vertex Weights:
+3	10	13	7	14	2	15	7	5
+Capacity: 15
+
+Profit: 64
+Path: [0, 1, 2, 3, 6, 5, 4]
+Calculation Time: 14.607689380645752
+
+
+633:
+0	10	13	13	8	13	12	8	7
+7	0	8	7	11	5	8	9	5
+8	1	0	8	1	7	8	1	1
+2	9	1	0	2	12	11	2	9
+7	4	1	3	0	2	7	12	12
+13	4	6	3	10	0	11	10	10
+2	3	7	12	12	15	0	5	5
+14	13	7	7	7	14	11	0	6
+7	15	5	10	3	8	8	4	0
+
+Vertex Weights:
+14	10	15	11	15	9	1	14	7
+Capacity: 15
+
+Profit: 78
+Path: [0, 4, 5, 3, 2, 7]
+Calculation Time: 6.441726207733154
+
+
+634:
+0	4	14	2	12	1	3	8	11
+12	0	5	4	2	1	11	11	15
+11	4	0	15	5	1	5	11	10
+11	8	3	0	14	14	7	8	2
+4	15	4	2	0	15	10	3	3
+15	6	2	15	5	0	2	12	14
+5	12	11	2	1	15	0	12	15
+6	15	10	11	10	15	2	0	2
+5	2	7	3	4	12	11	7	0
+
+Vertex Weights:
+13	7	4	7	13	14	3	4	1
+Capacity: 22
+
+Profit: 66
+Path: [0, 5, 2, 1, 4, 7, 6, 3, 8]
+Calculation Time: 17.86859107017517
+
+
+635:
+0	8	3	13	15	2	8	2	5
+7	0	7	7	1	2	13	5	3
+12	6	0	12	13	2	5	4	12
+1	7	9	0	7	6	12	7	2
+6	14	10	6	0	7	3	14	7
+9	7	11	1	1	0	10	2	6
+11	14	12	4	9	14	0	10	12
+7	9	10	5	6	12	11	0	4
+1	12	9	9	13	14	10	9	0
+
+Vertex Weights:
+4	9	9	5	15	14	2	10	4
+Capacity: 25
+
+Profit: 72
+Path: [0, 7, 3, 8, 0, 2, 1, 5, 4, 6]
+Calculation Time: 17.57000732421875
+
+
+636:
+0	7	14	7	7	11	4	14	10
+4	0	10	9	5	8	2	6	13
+5	12	0	14	1	4	1	14	8
+11	4	12	0	13	2	12	6	15
+13	4	8	11	0	13	12	14	10
+3	9	15	12	11	0	1	15	5
+3	8	4	11	9	2	0	7	6
+10	12	3	5	12	3	11	0	2
+8	8	7	10	3	7	10	6	0
+
+Vertex Weights:
+11	11	10	8	5	15	12	2	9
+Capacity: 20
+
+Profit: 72
+Path: [0, 3, 5, 6, 2, 4, 1]
+Calculation Time: 11.466151237487793
+
+
+637:
+0	15	2	14	5	10	5	6	9
+14	0	5	11	3	15	10	8	15
+8	11	0	5	6	2	11	9	3
+9	7	11	0	5	9	12	7	6
+1	12	4	6	0	13	4	8	10
+11	12	13	7	14	0	1	15	3
+5	9	12	14	3	6	0	7	15
+7	13	11	8	15	11	2	0	1
+12	6	5	7	11	12	14	1	0
+
+Vertex Weights:
+6	15	8	5	2	10	2	11	4
+Capacity: 16
+
+Profit: 54
+Path: [0, 2, 5, 8, 7, 8, 1]
+Calculation Time: 7.206666707992554
+
+
+638:
+0	12	3	9	8	4	11	14	13
+7	0	12	15	1	7	12	5	3
+8	12	0	10	12	4	9	11	1
+5	10	3	0	10	13	14	2	11
+7	1	4	15	0	3	1	14	8
+14	5	1	3	5	0	6	2	3
+15	6	11	4	8	6	0	3	8
+15	3	10	8	13	10	12	0	10
+6	1	5	13	10	13	5	14	0
+
+Vertex Weights:
+6	7	8	3	5	5	12	5	3
+Capacity: 14
+
+Profit: 51
+Path: [0, 5, 2, 8, 1, 4, 6, 7]
+Calculation Time: 8.569468975067139
+
+
+639:
+0	9	8	2	1	10	13	8	8
+2	0	3	4	3	3	10	14	6
+5	10	0	15	7	6	8	6	7
+4	13	12	0	14	10	14	3	12
+7	3	10	2	0	15	12	7	7
+2	8	14	1	2	0	13	14	3
+9	7	12	15	11	4	0	3	6
+6	13	3	13	6	12	4	0	12
+14	1	15	1	15	11	6	8	0
+
+Vertex Weights:
+7	4	15	12	10	9	8	13	15
+Capacity: 16
+
+Profit: 72
+Path: [0, 4, 3, 7, 2, 8]
+Calculation Time: 9.268086194992065
+
+
+640:
+0	7	2	6	9	3	10	12	8
+7	0	3	8	3	9	12	2	1
+7	6	0	15	7	1	9	13	12
+15	3	3	0	7	11	7	6	15
+4	8	14	7	0	1	6	4	1
+13	2	10	10	6	0	8	10	3
+1	4	14	9	13	2	0	2	1
+4	6	9	15	5	9	14	0	5
+8	9	5	1	5	1	7	4	0
+
+Vertex Weights:
+13	8	1	7	2	3	8	11	10
+Capacity: 19
+
+Profit: 63
+Path: [0, 2, 5, 1, 4, 8, 3, 6, 7]
+Calculation Time: 8.061661720275879
+
+
+641:
+0	8	12	2	4	7	5	2	1
+7	0	10	12	10	1	14	6	6
+14	1	0	10	9	2	1	14	14
+14	14	8	0	3	2	6	5	11
+14	11	14	6	0	12	2	1	1
+12	9	2	15	12	0	11	12	1
+3	9	10	2	13	6	0	8	5
+5	15	13	7	10	12	3	0	14
+6	13	7	11	9	14	9	3	0
+
+Vertex Weights:
+13	9	10	9	6	11	1	1	14
+Capacity: 17
+
+Profit: 74
+Path: [0, 4, 7, 6, 3, 5, 2, 1, 5, 8]
+Calculation Time: 9.594593048095703
+
+
+642:
+0	13	10	12	6	14	1	2	14
+13	0	15	7	1	8	12	14	9
+4	8	0	1	5	13	15	8	14
+10	3	3	0	13	14	14	11	4
+3	5	8	2	0	7	13	3	3
+7	9	5	3	15	0	8	1	14
+12	1	4	10	11	13	0	15	5
+8	13	5	7	6	5	14	0	5
+1	5	1	10	1	1	11	2	0
+
+Vertex Weights:
+13	1	13	9	2	8	3	1	10
+Capacity: 8
+
+Profit: 51
+Path: [0, 6, 1, 4, 8, 2, 3]
+Calculation Time: 6.287415504455566
+
+
+643:
+0	7	9	7	6	11	12	6	14
+9	0	7	4	7	8	10	9	7
+2	11	0	13	13	7	15	7	11
+15	6	2	0	11	12	5	9	10
+12	9	1	2	0	9	7	2	2
+6	14	3	3	14	0	2	15	10
+10	9	9	4	2	12	0	4	10
+6	10	7	12	8	3	8	0	2
+1	7	7	14	5	13	9	1	0
+
+Vertex Weights:
+6	1	5	13	14	12	10	7	8
+Capacity: 15
+
+Profit: 62
+Path: [0, 7, 5, 6, 4, 3]
+Calculation Time: 5.429222345352173
+
+
+644:
+0	4	15	9	2	3	6	5	8
+11	0	3	10	8	15	13	3	9
+15	13	0	14	15	2	2	8	5
+11	8	8	0	1	3	3	11	15
+6	4	4	13	0	7	2	11	2
+13	8	2	6	15	0	8	13	5
+2	13	8	1	2	5	0	13	14
+5	15	4	5	5	6	9	0	6
+1	8	10	7	10	4	2	7	0
+
+Vertex Weights:
+3	6	9	14	7	5	14	2	5
+Capacity: 21
+
+Profit: 65
+Path: [0, 5, 2, 6, 3, 4, 8, 0, 1, 7]
+Calculation Time: 10.427711963653564
+
+
+645:
+0	7	15	9	3	10	1	10	8
+8	0	3	13	10	13	5	10	4
+2	15	0	11	4	3	13	1	3
+5	4	2	0	3	7	6	5	7
+2	14	5	9	0	12	5	5	3
+7	4	14	2	11	0	2	2	11
+13	7	10	8	1	11	0	8	4
+5	5	12	7	15	15	11	0	12
+13	10	1	2	1	15	7	9	0
+
+Vertex Weights:
+2	4	1	11	9	4	14	4	6
+Capacity: 13
+
+Profit: 47
+Path: [0, 6, 4, 8, 2, 5, 3]
+Calculation Time: 8.072317838668823
+
+
+646:
+0	1	12	14	13	1	1	13	7
+9	0	12	13	9	14	1	1	10
+1	14	0	15	14	15	14	13	2
+1	13	11	0	11	11	12	10	14
+9	1	15	7	0	13	6	15	10
+14	5	3	11	5	0	4	5	2
+7	4	1	6	6	10	0	2	3
+13	13	9	9	12	1	5	0	5
+2	10	7	7	4	4	8	12	0
+
+Vertex Weights:
+11	13	4	3	8	14	9	1	3
+Capacity: 15
+
+Profit: 63
+Path: [0, 5, 8, 4, 1, 6, 2, 0, 1, 7]
+Calculation Time: 26.1186683177948
+
+
+647:
+0	15	10	4	2	1	11	3	15
+4	0	15	12	15	14	13	14	6
+2	3	0	7	2	5	3	10	1
+15	8	10	0	14	6	13	5	8
+12	4	14	8	0	6	2	13	4
+15	8	4	5	8	0	13	4	13
+15	9	7	3	15	2	0	6	4
+6	3	3	10	8	5	3	0	6
+12	4	14	9	4	15	5	10	0
+
+Vertex Weights:
+5	8	15	12	4	14	9	1	1
+Capacity: 23
+
+Profit: 69
+Path: [0, 5, 2, 8, 4, 6, 3, 7, 1]
+Calculation Time: 13.047161102294922
+
+
+648:
+0	7	9	12	8	8	13	10	6
+4	0	8	5	15	2	5	2	2
+11	4	0	13	5	12	5	10	5
+15	4	15	0	13	12	13	5	15
+1	2	11	13	0	14	11	1	1
+14	6	9	2	11	0	4	15	2
+9	10	11	10	14	1	0	9	4
+5	1	12	7	8	12	2	0	12
+4	1	2	8	8	6	15	1	0
+
+Vertex Weights:
+11	5	12	8	1	6	12	6	8
+Capacity: 12
+
+Profit: 51
+Path: [0, 8, 7, 6, 5, 3]
+Calculation Time: 5.3502037525177
+
+
+649:
+0	2	11	13	1	8	15	7	15
+15	0	7	8	6	4	3	10	11
+12	15	0	15	13	15	6	1	10
+4	8	9	0	10	7	3	6	13
+9	8	14	4	0	13	9	7	3
+12	7	8	5	3	0	11	1	6
+4	3	5	3	9	10	0	5	7
+12	12	7	1	4	11	12	0	12
+6	7	10	6	10	1	9	1	0
+
+Vertex Weights:
+10	1	2	13	2	1	13	12	14
+Capacity: 16
+
+Profit: 67
+Path: [0, 4, 8, 5, 7, 3, 6, 2]
+Calculation Time: 9.909308195114136
+
+
+650:
+0	15	1	14	7	14	10	10	4
+1	0	7	13	7	6	1	13	13
+3	8	0	1	7	2	1	4	8
+5	9	13	0	10	8	9	2	4
+4	11	8	2	0	10	12	2	5
+11	9	3	3	7	0	10	13	11
+2	15	9	15	10	12	0	13	3
+15	7	3	13	10	12	12	0	9
+3	7	6	15	2	6	10	15	0
+
+Vertex Weights:
+15	2	15	2	15	9	5	2	2
+Capacity: 18
+
+Profit: 65
+Path: [0, 2, 5, 2, 6, 8, 4, 3, 7]
+Calculation Time: 15.381658792495728
+
+
+651:
+0	11	8	3	10	4	1	2	4
+6	0	6	9	8	5	2	1	11
+15	3	0	13	11	5	1	7	15
+2	10	7	0	13	3	5	11	2
+6	1	11	7	0	13	14	12	12
+14	15	4	15	5	0	10	13	14
+11	2	11	10	8	8	0	11	5
+11	3	5	15	4	12	12	0	4
+9	5	5	14	13	9	5	9	0
+
+Vertex Weights:
+13	8	13	4	2	14	9	10	5
+Capacity: 24
+
+Profit: 78
+Path: [0, 3, 8, 2, 6, 1, 7, 4, 1, 5]
+Calculation Time: 20.550599813461304
+
+
+652:
+0	1	3	3	9	6	9	5	5
+9	0	8	6	12	9	3	14	10
+6	14	0	8	5	2	10	10	1
+10	7	13	0	7	12	4	7	1
+12	14	5	10	0	4	9	13	14
+5	3	1	4	15	0	15	5	2
+4	6	4	1	3	9	0	9	7
+10	15	9	1	5	8	7	0	13
+10	3	12	14	2	6	15	4	0
+
+Vertex Weights:
+9	2	14	9	10	4	11	5	10
+Capacity: 19
+
+Profit: 74
+Path: [0, 1, 6, 3, 8, 4, 5, 2, 8, 7]
+Calculation Time: 6.946736574172974
+
+
+653:
+0	8	12	6	7	13	6	3	13
+8	0	7	5	15	7	2	4	13
+10	13	0	4	6	9	15	10	8
+5	10	10	0	11	12	8	3	1
+11	8	2	5	0	12	3	5	12
+8	4	7	12	1	0	15	1	5
+13	9	4	7	2	4	0	4	8
+14	12	15	11	3	13	15	0	15
+2	7	8	1	9	11	2	12	0
+
+Vertex Weights:
+2	13	10	11	6	4	4	13	10
+Capacity: 16
+
+Profit: 56
+Path: [0, 7, 4, 2, 3, 8, 6]
+Calculation Time: 8.135653972625732
+
+
+654:
+0	7	8	10	10	3	7	11	6
+13	0	9	12	5	8	7	7	10
+6	12	0	9	1	4	2	5	10
+1	7	9	0	12	12	6	8	6
+10	10	1	8	0	6	13	2	4
+8	3	4	2	5	0	5	1	4
+8	7	10	4	13	1	0	5	4
+4	1	8	9	7	15	4	0	1
+14	5	4	2	10	7	12	12	0
+
+Vertex Weights:
+11	12	15	3	13	7	13	7	12
+Capacity: 9
+
+Profit: 52
+Path: [0, 5, 7, 8, 2]
+Calculation Time: 4.505014657974243
+
+
+655:
+0	1	7	13	9	2	8	8	3
+12	0	3	15	12	15	5	13	2
+1	1	0	12	1	12	12	9	13
+14	15	14	0	12	1	8	15	3
+3	11	14	6	0	14	5	8	15
+11	13	11	6	10	0	4	14	6
+9	15	1	13	11	8	0	3	9
+12	14	2	15	13	12	10	0	13
+10	8	14	10	10	4	2	15	0
+
+Vertex Weights:
+13	5	3	10	8	5	8	13	8
+Capacity: 21
+
+Profit: 73
+Path: [0, 1, 8, 6, 7, 2, 4, 3, 5]
+Calculation Time: 6.856577634811401
+
+
+656:
+0	5	1	15	4	2	3	7	14
+7	0	14	12	7	11	15	11	15
+8	5	0	7	12	7	12	10	1
+11	9	11	0	12	6	15	15	15
+15	5	12	14	0	2	8	9	11
+2	1	4	4	4	0	11	3	1
+9	8	5	11	3	8	0	2	6
+1	12	9	4	15	6	9	0	9
+6	4	5	7	12	14	14	7	0
+
+Vertex Weights:
+14	1	9	2	4	1	15	2	12
+Capacity: 19
+
+Profit: 58
+Path: [0, 6, 4, 5, 7, 0, 2, 8, 1]
+Calculation Time: 18.212979793548584
+
+
+657:
+0	11	5	4	3	13	14	4	10
+15	0	12	8	12	7	2	8	8
+1	14	0	5	14	2	14	9	12
+2	8	10	0	4	7	6	9	8
+1	10	6	5	0	1	12	5	5
+12	6	14	14	2	0	6	1	2
+8	3	5	6	12	11	0	10	3
+9	1	9	10	5	9	9	0	12
+3	15	14	11	4	13	5	15	0
+
+Vertex Weights:
+3	12	11	13	6	3	9	8	6
+Capacity: 14
+
+Profit: 54
+Path: [0, 3, 4, 5, 7, 1, 6]
+Calculation Time: 8.188992977142334
+
+
+658:
+0	15	5	13	4	3	2	2	15
+15	0	9	14	5	10	12	4	6
+14	15	0	3	4	8	11	1	8
+2	5	8	0	13	15	4	1	7
+6	11	5	2	0	4	6	1	13
+8	6	15	14	7	0	11	8	7
+6	3	3	9	9	5	0	4	2
+10	4	3	7	15	3	15	0	8
+3	11	15	8	1	3	11	10	0
+
+Vertex Weights:
+1	14	4	5	3	8	4	9	13
+Capacity: 19
+
+Profit: 57
+Path: [0, 6, 8, 4, 3, 7, 1, 7, 5]
+Calculation Time: 17.247822761535645
+
+
+659:
+0	5	7	15	8	11	6	6	12
+1	0	14	6	11	11	1	6	7
+8	8	0	6	2	4	14	14	2
+7	13	15	0	4	2	1	2	5
+12	7	9	15	0	12	4	13	3
+1	6	2	15	8	0	4	14	5
+14	10	11	9	8	10	0	2	14
+12	10	8	11	8	1	2	0	1
+3	13	3	7	10	12	4	4	0
+
+Vertex Weights:
+2	10	4	12	5	7	7	6	5
+Capacity: 19
+
+Profit: 53
+Path: [0, 1, 3, 6, 7, 5, 2, 4]
+Calculation Time: 13.61209511756897
+
+
+660:
+0	15	5	3	9	11	5	8	14
+7	0	9	1	4	6	7	15	2
+4	15	0	2	5	15	1	2	9
+7	14	11	0	12	1	10	14	3
+8	13	4	15	0	1	7	9	11
+1	3	7	2	7	0	6	5	6
+9	6	14	4	8	4	0	2	6
+4	2	15	1	5	12	7	0	11
+4	8	13	13	13	11	9	4	0
+
+Vertex Weights:
+10	11	3	1	11	1	5	15	13
+Capacity: 15
+
+Profit: 59
+Path: [0, 2, 6, 7, 3, 5, 1, 8]
+Calculation Time: 8.150853395462036
+
+
+661:
+0	9	11	3	9	13	15	9	4
+7	0	8	9	6	7	3	7	4
+14	15	0	2	7	5	5	7	14
+9	11	3	0	2	7	13	14	11
+12	8	13	5	0	4	12	15	5
+8	11	13	1	1	0	10	8	12
+14	9	9	5	1	4	0	11	14
+14	1	7	13	10	12	1	0	1
+14	7	5	4	2	7	5	13	0
+
+Vertex Weights:
+2	6	15	14	8	15	4	15	8
+Capacity: 23
+
+Profit: 83
+Path: [0, 8, 4, 5, 3, 2, 7, 1]
+Calculation Time: 18.295845985412598
+
+
+662:
+0	14	3	5	15	2	1	2	8
+11	0	11	2	12	4	9	6	10
+7	2	0	8	12	4	10	1	14
+7	9	3	0	1	8	8	8	4
+15	14	15	2	0	12	10	5	11
+15	11	3	12	3	0	10	15	15
+6	6	3	12	7	5	0	9	1
+8	9	5	8	4	11	4	0	4
+10	14	10	6	3	13	4	4	0
+
+Vertex Weights:
+2	9	2	4	2	6	10	1	12
+Capacity: 15
+
+Profit: 41
+Path: [0, 6, 8, 6, 2, 1, 5]
+Calculation Time: 10.940462827682495
+
+
+663:
+0	4	11	5	14	3	4	5	15
+13	0	5	11	8	2	2	12	6
+4	4	0	12	15	8	3	13	14
+13	4	14	0	9	14	10	12	11
+3	14	11	11	0	5	9	4	2
+14	11	12	12	5	0	8	4	13
+11	5	11	2	7	6	0	11	11
+7	1	10	1	5	8	10	0	11
+10	14	15	12	9	11	15	13	0
+
+Vertex Weights:
+6	7	2	4	5	7	2	3	5
+Capacity: 20
+
+Profit: 37
+Path: [0, 7, 3, 1, 5, 4, 8]
+Calculation Time: 13.815422773361206
+
+
+664:
+0	1	13	9	4	15	9	5	8
+1	0	6	14	15	5	3	8	14
+10	10	0	9	5	2	10	5	6
+1	8	13	0	13	4	4	14	7
+13	3	4	8	0	1	12	3	6
+6	5	3	2	4	0	14	13	8
+9	5	9	7	3	14	0	11	12
+7	12	4	9	12	15	7	0	3
+6	15	14	6	2	2	13	6	0
+
+Vertex Weights:
+7	4	4	12	3	15	11	15	12
+Capacity: 14
+
+Profit: 65
+Path: [0, 1, 0, 7, 8, 5, 3]
+Calculation Time: 8.237704753875732
+
+
+665:
+0	15	15	4	5	13	6	7	6
+6	0	5	6	2	2	5	12	6
+1	3	0	1	14	4	8	11	14
+6	13	6	0	11	6	15	10	5
+15	5	6	4	0	4	13	1	8
+12	10	3	9	4	0	7	1	3
+5	11	13	15	12	5	0	2	5
+14	2	10	1	6	13	12	0	6
+9	13	1	9	1	6	2	10	0
+
+Vertex Weights:
+4	7	13	1	13	6	5	6	12
+Capacity: 16
+
+Profit: 62
+Path: [0, 4, 7, 1, 5, 8, 2, 3]
+Calculation Time: 12.7626211643219
+
+
+666:
+0	10	8	5	14	11	8	14	1
+10	0	14	5	4	13	7	3	12
+1	8	0	9	10	13	3	15	7
+10	7	1	0	2	5	1	10	10
+1	10	9	4	0	8	1	1	8
+8	2	14	2	14	0	3	14	12
+9	6	11	1	9	1	0	1	3
+12	7	8	11	11	13	11	0	1
+8	8	13	6	14	14	3	1	0
+
+Vertex Weights:
+8	10	7	2	11	13	14	8	8
+Capacity: 8
+
+Profit: 53
+Path: [0, 8, 6, 5, 1]
+Calculation Time: 4.505013465881348
+
+
+667:
+0	14	14	1	14	1	9	9	5
+5	0	4	15	3	9	15	4	13
+2	5	0	15	12	6	7	12	8
+10	1	9	0	2	12	6	9	7
+8	2	5	3	0	13	3	15	7
+1	1	10	7	1	0	2	13	12
+6	13	6	1	2	6	0	9	11
+4	12	14	9	14	6	6	0	6
+11	6	1	14	7	3	14	6	0
+
+Vertex Weights:
+8	7	5	7	14	1	11	13	5
+Capacity: 20
+
+Profit: 71
+Path: [0, 5, 4, 6, 3, 1, 7, 8, 2]
+Calculation Time: 9.575155019760132
+
+
+668:
+0	12	5	11	1	7	13	1	12
+12	0	6	11	10	14	14	13	2
+4	11	0	1	12	12	2	8	4
+12	12	4	0	15	8	13	6	15
+1	8	6	2	0	9	4	4	10
+4	6	6	13	12	0	2	2	9
+7	15	4	5	3	10	0	10	3
+2	15	15	12	9	4	11	0	5
+5	1	12	12	8	4	14	11	0
+
+Vertex Weights:
+2	1	4	10	13	3	10	6	9
+Capacity: 16
+
+Profit: 55
+Path: [0, 7, 0, 4, 3, 2, 6, 8, 1]
+Calculation Time: 12.747813701629639
+
+
+669:
+0	4	2	8	2	5	15	1	11
+15	0	8	11	12	1	3	11	4
+4	8	0	9	2	15	10	6	2
+5	13	10	0	8	7	12	14	5
+8	5	11	9	0	15	10	2	1
+5	12	4	2	3	0	10	4	9
+11	1	4	7	5	6	0	4	6
+10	5	7	11	7	5	7	0	11
+9	6	10	6	15	13	6	5	0
+
+Vertex Weights:
+2	3	6	2	6	1	2	11	10
+Capacity: 18
+
+Profit: 41
+Path: [0, 2, 8, 6, 1, 5, 4, 7]
+Calculation Time: 18.160372018814087
+
+
+670:
+0	8	5	4	12	3	10	8	1
+1	0	1	4	11	2	3	10	1
+7	4	0	11	7	5	4	8	15
+9	4	14	0	2	12	15	12	1
+6	5	10	14	0	8	8	3	12
+1	4	15	8	6	0	12	7	2
+8	14	12	6	8	1	0	2	14
+14	13	6	12	4	12	12	0	14
+3	15	13	8	12	2	11	13	0
+
+Vertex Weights:
+14	4	13	11	5	1	7	3	8
+Capacity: 20
+
+Profit: 63
+Path: [0, 8, 5, 0, 3, 4, 1, 2, 6]
+Calculation Time: 16.4593026638031
+
+
+671:
+0	13	11	15	1	5	3	1	14
+9	0	7	1	2	13	3	4	7
+14	5	0	2	7	2	4	14	2
+11	7	4	0	1	14	12	14	3
+13	2	12	15	0	12	3	11	12
+6	4	6	15	5	0	4	13	7
+7	10	15	2	5	8	0	14	7
+10	1	13	11	5	11	11	0	2
+11	12	4	7	13	4	13	1	0
+
+Vertex Weights:
+12	10	10	5	9	13	13	5	6
+Capacity: 22
+
+Profit: 83
+Path: [0, 7, 8, 2, 5, 1, 4, 6, 3]
+Calculation Time: 6.847541809082031
+
+
+672:
+0	14	12	9	10	3	8	15	1
+13	0	4	9	15	14	3	9	8
+12	4	0	9	7	7	11	7	12
+10	9	10	0	2	15	10	14	11
+7	15	8	6	0	10	12	5	15
+6	7	12	1	7	0	11	4	3
+6	10	15	15	3	2	0	7	6
+13	12	5	10	2	4	6	0	7
+6	3	9	7	2	12	3	13	0
+
+Vertex Weights:
+9	5	2	8	8	4	2	14	9
+Capacity: 24
+
+Profit: 61
+Path: [0, 8, 6, 5, 3, 4, 7, 2, 1]
+Calculation Time: 6.787528038024902
+
+
+673:
+0	1	6	2	5	10	6	7	14
+11	0	3	4	10	2	12	6	11
+11	10	0	7	15	7	8	13	7
+4	1	13	0	10	14	2	2	2
+13	4	1	14	0	9	5	15	1
+7	5	4	15	4	0	2	12	8
+14	14	1	2	4	5	0	8	5
+4	8	14	8	6	13	7	0	12
+1	4	8	5	15	2	4	10	0
+
+Vertex Weights:
+10	6	1	8	15	3	8	2	13
+Capacity: 15
+
+Profit: 65
+Path: [0, 1, 5, 6, 4, 8, 0, 3, 7]
+Calculation Time: 15.481173515319824
+
+
+674:
+0	15	7	1	2	6	1	8	8
+12	0	1	3	8	3	12	3	13
+2	6	0	15	15	6	6	13	6
+13	4	3	0	1	2	1	8	5
+2	4	10	13	0	13	4	15	7
+10	6	12	5	11	0	15	13	3
+4	4	10	11	8	4	0	1	14
+10	10	12	9	12	10	5	0	12
+12	6	9	12	13	5	11	11	0
+
+Vertex Weights:
+13	5	10	10	11	8	10	9	4
+Capacity: 12
+
+Profit: 68
+Path: [0, 3, 4, 1, 2, 0, 6, 7]
+Calculation Time: 9.94223666191101
+
+
+675:
+0	2	1	6	5	1	7	7	12
+8	0	6	8	11	2	2	12	8
+14	14	0	5	13	2	11	15	15
+13	15	9	0	9	10	8	2	4
+6	12	9	6	0	12	4	15	10
+6	15	5	3	2	0	3	5	1
+6	9	5	4	8	2	0	11	14
+7	4	3	10	15	14	12	0	2
+7	2	5	7	4	3	6	7	0
+
+Vertex Weights:
+4	12	7	5	4	5	15	5	8
+Capacity: 22
+
+Profit: 65
+Path: [0, 2, 3, 7, 8, 1, 5, 6, 5, 4]
+Calculation Time: 7.813586950302124
+
+
+676:
+0	7	15	5	6	11	11	1	4
+11	0	10	7	11	11	7	14	4
+11	10	0	6	14	1	8	3	1
+11	1	13	0	15	4	2	10	14
+9	2	15	6	0	6	10	6	8
+4	9	4	15	1	0	9	11	8
+5	8	2	2	7	1	0	6	6
+4	11	6	8	9	10	2	0	2
+1	10	3	5	4	15	15	9	0
+
+Vertex Weights:
+15	13	8	8	6	1	3	11	1
+Capacity: 13
+
+Profit: 65
+Path: [0, 7, 6, 3, 6, 2, 5, 4, 1]
+Calculation Time: 9.05056619644165
+
+
+677:
+0	9	3	14	10	5	9	2	15
+4	0	11	14	10	12	14	1	1
+2	9	0	2	6	7	2	10	1
+11	1	5	0	10	1	7	10	7
+15	1	13	6	0	14	3	2	9
+6	14	9	13	13	0	13	2	1
+3	7	9	13	2	6	0	8	10
+13	15	15	8	14	9	8	0	15
+3	15	7	15	3	13	7	12	0
+
+Vertex Weights:
+15	6	5	14	9	11	2	5	6
+Capacity: 14
+
+Profit: 71
+Path: [0, 2, 3, 5, 8, 4, 1, 7]
+Calculation Time: 7.25516152381897
+
+
+678:
+0	11	5	12	1	15	11	13	5
+11	0	10	15	7	13	12	4	3
+1	7	0	7	9	8	1	12	2
+2	10	5	0	3	7	11	14	6
+2	14	14	4	0	5	1	1	14
+2	2	4	7	13	0	8	12	10
+12	2	1	3	9	1	0	7	2
+10	9	14	2	6	14	5	0	4
+9	11	15	9	11	11	4	3	0
+
+Vertex Weights:
+14	13	3	7	15	1	2	12	6
+Capacity: 12
+
+Profit: 69
+Path: [0, 4, 6, 1, 8, 7, 3]
+Calculation Time: 9.011029481887817
+
+
+679:
+0	3	7	2	1	10	4	5	4
+8	0	1	14	9	6	4	6	13
+4	1	0	3	12	10	8	4	6
+12	9	3	0	3	3	7	12	11
+9	1	4	6	0	8	8	11	13
+9	2	9	11	2	0	3	10	5
+5	4	7	13	15	12	0	5	3
+10	7	14	14	2	3	6	0	13
+11	15	8	1	8	11	7	5	0
+
+Vertex Weights:
+10	10	1	6	4	9	15	3	5
+Capacity: 23
+
+Profit: 63
+Path: [0, 7, 4, 1, 6, 8, 3, 5, 1, 2]
+Calculation Time: 10.468617916107178
+
+
+680:
+0	6	14	6	1	11	4	13	8
+5	0	4	14	15	10	13	1	9
+12	8	0	2	11	14	14	4	15
+3	11	1	0	9	11	15	4	15
+11	3	7	2	0	10	1	6	6
+13	11	2	5	10	0	8	5	5
+6	2	13	10	10	6	0	14	10
+13	6	5	11	12	10	9	0	5
+2	3	7	9	1	1	5	4	0
+
+Vertex Weights:
+14	6	12	4	6	3	11	15	4
+Capacity: 13
+
+Profit: 71
+Path: [0, 4, 6, 1, 7, 8, 5, 2]
+Calculation Time: 7.1961681842803955
+
+
+681:
+0	9	6	11	15	9	5	8	3
+7	0	4	6	3	13	1	5	15
+1	14	0	13	8	4	4	12	12
+3	12	4	0	4	6	2	4	8
+3	3	11	11	0	12	13	15	15
+1	5	5	5	15	0	13	7	10
+4	5	6	3	12	11	0	1	8
+6	5	10	13	12	11	2	0	3
+13	12	7	1	4	15	7	2	0
+
+Vertex Weights:
+8	4	11	8	14	15	8	11	15
+Capacity: 20
+
+Profit: 80
+Path: [0, 8, 3, 2, 5, 1, 6, 7]
+Calculation Time: 17.151446104049683
+
+
+682:
+0	2	13	8	2	15	15	2	9
+14	0	14	12	13	3	7	15	8
+15	11	0	10	11	14	3	3	6
+6	4	14	0	2	4	1	1	6
+8	12	10	8	0	8	11	11	10
+10	4	4	14	13	0	8	15	13
+2	6	9	14	9	12	0	4	14
+6	11	15	14	5	4	10	0	7
+5	1	8	11	7	9	7	13	0
+
+Vertex Weights:
+3	7	4	15	10	8	15	8	15
+Capacity: 27
+
+Profit: 81
+Path: [0, 4, 3, 6, 7, 8, 1, 5]
+Calculation Time: 20.691720247268677
+
+
+683:
+0	8	2	6	8	3	2	15	13
+14	0	9	14	2	3	9	9	3
+7	7	0	4	2	10	3	1	9
+1	12	13	0	12	9	15	10	15
+15	9	11	15	0	12	3	11	8
+4	13	9	9	4	0	9	11	10
+15	12	7	3	5	11	0	12	1
+3	2	13	2	6	12	14	0	4
+8	15	15	8	2	4	7	4	0
+
+Vertex Weights:
+8	1	2	15	6	11	2	8	9
+Capacity: 12
+
+Profit: 50
+Path: [0, 2, 7, 3, 0, 6, 8, 4]
+Calculation Time: 6.247778654098511
+
+
+684:
+0	3	14	12	3	10	2	6	15
+12	0	7	2	4	13	9	13	3
+2	11	0	14	5	2	4	14	7
+9	8	14	0	10	7	4	14	15
+5	8	8	2	0	12	7	7	2
+9	3	13	5	1	0	12	1	13
+4	5	13	12	6	13	0	13	6
+2	14	1	3	8	12	8	0	2
+13	4	8	9	7	7	14	5	0
+
+Vertex Weights:
+7	6	14	4	1	7	7	5	9
+Capacity: 14
+
+Profit: 48
+Path: [0, 1, 8, 7, 2, 5]
+Calculation Time: 7.153610467910767
+
+
+685:
+0	13	4	2	7	11	11	6	1
+11	0	10	5	9	14	2	5	10
+9	11	0	14	13	13	2	4	9
+13	1	14	0	1	14	6	13	10
+15	14	6	4	0	12	5	15	15
+9	14	13	3	11	0	10	6	7
+15	9	13	12	6	6	0	2	4
+3	2	1	11	12	9	11	0	9
+2	5	11	8	2	5	1	8	0
+
+Vertex Weights:
+8	14	9	7	11	9	9	9	12
+Capacity: 16
+
+Profit: 79
+Path: [0, 8, 4, 3, 1, 6, 7, 2]
+Calculation Time: 14.637295961380005
+
+
+686:
+0	12	5	5	1	15	15	12	8
+6	0	12	10	8	2	14	2	15
+6	5	0	8	3	14	15	15	12
+1	14	14	0	14	12	6	15	12
+10	1	7	7	0	10	11	15	7
+15	6	7	6	4	0	11	14	12
+12	15	1	8	11	2	0	7	10
+4	14	11	13	15	4	9	0	6
+11	3	11	6	14	10	14	13	0
+
+Vertex Weights:
+13	5	14	2	14	14	11	1	5
+Capacity: 18
+
+Profit: 73
+Path: [0, 4, 1, 5, 3, 6, 2]
+Calculation Time: 8.951184511184692
+
+
+687:
+0	13	4	13	11	14	7	6	2
+1	0	11	5	12	13	9	6	14
+12	12	0	14	9	7	4	9	3
+11	5	15	0	9	6	7	9	6
+3	8	10	1	0	5	1	10	12
+3	5	15	1	1	0	3	13	5
+13	8	1	3	4	15	0	12	13
+15	12	8	11	1	11	7	0	4
+1	13	2	2	9	11	9	6	0
+
+Vertex Weights:
+9	1	13	11	9	9	15	14	2
+Capacity: 19
+
+Profit: 82
+Path: [0, 8, 7, 4, 6, 2, 5, 3]
+Calculation Time: 15.40787124633789
+
+
+688:
+0	13	11	15	10	9	7	5	13
+3	0	2	10	7	8	7	4	13
+3	5	0	8	8	6	4	4	12
+10	11	4	0	2	15	14	13	7
+15	7	14	10	0	11	1	8	6
+8	4	6	8	7	0	12	11	9
+6	10	15	4	11	4	0	10	7
+15	8	3	8	11	10	15	0	4
+14	14	5	9	7	3	6	8	0
+
+Vertex Weights:
+5	14	10	12	6	5	7	8	8
+Capacity: 27
+
+Profit: 69
+Path: [0, 7, 8, 5, 1, 2, 6, 3]
+Calculation Time: 18.772123098373413
+
+
+689:
+0	3	8	7	2	4	13	11	6
+2	0	6	5	1	2	2	14	6
+12	1	0	5	14	14	7	6	13
+15	12	11	0	1	1	7	2	12
+2	7	4	14	0	13	10	11	14
+10	11	8	7	14	0	10	13	1
+7	12	9	4	2	4	0	4	11
+15	7	10	11	7	2	6	0	2
+11	5	12	4	1	4	8	5	0
+
+Vertex Weights:
+5	13	8	1	11	4	5	13	11
+Capacity: 16
+
+Profit: 70
+Path: [0, 4, 2, 1, 6, 7, 5, 8]
+Calculation Time: 13.419020652770996
+
+
+690:
+0	8	15	6	2	4	4	13	11
+9	0	5	9	15	1	8	7	7
+12	1	0	9	15	5	11	7	11
+1	5	5	0	2	11	13	13	5
+6	11	6	15	0	7	3	1	8
+2	6	6	8	3	0	7	9	12
+4	14	10	3	9	1	0	10	15
+5	9	10	6	13	8	7	0	3
+4	6	6	3	14	4	14	12	0
+
+Vertex Weights:
+5	15	12	4	13	14	3	4	9
+Capacity: 20
+
+Profit: 76
+Path: [0, 4, 7, 8, 3, 2, 1, 5]
+Calculation Time: 19.178844928741455
+
+
+691:
+0	2	1	3	6	6	14	11	1
+15	0	12	4	14	10	5	2	7
+6	7	0	5	6	9	4	6	3
+1	14	4	0	4	2	6	7	14
+2	10	10	7	0	7	10	15	10
+12	7	13	1	7	0	10	14	5
+13	4	6	1	8	1	0	9	3
+13	5	3	12	15	12	3	0	12
+8	13	13	13	3	4	15	6	0
+
+Vertex Weights:
+8	10	13	4	12	5	8	11	12
+Capacity: 13
+
+Profit: 66
+Path: [0, 8, 4, 0, 1, 7, 2]
+Calculation Time: 10.939462423324585
+
+
+692:
+0	9	10	1	9	5	3	5	12
+4	0	7	13	9	3	12	6	5
+9	3	0	9	14	1	5	7	1
+11	1	3	0	3	11	13	5	2
+2	12	12	4	0	15	5	3	10
+4	1	11	7	3	0	4	14	6
+12	6	9	7	13	6	0	3	11
+6	3	1	3	6	1	11	0	7
+12	9	9	14	7	13	13	1	0
+
+Vertex Weights:
+8	15	6	15	3	15	7	3	4
+Capacity: 12
+
+Profit: 69
+Path: [0, 3, 4, 7, 2, 8, 7, 5, 1]
+Calculation Time: 10.768603801727295
+
+
+693:
+0	4	5	14	10	7	12	1	8
+15	0	12	5	7	14	14	3	4
+9	6	0	1	4	14	12	5	3
+6	10	2	0	2	14	15	15	3
+3	7	3	5	0	1	10	8	2
+9	13	13	14	2	0	11	3	14
+3	5	1	9	6	5	0	13	12
+1	15	2	6	3	12	10	0	10
+5	5	10	1	13	11	4	5	0
+
+Vertex Weights:
+11	11	8	2	4	3	4	4	2
+Capacity: 14
+
+Profit: 43
+Path: [0, 1, 7, 2, 3, 4, 5]
+Calculation Time: 9.865887880325317
+
+
+694:
+0	1	8	14	6	9	7	15	8
+7	0	5	15	15	1	14	14	13
+6	3	0	5	7	6	13	4	13
+6	9	10	0	2	3	8	7	9
+13	3	11	12	0	8	15	4	3
+8	11	7	5	3	0	4	3	10
+3	15	2	13	4	9	0	12	15
+10	5	14	13	1	3	10	0	2
+12	5	2	7	4	12	12	13	0
+
+Vertex Weights:
+3	14	8	6	11	11	4	6	5
+Capacity: 24
+
+Profit: 68
+Path: [0, 1, 5, 7, 8, 2, 3, 4, 1, 5, 6]
+Calculation Time: 6.927518129348755
+
+
+695:
+0	8	3	11	15	3	5	8	1
+11	0	15	11	5	4	7	12	1
+2	4	0	3	9	12	6	7	11
+14	14	2	0	2	10	6	14	5
+2	9	9	14	0	13	5	5	4
+8	13	15	6	11	0	12	2	12
+7	12	10	12	15	14	0	9	2
+10	13	7	8	5	15	9	0	8
+14	8	12	7	1	2	14	7	0
+
+Vertex Weights:
+2	8	15	6	9	11	10	1	10
+Capacity: 23
+
+Profit: 71
+Path: [0, 8, 5, 3, 2, 1, 8, 4, 6]
+Calculation Time: 23.634947776794434
+
+
+696:
+0	9	5	6	11	6	12	14	8
+3	0	4	3	8	4	7	5	4
+2	6	0	15	9	11	13	15	7
+13	15	11	0	9	1	8	14	9
+2	5	11	6	0	5	5	7	5
+1	5	1	3	1	0	9	15	7
+9	3	2	12	1	8	0	10	7
+7	15	12	12	7	14	14	0	5
+9	8	9	3	13	6	9	13	0
+
+Vertex Weights:
+1	2	13	5	11	14	8	3	9
+Capacity: 28
+
+Profit: 63
+Path: [0, 8, 3, 5, 4, 6, 2, 1]
+Calculation Time: 40.67026495933533
+
+
+697:
+0	13	4	9	14	6	6	11	13
+14	0	2	12	6	4	13	9	4
+1	15	0	7	2	12	6	11	11
+15	2	3	0	1	10	3	12	12
+5	4	6	5	0	11	7	15	1
+9	8	2	13	1	0	11	7	12
+7	13	12	2	10	8	0	4	14
+2	6	3	1	8	13	3	0	14
+13	2	5	4	13	15	2	1	0
+
+Vertex Weights:
+6	10	9	12	11	13	13	6	5
+Capacity: 14
+
+Profit: 72
+Path: [0, 5, 4, 8, 7, 3, 1, 2]
+Calculation Time: 8.992388725280762
+
+
+698:
+0	3	11	9	11	11	5	5	2
+14	0	12	5	1	13	12	6	11
+8	1	0	4	13	6	5	12	8
+13	10	10	0	9	4	1	3	8
+9	4	1	6	0	15	7	3	5
+11	10	12	14	11	0	3	11	9
+5	3	14	12	6	6	0	4	14
+2	12	4	12	9	12	14	0	13
+1	9	9	11	2	1	3	7	0
+
+Vertex Weights:
+7	12	4	13	8	6	14	15	13
+Capacity: 11
+
+Profit: 64
+Path: [0, 8, 5, 6, 1, 4, 2]
+Calculation Time: 6.2664101123809814
+
+
+699:
+0	3	12	3	2	5	1	5	6
+2	0	13	10	15	1	13	10	5
+15	2	0	13	13	10	10	12	15
+7	3	7	0	6	3	1	15	12
+12	7	8	12	0	10	3	7	11
+3	2	11	10	12	0	15	9	11
+7	5	8	5	6	10	0	12	10
+1	3	3	7	7	12	9	0	13
+15	14	13	2	5	9	8	6	0
+
+Vertex Weights:
+14	6	12	11	15	10	7	13	2
+Capacity: 22
+
+Profit: 88
+Path: [0, 4, 7, 2, 1, 5, 0, 3, 6]
+Calculation Time: 23.605459213256836
+
+
+700:
+0	4	9	8	15	7	8	11	10
+5	0	4	5	7	6	12	5	10
+5	9	0	2	5	9	13	1	11
+8	7	9	0	11	11	15	13	2
+3	2	9	9	0	5	4	11	6
+2	1	2	4	14	0	11	8	10
+14	12	14	2	1	9	0	3	7
+5	6	3	14	4	2	11	0	9
+12	9	5	15	13	14	12	14	0
+
+Vertex Weights:
+9	5	5	4	15	8	6	12	7
+Capacity: 15
+
+Profit: 49
+Path: [0, 5, 2, 7, 4]
+Calculation Time: 5.461909294128418
 
 

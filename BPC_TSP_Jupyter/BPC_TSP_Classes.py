@@ -86,7 +86,6 @@ class BPC_TSP_Graph:
                 dist_through_n = g[src, n] + g[n, dest]
                 if dist_through_n < g[src, dest]:
                     g[src, dest] = dist_through_n
-                    # BOOKMARK TODO: Investigate if this part is correct; particularly the append part
                     
                     pstart = between_paths[(src, n)] if (src, n) in between_paths else []
                     pend = between_paths[(n, dest)] if (n, dest) in between_paths else []

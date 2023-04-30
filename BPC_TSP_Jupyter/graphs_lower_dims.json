@@ -6,7 +6,7 @@
     [
         {
             "num_verts": 3,
-            "percent_unconnected": 25,
+            "percent_unconnected": 0,
             "max_edge_weight": 15,
             "max_vert_weight": 15,
             "cap_range":
@@ -18,13 +18,13 @@
                     "upper_multiplier": 1.25
                 }
             },
-            "num_generations": 10,
+            "num_generations": 100,
             "outputs": null,
             "start": null
         },
         {
             "num_verts": 4,
-            "percent_unconnected": 25,
+            "percent_unconnected": 0,
             "max_edge_weight": 15,
             "max_vert_weight": 15,
             "cap_range":
@@ -36,13 +36,13 @@
                     "upper_multiplier": 1.25
                 }
             },
-            "num_generations": 10,
+            "num_generations": 100,
             "outputs": null,
             "start": null
         },
         {
             "num_verts": 5,
-            "percent_unconnected": 25,
+            "percent_unconnected": 0,
             "max_edge_weight": 15,
             "max_vert_weight": 15,
             "cap_range":
@@ -54,13 +54,13 @@
                     "upper_multiplier": 1.25
                 }
             },
-            "num_generations": 10,
+            "num_generations": 100,
             "outputs": null,
             "start": null
         },
         {
             "num_verts": 6,
-            "percent_unconnected": 25,
+            "percent_unconnected": 0,
             "max_edge_weight": 15,
             "max_vert_weight": 15,
             "cap_range":
@@ -72,13 +72,13 @@
                     "upper_multiplier": 1.25
                 }
             },
-            "num_generations": 10,
+            "num_generations": 100,
             "outputs": null,
             "start": null
         },
         {
             "num_verts": 7,
-            "percent_unconnected": 25,
+            "percent_unconnected": 0,
             "max_edge_weight": 15,
             "max_vert_weight": 15,
             "cap_range":
@@ -90,13 +90,13 @@
                     "upper_multiplier": 1.25
                 }
             },
-            "num_generations": 10,
+            "num_generations": 100,
             "outputs": null,
             "start": null
         },
         {
             "num_verts": 8,
-            "percent_unconnected": 25,
+            "percent_unconnected": 0,
             "max_edge_weight": 15,
             "max_vert_weight": 15,
             "cap_range":
@@ -108,13 +108,13 @@
                     "upper_multiplier": 1.25
                 }
             },
-            "num_generations": 10,
+            "num_generations": 100,
             "outputs": null,
             "start": null
         },
         {
             "num_verts": 9,
-            "percent_unconnected": 25,
+            "percent_unconnected": 0,
             "max_edge_weight": 15,
             "max_vert_weight": 15,
             "cap_range":
@@ -126,7 +126,7 @@
                     "upper_multiplier": 1.25
                 }
             },
-            "num_generations": 10,
+            "num_generations": 100,
             "outputs": null,
             "start": null
         }
